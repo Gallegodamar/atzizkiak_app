@@ -5,7 +5,12 @@ import { euskaraWords } from '../data';
 import { euskaraVerbs } from '../verbData';
 
 const allWordsData: WordPair[] = [...euskaraWords, ...euskaraVerbs];
-const OFFICIAL_SUFFIXES = ["kide", "tegi", "kor", "tasun", "keria"];
+const OFFICIAL_SUFFIXES = [
+  "alde", "aldi", "aro", "bera", "bide", "buru", "eman", "erraz", "ezin", 
+  "gailu", "garri", "gile", "gume", "kada", "keria", "keta", "kide", 
+  "kizun", "kor", "kuntza", "men", "mendu", "pen", "tasun", "tegi", 
+  "toki", "tze", "tzen", "zale"
+];
 
 const extractSuffixedFormsFromBase = (base: string, wordList: WordPair[]): SuffixedWord[] => {
   if (!base.trim()) return [];
