@@ -19000,7 +19000,7 @@ export const euskaraWords: WordPair[] = [
     {
         "id": 3800,
         "basque": "bakardade",
-        "spanish": "soledad"
+        "spanish": "iz. (Heg.) soledad; retiro, aislamiento; incomunicación"
     },
     {
         "id": 3801,
@@ -19080,7 +19080,7 @@ export const euskaraWords: WordPair[] = [
     {
         "id": 3816,
         "basque": "bakartegi",
-        "spanish": "monasterio, convento // lugar solitario/aislado; retiro"
+        "spanish": "1  iz. monasterio, convento // 2  iz. lugar solitario/aislado; retiro"
     },
     {
         "id": 3817,
@@ -39815,7 +39815,7 @@ export const euskaraWords: WordPair[] = [
     {
         "id": 7963,
         "basque": "egutegi",
-        "spanish": "calendario"
+        "spanish": "1  iz. calendario // 2  iz. (hed.) programa"
     },
     {
         "id": 7964,
@@ -64785,7 +64785,7 @@ export const euskaraWords: WordPair[] = [
     {
         "id": 12957,
         "basque": "haatik",
-        "spanish": "sin embargo"
+        "spanish": "lok. sin embargo"
     },
     {
         "id": 12958,
@@ -64795,7 +64795,7 @@ export const euskaraWords: WordPair[] = [
     {
         "id": 12959,
         "basque": "habe",
-        "spanish": "viga"
+        "spanish": "1  iz. viga, travesaño // 2  iz. (hed.) sostén, apoyo // 3  iz. árbol // 4  iz. (B) (beti mugatuan) la cruz // 5  iz. (Itsas.) bao"
     },
     {
         "id": 12960,
@@ -142261,5 +142261,4980 @@ export const euskaraWords: WordPair[] = [
         "id": 28452,
         "basque": "zuztartu, zuztar(tu), zuztartzen",
         "spanish": "da ad. arraigar"
+    },
+    {
+        "id": 28453,
+        "basque": "jipoi",
+        "spanish": "1  iz. [jantzia] chaqueta de lienzo grueso, chamarreta, jubón // 2  iz. [astinaldia] paliza, zurra, somanta, tunda // 3  iz. [jokoan, kirolean] fracaso, derrota; quiebra"
+    },
+    {
+        "id": 28454,
+        "basque": "jipoia berotu",
+        "spanish": "[norbaiti] azotar, zurrar"
+    },
+    {
+        "id": 28455,
+        "basque": "artega",
+        "spanish": "adb. (B) nervioso, -a, inquieto, -a; intranquilo, -a"
+    },
+    {
+        "id": 28456,
+        "basque": "nerbioso",
+        "spanish": "izond. (Heg.) (lgart.) nervioso, -a"
+    },
+    {
+        "id": 28457,
+        "basque": "geldigor",
+        "spanish": "izond. nervioso, -a, inquieto, -a"
+    },
+    {
+        "id": 28458,
+        "basque": "erregogor",
+        "spanish": ""
+    },
+    {
+        "id": 28459,
+        "basque": "espetxe-zigor",
+        "spanish": ""
+    },
+    {
+        "id": 28460,
+        "basque": "gantxigor",
+        "spanish": ""
+    },
+    {
+        "id": 28461,
+        "basque": "gor",
+        "spanish": ""
+    },
+    {
+        "id": 28462,
+        "basque": "gosagogor",
+        "spanish": ""
+    },
+    {
+        "id": 28463,
+        "basque": "heriotza-zigor",
+        "spanish": ""
+    },
+    {
+        "id": 28464,
+        "basque": "hostogogor",
+        "spanish": ""
+    },
+    {
+        "id": 28465,
+        "basque": "istingor",
+        "spanish": ""
+    },
+    {
+        "id": 28466,
+        "basque": "estipe",
+        "spanish": ""
+    },
+    {
+        "id": 28467,
+        "basque": "etxepe",
+        "spanish": ""
+    },
+    {
+        "id": 28468,
+        "basque": "Filipe",
+        "spanish": ""
+    },
+    {
+        "id": 28469,
+        "basque": "gaupe",
+        "spanish": ""
+    },
+    {
+        "id": 28470,
+        "basque": "gerizpe",
+        "spanish": ""
+    },
+    {
+        "id": 28471,
+        "basque": "giltzape",
+        "spanish": ""
+    },
+    {
+        "id": 28472,
+        "basque": "glope",
+        "spanish": ""
+    },
+    {
+        "id": 28473,
+        "basque": "gonape",
+        "spanish": ""
+    },
+    {
+        "id": 28474,
+        "basque": "gorape",
+        "spanish": ""
+    },
+    {
+        "id": 28475,
+        "basque": "gripe",
+        "spanish": ""
+    },
+    {
+        "id": 28476,
+        "basque": "Guadalupe",
+        "spanish": ""
+    },
+    {
+        "id": 28477,
+        "basque": "haizalpe",
+        "spanish": ""
+    },
+    {
+        "id": 28478,
+        "basque": "haizpe",
+        "spanish": ""
+    },
+    {
+        "id": 28479,
+        "basque": "hankape",
+        "spanish": ""
+    },
+    {
+        "id": 28480,
+        "basque": "harkaizpe",
+        "spanish": ""
+    },
+    {
+        "id": 28481,
+        "basque": "harpe",
+        "spanish": ""
+    },
+    {
+        "id": 28482,
+        "basque": "harripe",
+        "spanish": ""
+    },
+    {
+        "id": 28483,
+        "basque": "harroinpe",
+        "spanish": ""
+    },
+    {
+        "id": 28484,
+        "basque": "hauspe",
+        "spanish": ""
+    },
+    {
+        "id": 28485,
+        "basque": "hegalpe",
+        "spanish": ""
+    },
+    {
+        "id": 28486,
+        "basque": "hegape",
+        "spanish": ""
+    },
+    {
+        "id": 28487,
+        "basque": "hegazpe",
+        "spanish": ""
+    },
+    {
+        "id": 28488,
+        "basque": "hegazti-gripe",
+        "spanish": ""
+    },
+    {
+        "id": 28489,
+        "basque": "hegipe",
+        "spanish": ""
+    },
+    {
+        "id": 28490,
+        "basque": "heipe",
+        "spanish": ""
+    },
+    {
+        "id": 28491,
+        "basque": "hipermetrope",
+        "spanish": ""
+    },
+    {
+        "id": 28492,
+        "basque": "hostope",
+        "spanish": ""
+    },
+    {
+        "id": 28493,
+        "basque": "ilargipe",
+        "spanish": ""
+    },
+    {
+        "id": 28494,
+        "basque": "intxauspe",
+        "spanish": ""
+    },
+    {
+        "id": 28495,
+        "basque": "isilpe",
+        "spanish": ""
+    },
+    {
+        "id": 28496,
+        "basque": "istape",
+        "spanish": ""
+    },
+    {
+        "id": 28497,
+        "basque": "itsaspe",
+        "spanish": ""
+    },
+    {
+        "id": 28498,
+        "basque": "ope",
+        "spanish": ""
+    },
+    {
+        "id": 28499,
+        "basque": "(otorduetarako) estalpe",
+        "spanish": ""
+    },
+    {
+        "id": 28500,
+        "basque": "pe",
+        "spanish": ""
+    },
+    {
+        "id": 28501,
+        "basque": "pope",
+        "spanish": ""
+    },
+    {
+        "id": 28502,
+        "basque": "presape",
+        "spanish": ""
+    },
+    {
+        "id": 28503,
+        "basque": "sasipe",
+        "spanish": ""
+    },
+    {
+        "id": 28504,
+        "basque": "saskipe",
+        "spanish": ""
+    },
+    {
+        "id": 28505,
+        "basque": "sikupe",
+        "spanish": ""
+    },
+    {
+        "id": 28506,
+        "basque": "sinkope",
+        "spanish": ""
+    },
+    {
+        "id": 28507,
+        "basque": "teatro-kolpe",
+        "spanish": ""
+    },
+    {
+        "id": 28508,
+        "basque": "teilape",
+        "spanish": ""
+    },
+    {
+        "id": 28509,
+        "basque": "teilatupe",
+        "spanish": ""
+    },
+    {
+        "id": 28510,
+        "basque": "tilape",
+        "spanish": ""
+    },
+    {
+        "id": 28511,
+        "basque": "tope",
+        "spanish": ""
+    },
+    {
+        "id": 28512,
+        "basque": "tupe",
+        "spanish": ""
+    },
+    {
+        "id": 28513,
+        "basque": "uhin-kolpe",
+        "spanish": ""
+    },
+    {
+        "id": 28514,
+        "basque": "urpe",
+        "spanish": ""
+    },
+    {
+        "id": 28515,
+        "basque": "uztarpe",
+        "spanish": ""
+    },
+    {
+        "id": 28516,
+        "basque": "zerupe",
+        "spanish": ""
+    },
+    {
+        "id": 28517,
+        "basque": "zubipe",
+        "spanish": ""
+    },
+    {
+        "id": 28518,
+        "basque": "zuhaizpe",
+        "spanish": ""
+    },
+    {
+        "id": 28519,
+        "basque": "zuhamupe",
+        "spanish": ""
+    },
+    {
+        "id": 28520,
+        "basque": "alabaina",
+        "spanish": "1  lok. sin embargo, aun así // 2  lok. ya que, puesto que"
+    },
+    {
+        "id": 28521,
+        "basque": "ameteria",
+        "spanish": "iz. (B) aparcería"
+    },
+    {
+        "id": 28522,
+        "basque": "andreteria",
+        "spanish": "iz. mujerío, grupo de mujeres"
+    },
+    {
+        "id": 28523,
+        "basque": "antimateria",
+        "spanish": "iz. (Fis.) antimateria"
+    },
+    {
+        "id": 28524,
+        "basque": "argiteria",
+        "spanish": "iz. alumbrado [conjunto de luces]; (red de) iluminación"
+    },
+    {
+        "id": 28525,
+        "basque": "arkuteria",
+        "spanish": "iz. arquería"
+    },
+    {
+        "id": 28526,
+        "basque": "arteria",
+        "spanish": "iz. (Anat.) arteria"
+    },
+    {
+        "id": 28527,
+        "basque": "aulkiteria",
+        "spanish": "iz. sillería [del coro]"
+    },
+    {
+        "id": 28528,
+        "basque": "auzoteria",
+        "spanish": "iz. vecindario; conjunto de vecinos"
+    },
+    {
+        "id": 28529,
+        "basque": "bakteria",
+        "spanish": "iz. (Biol.) bacteria"
+    },
+    {
+        "id": 28530,
+        "basque": "banteria",
+        "spanish": "iz. (Ipar.) jactancia, fanfarronería, presunción"
+    },
+    {
+        "id": 28531,
+        "basque": "bateria",
+        "spanish": "1 iz. (Elektr.) (Teknol.) batería // 2 iz. (Mil.) batería // 3 iz. (Mus.) batería"
+    },
+    {
+        "id": 28532,
+        "basque": "beirateria",
+        "spanish": "iz. cristalería [conjunto de piezas de cristal]"
+    },
+    {
+        "id": 28533,
+        "basque": "difteria",
+        "spanish": "iz. (Med.) difteria"
+    },
+    {
+        "id": 28534,
+        "basque": "disenteria",
+        "spanish": "iz. (Med.) disentería"
+    },
+    {
+        "id": 28535,
+        "basque": "ebanisteria",
+        "spanish": "iz. ebanistería"
+    },
+    {
+        "id": 28536,
+        "basque": "Eguberrietako loteria",
+        "spanish": "lotería de Navidad"
+    },
+    {
+        "id": 28537,
+        "basque": "enbusteria",
+        "spanish": "iz. (Heg.) (herr.) embuste, mentira"
+    },
+    {
+        "id": 28538,
+        "basque": "Errege eguneko loteria; Erregeetako loteria",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28539,
+        "basque": "errementeria",
+        "spanish": "1 iz. [lantegia] herrería // 2 iz. herramientas"
+    },
+    {
+        "id": 28540,
+        "basque": "erreminteria",
+        "spanish": "iz. (Teknol.) herramental, utillaje"
+    },
+    {
+        "id": 28541,
+        "basque": "erroteria",
+        "spanish": "iz. (Ipar.) engranaje"
+    },
+    {
+        "id": 28542,
+        "basque": "esteri(a)",
+        "spanish": "iz. estatura; tamaño; proporción"
+    },
+    {
+        "id": 28543,
+        "basque": "filakteria",
+        "spanish": "iz. (Arkeol.) (Art.) filacteria"
+    },
+    {
+        "id": 28544,
+        "basque": "Gabonetako loteria",
+        "spanish": "lotería de Navidad"
+    },
+    {
+        "id": 28545,
+        "basque": "gazteria",
+        "spanish": "iz. juventud, jóvenes [conjunto de jóvenes]"
+    },
+    {
+        "id": 28546,
+        "basque": "gizateria",
+        "spanish": "iz. (B) humanidad, conjunto de los seres humanos; grupo de personas; multitud, muchedumbre; gentío"
+    },
+    {
+        "id": 28547,
+        "basque": "habeteria",
+        "spanish": "iz. envigado, -a"
+    },
+    {
+        "id": 28548,
+        "basque": "hariteria",
+        "spanish": "iz. tendido"
+    },
+    {
+        "id": 28549,
+        "basque": "heteria",
+        "spanish": "iz. hetería"
+    },
+    {
+        "id": 28550,
+        "basque": "histeria",
+        "spanish": "1 iz. (Psikiat.) histeria // 2 iz. (hed.) histeria"
+    },
+    {
+        "id": 28551,
+        "basque": "hoditeria",
+        "spanish": "1 iz. tubería, cañería // 2 iz. (Anat.) vasos conductores"
+    },
+    {
+        "id": 28552,
+        "basque": "infanteria",
+        "spanish": "iz. (Mil.) infantería"
+    },
+    {
+        "id": 28553,
+        "basque": "iruditeria",
+        "spanish": "1 iz. imágenes; imaginería // 2 iz. imaginario // 3 iz. (Lit.) imaginario"
+    },
+    {
+        "id": 28554,
+        "basque": "itsas infanteria",
+        "spanish": "(Mil.) infantería de marina"
+    },
+    {
+        "id": 28555,
+        "basque": "kanoiteria",
+        "spanish": "iz. (Mil.) cañonería"
+    },
+    {
+        "id": 28556,
+        "basque": "koketeria",
+        "spanish": "iz. coquetería"
+    },
+    {
+        "id": 28557,
+        "basque": "kristauteria",
+        "spanish": "iz. cristiandad; pueblo cristiano; cristianos"
+    },
+    {
+        "id": 28558,
+        "basque": "laringe-difteria",
+        "spanish": "(Med.) garrotillo"
+    },
+    {
+        "id": 28559,
+        "basque": "loteria",
+        "spanish": "iz. lotería"
+    },
+    {
+        "id": 28560,
+        "basque": "marketeria",
+        "spanish": "1 iz. [lanbidea] marquetería // 2 iz. [lana] marquetería"
+    },
+    {
+        "id": 28561,
+        "basque": "masteria",
+        "spanish": "iz. (Itsas.) arboladura"
+    },
+    {
+        "id": 28562,
+        "basque": "materia",
+        "spanish": "iz. materia // iz. (herr.) pus"
+    },
+    {
+        "id": 28563,
+        "basque": "nahasteria",
+        "spanish": "iz. (zah.) confusión, embrollo"
+    },
+    {
+        "id": 28564,
+        "basque": "paketeria",
+        "spanish": "iz. paquetería [conjunto de paquetes]"
+    },
+    {
+        "id": 28565,
+        "basque": "pirateria",
+        "spanish": "iz. piratería"
+    },
+    {
+        "id": 28566,
+        "basque": "punteria",
+        "spanish": "iz. (Heg.) puntería"
+    },
+    {
+        "id": 28567,
+        "basque": "senteria",
+        "spanish": "iz. (BN/Z) bienestar, ostentación de bienestar; firmeza, robustez"
+    },
+    {
+        "id": 28568,
+        "basque": "sokateria",
+        "spanish": "iz. cordelería, soguería [conjunto de cordeles]"
+    },
+    {
+        "id": 28569,
+        "basque": "terrenteria",
+        "spanish": "iz. (Ipar.) monotonía, rutina"
+    },
+    {
+        "id": 28570,
+        "basque": "trasteria",
+        "spanish": "iz. cacharrería, trastos, bártulos"
+    },
+    {
+        "id": 28571,
+        "basque": "txapisteria",
+        "spanish": "iz. (Heg.) chapistería"
+    },
+    {
+        "id": 28572,
+        "basque": "txarkuteria",
+        "spanish": "iz. charcutería, chacinería [productos]"
+    },
+    {
+        "id": 28573,
+        "basque": "umeteria",
+        "spanish": "iz. (B) chiquillería"
+    },
+    {
+        "id": 28574,
+        "basque": "abantada",
+        "spanish": "1 iz. impulso, acometida // 2 iz. ademán de golpear"
+    },
+    {
+        "id": 28575,
+        "basque": "ardaztada",
+        "spanish": "iz. husada"
+    },
+    {
+        "id": 28576,
+        "basque": "arrastada",
+        "spanish": "1 iz. (G) pasada, mano // 2 iz. (G) rasguño, roce"
+    },
+    {
+        "id": 28577,
+        "basque": "atzera-puntada",
+        "spanish": "pespunte"
+    },
+    {
+        "id": 28578,
+        "basque": "balaztada",
+        "spanish": "iz. frenazo"
+    },
+    {
+        "id": 28579,
+        "basque": "barre-purrustada",
+        "spanish": "(pl.) risas y carcajadas, risotadas"
+    },
+    {
+        "id": 28580,
+        "basque": "brastada",
+        "spanish": "iz. golpe; tortazo"
+    },
+    {
+        "id": 28581,
+        "basque": "egitada",
+        "spanish": "iz. (B) acción, acto"
+    },
+    {
+        "id": 28582,
+        "basque": "erregutada",
+        "spanish": "iz. (B) rebanada"
+    },
+    {
+        "id": 28583,
+        "basque": "gatz-lautada",
+        "spanish": "salar, saladar"
+    },
+    {
+        "id": 28584,
+        "basque": "goi-lautada",
+        "spanish": "(Geogr.) altiplanicie, altiplano"
+    },
+    {
+        "id": 28585,
+        "basque": "haitada",
+        "spanish": "iz. (Ipar.) sesión, turno; [auzokoen artean] trabajo"
+    },
+    {
+        "id": 28586,
+        "basque": "inozentada",
+        "spanish": "iz. (Heg.) inocentada"
+    },
+    {
+        "id": 28587,
+        "basque": "irristada",
+        "spanish": "1 iz. resbalón, desliz // 2 iz. (hed.) desliz"
+    },
+    {
+        "id": 28588,
+        "basque": "karlistada",
+        "spanish": "iz. período carlista"
+    },
+    {
+        "id": 28589,
+        "basque": "kintada",
+        "spanish": "1 iz. [broma, iseka] quintada // 2 iz. [kintoen ospakizuna] celebración de quintos"
+    },
+    {
+        "id": 28590,
+        "basque": "koartada",
+        "spanish": "iz. (Zuz.) (Heg.) coartada"
+    },
+    {
+        "id": 28591,
+        "basque": "kontraportada",
+        "spanish": "iz. contraportada [página frente a la portada]"
+    },
+    {
+        "id": 28592,
+        "basque": "laprastada",
+        "spanish": "iz. (batez ere B) resbalón, patinazo; deslizamiento"
+    },
+    {
+        "id": 28593,
+        "basque": "lautada",
+        "spanish": "iz. llanura, llanada, planicie"
+    },
+    {
+        "id": 28594,
+        "basque": "min-sastada",
+        "spanish": "punzada"
+    },
+    {
+        "id": 28595,
+        "basque": "min-ziztada",
+        "spanish": "punzada"
+    },
+    {
+        "id": 28596,
+        "basque": "mustada",
+        "spanish": "iz. catadura, degustación"
+    },
+    {
+        "id": 28597,
+        "basque": "parrastada",
+        "spanish": "iz. (B) manojo, puñado; chorro"
+    },
+    {
+        "id": 28598,
+        "basque": "penelautada",
+        "spanish": "iz. (Geol.) penillanura"
+    },
+    {
+        "id": 28599,
+        "basque": "pilotada",
+        "spanish": "iz. pelotazo"
+    },
+    {
+        "id": 28600,
+        "basque": "pintada",
+        "spanish": "iz. (Zool.) pintada (Numida meleagris) // iz. (Heg.) pintada [letrero]"
+    },
+    {
+        "id": 28601,
+        "basque": "plastada",
+        "spanish": "iz. bofetada, sopapo"
+    },
+    {
+        "id": 28602,
+        "basque": "plaustada",
+        "spanish": "iz. (B) caída; golpe"
+    },
+    {
+        "id": 28603,
+        "basque": "portada",
+        "spanish": "1 iz. (Arkit.) portada // 2 iz. (Art. Graf.) portada"
+    },
+    {
+        "id": 28604,
+        "basque": "puntada",
+        "spanish": "1 iz. (Heg.) puntada // 2 iz. (herr.) pulla"
+    },
+    {
+        "id": 28605,
+        "basque": "purrustada",
+        "spanish": "1 iz. refunfuño; bufido; salida de tono; desprecio, desaire // 2 iz. (Ipar.) grupo, conjunto"
+    },
+    {
+        "id": 28606,
+        "basque": "sastada",
+        "spanish": "iz. (Heg.) pinchazo, punzada"
+    },
+    {
+        "id": 28607,
+        "basque": "tarratada",
+        "spanish": "1 iz. [urratua] desgarro, desgarrón, rasgadura, rasgón // 2 iz. [puzkerra] pedo, cuesco"
+    },
+    {
+        "id": 28608,
+        "basque": "tostada",
+        "spanish": "iz. (Heg.) tostada"
+    },
+    {
+        "id": 28609,
+        "basque": "txirristada",
+        "spanish": "1 iz. resbalón, desliz // 2 iz. (hed.) desliz, indiscreción"
+    },
+    {
+        "id": 28610,
+        "basque": "txorrotada",
+        "spanish": "iz. (Heg.) chorro"
+    },
+    {
+        "id": 28611,
+        "basque": "Abanto",
+        "spanish": "Abanto y Ciérvana"
+    },
+    {
+        "id": 28612,
+        "basque": "abasto",
+        "spanish": "1 zenbtz. zehaztgb. (herr.) suficiente, bastante // 2 zenbtz. zehaztgb. (herr.) abundantemente"
+    },
+    {
+        "id": 28613,
+        "basque": "aerolito",
+        "spanish": "iz. (Astron.) aerolito"
+    },
+    {
+        "id": 28614,
+        "basque": "aerostato",
+        "spanish": "iz. (Aeron.) aerostato"
+    },
+    {
+        "id": 28615,
+        "basque": "aerozisto",
+        "spanish": "iz. (Bot.) aerocisto"
+    },
+    {
+        "id": 28616,
+        "basque": "Agapeto",
+        "spanish": "Agapito"
+    },
+    {
+        "id": 28617,
+        "basque": "Agrigento",
+        "spanish": "Agrigento"
+    },
+    {
+        "id": 28618,
+        "basque": "ahogaizto",
+        "spanish": "izond. difamador, -a, deslenguado, -a, que desacredita"
+    },
+    {
+        "id": 28619,
+        "basque": "ahuntz-hosto",
+        "spanish": "madreselva ➥ atxapar"
+    },
+    {
+        "id": 28620,
+        "basque": "aingeru gaizto",
+        "spanish": "ángel malo, ángel de tinieblas, ángel caído"
+    },
+    {
+        "id": 28621,
+        "basque": "aire gaizto/txar",
+        "spanish": "1 dolor reumático; parálisis"
+    },
+    {
+        "id": 28622,
+        "basque": "akanto",
+        "spanish": "iz. (Bot.) acanto, branca ursina, hierba gigante (Acanthus mollis)"
+    },
+    {
+        "id": 28623,
+        "basque": "aketo",
+        "spanish": "1 iz. (G) macho cabrío castrado // 2 iz. cabrito, cría de la cabra // 3 iz./izond. rudo, -a, adusto, -a, zafio, -a"
+    },
+    {
+        "id": 28624,
+        "basque": "akolito",
+        "spanish": "1 iz. (hed.) acólito // 2 iz. (Erl.) acólito, monaguillo"
+    },
+    {
+        "id": 28625,
+        "basque": "akonito",
+        "spanish": "iz. (Bot.) acónito (Aconitum napellus)"
+    },
+    {
+        "id": 28626,
+        "basque": "akto",
+        "spanish": "iz. (zah.) acto"
+    },
+    {
+        "id": 28627,
+        "basque": "Alberto",
+        "spanish": "Alberto"
+    },
+    {
+        "id": 28628,
+        "basque": "alfabeto",
+        "spanish": "iz. alfabeto, abecedario"
+    },
+    {
+        "id": 28629,
+        "basque": "allegretto",
+        "spanish": "adb./ iz. (Mus.) alegreto"
+    },
+    {
+        "id": 28630,
+        "basque": "alto",
+        "spanish": "interj. ¡alto!"
+    },
+    {
+        "id": 28631,
+        "basque": "aluminosilikato",
+        "spanish": "iz. (Kim.) aluminosilicato"
+    },
+    {
+        "id": 28632,
+        "basque": "amaranto",
+        "spanish": "iz. (Bot.) amaranto, bledo (Amaranthus sp.)"
+    },
+    {
+        "id": 28633,
+        "basque": "ameto",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28634,
+        "basque": "amianto",
+        "spanish": "iz. (Miner.) amianto"
+    },
+    {
+        "id": 28635,
+        "basque": "Amoroto",
+        "spanish": "Amoroto"
+    },
+    {
+        "id": 28636,
+        "basque": "amuleto",
+        "spanish": "iz. amuleto"
+    },
+    {
+        "id": 28637,
+        "basque": "Anakleto",
+        "spanish": "Anacleto"
+    },
+    {
+        "id": 28638,
+        "basque": "anakoluto",
+        "spanish": "iz. (Hizkl.) anacoluto"
+    },
+    {
+        "id": 28639,
+        "basque": "analfabeto",
+        "spanish": "iz./izond. analfabeto, -a"
+    },
+    {
+        "id": 28640,
+        "basque": "anbulo gaizto",
+        "spanish": "(Bot.) narciso de los prados (Narcissus pseudonarcissus)"
+    },
+    {
+        "id": 28641,
+        "basque": "anfolito",
+        "spanish": "iz. (Kim.) anfolito"
+    },
+    {
+        "id": 28642,
+        "basque": "Anizeto",
+        "spanish": "Aniceto"
+    },
+    {
+        "id": 28643,
+        "basque": "antidoto",
+        "spanish": "iz. (Med.) antídoto"
+    },
+    {
+        "id": 28644,
+        "basque": "antikristo",
+        "spanish": "iz. anticristo"
+    },
+    {
+        "id": 28645,
+        "basque": "antofito",
+        "spanish": "iz./izond. (Bot.) antófito, -a"
+    },
+    {
+        "id": 28646,
+        "basque": "aoristo",
+        "spanish": "iz. (Hizkl.) aoristo"
+    },
+    {
+        "id": 28647,
+        "basque": "apatito",
+        "spanish": "iz. (Miner.) apatito"
+    },
+    {
+        "id": 28648,
+        "basque": "apterigoto",
+        "spanish": "iz./izond. (Zool.) apterigoto, -a"
+    },
+    {
+        "id": 28649,
+        "basque": "aragonito",
+        "spanish": "iz. (Miner.) aragonito"
+    },
+    {
+        "id": 28650,
+        "basque": "arboreto",
+        "spanish": "iz. (Biol.) arboreto"
+    },
+    {
+        "id": 28651,
+        "basque": "arkaizto",
+        "spanish": "iz. (G) oveja estéril"
+    },
+    {
+        "id": 28652,
+        "basque": "arkitekto",
+        "spanish": "iz. arquitecto, -a"
+    },
+    {
+        "id": 28653,
+        "basque": "arra beteko uretan ito",
+        "spanish": "ahogarse en un vaso de agua"
+    },
+    {
+        "id": 28654,
+        "basque": "arrazoi gaizto/txar",
+        "spanish": "respuesta inadecuada; respuesta desagradable, respuesta grosera"
+    },
+    {
+        "id": 28655,
+        "basque": "arte-areto",
+        "spanish": "galería de arte"
+    },
+    {
+        "id": 28656,
+        "basque": "arto",
+        "spanish": "1 iz. (Bot.) maíz (Zea mays) // 2 iz. [alea] maíz // 3 iz. [ogia] borona, pan de maíz // 4 iz. mijo ➥ artatxiki"
+    },
+    {
+        "id": 28657,
+        "basque": "arto-lasto; arto-makila",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28658,
+        "basque": "artseniato",
+        "spanish": "iz. (Kim.) arseniato"
+    },
+    {
+        "id": 28659,
+        "basque": "auto",
+        "spanish": "1 iz. (Lit.) [obra-mota] auto // 2 iz. (Zuz.) auto // iz. auto, automóvil, coche"
+    },
+    {
+        "id": 28660,
+        "basque": "autofoto",
+        "spanish": "iz. autofoto, selfi"
+    },
+    {
+        "id": 28661,
+        "basque": "autoinjerto",
+        "spanish": "iz. (Med.) autoinjerto"
+    },
+    {
+        "id": 28662,
+        "basque": "autotxerto",
+        "spanish": "iz. (Med.) autovacuna"
+    },
+    {
+        "id": 28663,
+        "basque": "auzipetze-auto",
+        "spanish": "(Zuz.) auto de procesamiento"
+    },
+    {
+        "id": 28664,
+        "basque": "aza-hosto; aza-orri",
+        "spanish": "hoja de berza"
+    },
+    {
+        "id": 28665,
+        "basque": "azauto",
+        "spanish": "iz. (BN) manojo, haz"
+    },
+    {
+        "id": 28666,
+        "basque": "azetato",
+        "spanish": "iz. (Kim.) acetato"
+    },
+    {
+        "id": 28667,
+        "basque": "azosto",
+        "spanish": "iz. hoja de berza"
+    },
+    {
+        "id": 28668,
+        "basque": "babalasto",
+        "spanish": "1 iz. tallo del haba // 2 izond. soso, -a; bobalicón, -ona; alelado, -a; sosaina"
+    },
+    {
+        "id": 28669,
+        "basque": "balasto",
+        "spanish": "iz. (Eraik.) balasto"
+    },
+    {
+        "id": 28670,
+        "basque": "bandato",
+        "spanish": "iz. pañal"
+    },
+    {
+        "id": 28671,
+        "basque": "barne-produktu neto",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28672,
+        "basque": "basalto",
+        "spanish": "iz. (Miner.) basalto"
+    },
+    {
+        "id": 28673,
+        "basque": "basarto",
+        "spanish": "iz. (Bot.) zahína, sorgo, adaza, daza (Sorghum sp.)"
+    },
+    {
+        "id": 28674,
+        "basque": "basasto",
+        "spanish": "iz. (Zool.) onagro; asno salvaje; hemión // iz. grano maligno, divieso; herpes; ampolla en los labios"
+    },
+    {
+        "id": 28675,
+        "basque": "basto",
+        "spanish": "izond. (Heg.) (herr.) basto, -a; tosco, -a; rudo, -a"
+    },
+    {
+        "id": 28676,
+        "basque": "batolito",
+        "spanish": "iz. (Geol.) batolito"
+    },
+    {
+        "id": 28677,
+        "basque": "batto",
+        "spanish": "zenbtz. zehazt. (Ipar.) un, una; uno, -a"
+    },
+    {
+        "id": 28678,
+        "basque": "batzar-areto; batzar-gela",
+        "spanish": "sala de juntas"
+    },
+    {
+        "id": 28679,
+        "basque": "beato",
+        "spanish": "iz. (Erl.) beato"
+    },
+    {
+        "id": 28680,
+        "basque": "begi gaizto",
+        "spanish": "mal de ojo"
+    },
+    {
+        "id": 28681,
+        "basque": "belar gaizto/txar",
+        "spanish": "mala hierba"
+    },
+    {
+        "id": 28682,
+        "basque": "Benedikto",
+        "spanish": "Benedicto; Benito"
+    },
+    {
+        "id": 28683,
+        "basque": "berantarto",
+        "spanish": "iz. (G) maíz tardío"
+    },
+    {
+        "id": 28684,
+        "basque": "beto",
+        "spanish": "iz. (Zuz.) veto"
+    },
+    {
+        "id": 28685,
+        "basque": "bikarbonato",
+        "spanish": "iz. bicarbonato"
+    },
+    {
+        "id": 28686,
+        "basque": "biolento",
+        "spanish": "izond. violento, -a"
+    },
+    {
+        "id": 28687,
+        "basque": "birulento",
+        "spanish": "izond. (Med.) virulento, -a"
+    },
+    {
+        "id": 28688,
+        "basque": "bismuto",
+        "spanish": "iz. (Kim.) bismuto"
+    },
+    {
+        "id": 28689,
+        "basque": "bonba-auto",
+        "spanish": "(Arm.) coche bomba"
+    },
+    {
+        "id": 28690,
+        "basque": "bonoloto",
+        "spanish": "iz. bonoloto"
+    },
+    {
+        "id": 28691,
+        "basque": "borato",
+        "spanish": "iz. (Kim.) borato"
+    },
+    {
+        "id": 28692,
+        "basque": "botepronto",
+        "spanish": "iz. (Kir.) (Heg.) bote pronto, bote corto"
+    },
+    {
+        "id": 28693,
+        "basque": "brakiblasto",
+        "spanish": "iz. (Bot.) braquiblasto"
+    },
+    {
+        "id": 28694,
+        "basque": "briofito",
+        "spanish": "iz./izond. (Bot.) briofito, -a"
+    },
+    {
+        "id": 28695,
+        "basque": "Bruto",
+        "spanish": "Bruto"
+    },
+    {
+        "id": 28696,
+        "basque": "bulto",
+        "spanish": "1 iz. (zah.) imagen, figura // 2 iz. (Heg.) bulto; fardel, paquete"
+    },
+    {
+        "id": 28697,
+        "basque": "busto",
+        "spanish": "iz. (Art.) busto"
+    },
+    {
+        "id": 28698,
+        "basque": "dantza-areto",
+        "spanish": "salón de baile"
+    },
+    {
+        "id": 28699,
+        "basque": "debot(o)",
+        "spanish": "izond. (Ipar.) devoto, -a, piadoso, -a; beato, -a"
+    },
+    {
+        "id": 28700,
+        "basque": "Demokrito",
+        "spanish": "m. Demócrito"
+    },
+    {
+        "id": 28701,
+        "basque": "desonest(o)",
+        "spanish": "izond. (zah.) deshonesto, -a"
+    },
+    {
+        "id": 28702,
+        "basque": "dialekto",
+        "spanish": "iz. (Hizkl.) dialecto"
+    },
+    {
+        "id": 28703,
+        "basque": "divertimento",
+        "spanish": "iz. (Mus.) divertimento"
+    },
+    {
+        "id": 28704,
+        "basque": "dueto",
+        "spanish": "iz. (Mus.) dueto, dúo"
+    },
+    {
+        "id": 28705,
+        "basque": "edan txar/gaizto",
+        "spanish": "mal vino; mal temple [producido por la bebida]"
+    },
+    {
+        "id": 28706,
+        "basque": "Egipto",
+        "spanish": "Egipto"
+    },
+    {
+        "id": 28707,
+        "basque": "Egisto",
+        "spanish": "m. (Mit.) Egisto"
+    },
+    {
+        "id": 28708,
+        "basque": "ejerzito",
+        "spanish": "Ik. armada, gudaroste"
+    },
+    {
+        "id": 28709,
+        "basque": "ekitaldi-areto",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28710,
+        "basque": "ektoparasito",
+        "spanish": "iz. (Ekol.) ectoparásito"
+    },
+    {
+        "id": 28711,
+        "basque": "El Busto",
+        "spanish": "El Busto"
+    },
+    {
+        "id": 28712,
+        "basque": "ele gaizto/txar",
+        "spanish": "insulto, difamación"
+    },
+    {
+        "id": 28713,
+        "basque": "elektrolito",
+        "spanish": "iz. (Kim.) electrólito"
+    },
+    {
+        "id": 28714,
+        "basque": "endoeskeleto",
+        "spanish": "iz. (Biol.) endoesqueleto"
+    },
+    {
+        "id": 28715,
+        "basque": "endoparasito",
+        "spanish": "iz. (Biol.) endoparásito"
+    },
+    {
+        "id": 28716,
+        "basque": "endopterigoto",
+        "spanish": "iz./izond. (Zool.) endopterigoto, -a"
+    },
+    {
+        "id": 28717,
+        "basque": "eneolito",
+        "spanish": "iz. (maiusk.) Eneolítico"
+    },
+    {
+        "id": 28718,
+        "basque": "Enkarterriko asto",
+        "spanish": "(Zool.) asno de las Encartaciones"
+    },
+    {
+        "id": 28719,
+        "basque": "entzunareto",
+        "spanish": "iz. auditorio, auditórium [sala]"
+    },
+    {
+        "id": 28720,
+        "basque": "epifito",
+        "spanish": "adj./iz. (Bot.) epifito, -a"
+    },
+    {
+        "id": 28721,
+        "basque": "epipaleolito",
+        "spanish": "iz. (Hist.) (maiusk.) Epipaleolítico"
+    },
+    {
+        "id": 28722,
+        "basque": "epiteto",
+        "spanish": "iz. (Hizkl.) epíteto"
+    },
+    {
+        "id": 28723,
+        "basque": "erdara mordoilo/gaizto",
+        "spanish": "lengua distinta de la vasca mal hablada o mal escrita"
+    },
+    {
+        "id": 28724,
+        "basque": "erdisoto",
+        "spanish": "iz. semisótano"
+    },
+    {
+        "id": 28725,
+        "basque": "eritroblasto",
+        "spanish": "iz. (Biol.) eritroblasto"
+    },
+    {
+        "id": 28726,
+        "basque": "eritrozito",
+        "spanish": "iz. (Biol.) eritrocito"
+    },
+    {
+        "id": 28727,
+        "basque": "erratz-auto; erratz-automobil",
+        "spanish": "(Kir.) coche escoba"
+    },
+    {
+        "id": 28728,
+        "basque": "erreal kuarto",
+        "spanish": "real de vellón"
+    },
+    {
+        "id": 28729,
+        "basque": "errekasto",
+        "spanish": "iz. arroyuelo"
+    },
+    {
+        "id": 28730,
+        "basque": "errekoleto",
+        "spanish": "adj./iz. (Erl.) recoleto"
+    },
+    {
+        "id": 28731,
+        "basque": "erreostato",
+        "spanish": "iz. (Elektr.) reóstato"
+    },
+    {
+        "id": 28732,
+        "basque": "erresto",
+        "spanish": "iz. (Kir.) (Heg.) resto, devolución"
+    },
+    {
+        "id": 28733,
+        "basque": "errodofito",
+        "spanish": "iz./izond. (Bot.) rodófito, -a"
+    },
+    {
+        "id": 28734,
+        "basque": "esperanto",
+        "spanish": "iz. esperanto"
+    },
+    {
+        "id": 28735,
+        "basque": "esperpento",
+        "spanish": "iz. (Lit.) esperpento"
+    },
+    {
+        "id": 28736,
+        "basque": "espiritu gaizto",
+        "spanish": "espíritu maligno; diablo"
+    },
+    {
+        "id": 28737,
+        "basque": "esporofito",
+        "spanish": "iz. (Bot.) esporofito"
+    },
+    {
+        "id": 28738,
+        "basque": "estatozisto",
+        "spanish": "iz. (Zool.) estatocisto"
+    },
+    {
+        "id": 28739,
+        "basque": "etsi gaizto",
+        "spanish": "iz. desesperación"
+    },
+    {
+        "id": 28740,
+        "basque": "eukalipto",
+        "spanish": "iz. (Bot.) eucalipto (Eucaliptus sp.)"
+    },
+    {
+        "id": 28741,
+        "basque": "eukarioto",
+        "spanish": "iz./izond. (Biol.) eucariota, eucarionte"
+    },
+    {
+        "id": 28742,
+        "basque": "eumikoto",
+        "spanish": "iz./izond. (Mikol.) eumicota"
+    },
+    {
+        "id": 28743,
+        "basque": "euskal gaizto",
+        "spanish": "1 mal vascuence, euskera mal hablado o mal escrito, euskera confuso // 2 lengua vasca impura, contaminada por otras lenguas (término utilizado a menudo por los puristas)"
+    },
+    {
+        "id": 28744,
+        "basque": "euskalgaizto",
+        "spanish": "iz. euskara mal hablado, jerigonza"
+    },
+    {
+        "id": 28745,
+        "basque": "euskara mordoilo/gaizto",
+        "spanish": "1 mal vascuence, euskera mal hablado o mal escrito, euskera confuso // 2 lengua vasca impura, contaminada por otras lenguas (término utilizado a menudo por los puristas)"
+    },
+    {
+        "id": 28746,
+        "basque": "Evaristo",
+        "spanish": "Evaristo"
+    },
+    {
+        "id": 28747,
+        "basque": "exhorto",
+        "spanish": "iz. (Zuz.) (Heg.) exhorto"
+    },
+    {
+        "id": 28748,
+        "basque": "exoeskeleto",
+        "spanish": "iz. (Zool.) exoesqueleto, exosqueleto"
+    },
+    {
+        "id": 28749,
+        "basque": "exopterigoto",
+        "spanish": "iz./izond. (Zool.) exopterigoto, -a"
+    },
+    {
+        "id": 28750,
+        "basque": "fagozito",
+        "spanish": "iz. (Biol.) fagocito"
+    },
+    {
+        "id": 28751,
+        "basque": "falsetto",
+        "spanish": "iz. (Mus.) falsete"
+    },
+    {
+        "id": 28752,
+        "basque": "Fausto",
+        "spanish": "Fausto"
+    },
+    {
+        "id": 28753,
+        "basque": "fede gaizto/txar",
+        "spanish": "mala fe, mala intención; malicia"
+    },
+    {
+        "id": 28754,
+        "basque": "feldespato",
+        "spanish": "iz. (Miner.) feldespato"
+    },
+    {
+        "id": 28755,
+        "basque": "feofito",
+        "spanish": "iz./izond. (Bot.) feófito, -a"
+    },
+    {
+        "id": 28756,
+        "basque": "fibroblasto",
+        "spanish": "iz. (Biol.) fibroblasto"
+    },
+    {
+        "id": 28757,
+        "basque": "flogisto",
+        "spanish": "iz. (Kim.) flogisto"
+    },
+    {
+        "id": 28758,
+        "basque": "fosfato",
+        "spanish": "iz. (Kim.) fosfato"
+    },
+    {
+        "id": 28759,
+        "basque": "foto",
+        "spanish": "iz. (herr.) foto; fotografía"
+    },
+    {
+        "id": 28760,
+        "basque": "fotolito",
+        "spanish": "iz. (Art. Graf.) (Kim.) fotolito"
+    },
+    {
+        "id": 28761,
+        "basque": "gaizto",
+        "spanish": "1 izond. mal, malo, -a // 2 izond. (Med.) maligno, -a"
+    },
+    {
+        "id": 28762,
+        "basque": "galto",
+        "spanish": "1 iz. (Z) petición, demanda // 2 iz. (Z) pregunta"
+    },
+    {
+        "id": 28763,
+        "basque": "gameto",
+        "spanish": "iz. (Biol.) gameto"
+    },
+    {
+        "id": 28764,
+        "basque": "gametofito",
+        "spanish": "iz. (Bot.) gametófito"
+    },
+    {
+        "id": 28765,
+        "basque": "ganbito",
+        "spanish": "iz. gambito"
+    },
+    {
+        "id": 28766,
+        "basque": "garabi-auto",
+        "spanish": "coche grúa"
+    },
+    {
+        "id": 28767,
+        "basque": "gastrolito",
+        "spanish": "iz. (Biol.) gastrolito"
+    },
+    {
+        "id": 28768,
+        "basque": "geofito",
+        "spanish": "iz. (Bot.) geófito"
+    },
+    {
+        "id": 28769,
+        "basque": "ghetto",
+        "spanish": "iz. gueto, ghetto"
+    },
+    {
+        "id": 28770,
+        "basque": "girostato",
+        "spanish": "iz. (Teknol.) giróstato"
+    },
+    {
+        "id": 28771,
+        "basque": "gizato",
+        "spanish": "iz. gigante, hombretón"
+    },
+    {
+        "id": 28772,
+        "basque": "glutamato",
+        "spanish": "iz. (Kim.) glutamato"
+    },
+    {
+        "id": 28773,
+        "basque": "gonbito",
+        "spanish": "iz. vómito"
+    },
+    {
+        "id": 28774,
+        "basque": "gosezto",
+        "spanish": "izond. (B) hambriento, -a; comilón, -ona"
+    },
+    {
+        "id": 28775,
+        "basque": "grafito",
+        "spanish": "iz. (Miner.) grafito"
+    },
+    {
+        "id": 28776,
+        "basque": "granito",
+        "spanish": "iz. (Geol.) granito"
+    },
+    {
+        "id": 28777,
+        "basque": "gruppetto",
+        "spanish": "iz. (Mus.) grupeto"
+    },
+    {
+        "id": 28778,
+        "basque": "gurtarrasto",
+        "spanish": "iz. carril/surco de las ruedas [de un carro]"
+    },
+    {
+        "id": 28779,
+        "basque": "halofito",
+        "spanish": "iz. (Bot.) halófito, -a"
+    },
+    {
+        "id": 28780,
+        "basque": "halto",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28781,
+        "basque": "helofito",
+        "spanish": "iz. (Bot.) helofito"
+    },
+    {
+        "id": 28782,
+        "basque": "hematokrito",
+        "spanish": "iz./izond. (Biol.) hematocrito, -a"
+    },
+    {
+        "id": 28783,
+        "basque": "Herodoto",
+        "spanish": "m. Herodoto; Heródoto"
+    },
+    {
+        "id": 28784,
+        "basque": "heterozigoto",
+        "spanish": "iz./izond. (Biol.) heterocigoto, -a"
+    },
+    {
+        "id": 28785,
+        "basque": "hiato",
+        "spanish": "1 iz. (Anat.) hiato // 2 iz. (Hizkl.) hiato"
+    },
+    {
+        "id": 28786,
+        "basque": "hidrato",
+        "spanish": "iz. (Kim.) hidrato"
+    },
+    {
+        "id": 28787,
+        "basque": "hidrofito",
+        "spanish": "iz. (Bot.) hidrofito"
+    },
+    {
+        "id": 28788,
+        "basque": "hipoklorito",
+        "spanish": "iz. (Kim.) hipoclorito"
+    },
+    {
+        "id": 28789,
+        "basque": "Hipolito",
+        "spanish": "Hipólito"
+    },
+    {
+        "id": 28790,
+        "basque": "histiozito",
+        "spanish": "iz. (Biol.) histiocito"
+    },
+    {
+        "id": 28791,
+        "basque": "hitzaldi-areto",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28792,
+        "basque": "hobeto",
+        "spanish": "adb. (ondo adberbioak konparazioan hartzen duen forma) mejor"
+    },
+    {
+        "id": 28793,
+        "basque": "holokausto",
+        "spanish": "iz. holocausto"
+    },
+    {
+        "id": 28794,
+        "basque": "homozigoto",
+        "spanish": "iz./izond. (Biol.) homocigoto, -a"
+    },
+    {
+        "id": 28795,
+        "basque": "Honorato",
+        "spanish": "Honorato"
+    },
+    {
+        "id": 28796,
+        "basque": "Hunberto",
+        "spanish": "Humberto"
+    },
+    {
+        "id": 28797,
+        "basque": "idiolekto",
+        "spanish": "iz. (Hizkl.) idiolecto"
+    },
+    {
+        "id": 28798,
+        "basque": "intsektu hosto",
+        "spanish": "(Zool.) insecto hoja (Phyllium sp.)"
+    },
+    {
+        "id": 28799,
+        "basque": "intxaurnato",
+        "spanish": "iz. mancha que deja en la piel la cáscara de la nuez"
+    },
+    {
+        "id": 28800,
+        "basque": "irato, irato, iratotzen",
+        "spanish": "du ad. ahogar, asfixiar; estrangular"
+    },
+    {
+        "id": 28801,
+        "basque": "Islandiako espato",
+        "spanish": "(Miner.) espato de Islandia"
+    },
+    {
+        "id": 28802,
+        "basque": "ito, ito, itotzen",
+        "spanish": "1  da/du ad. ahogar(se), asfixiar(se) // 2  da/du ad. agobiar(se), fatigar(se), abrumar(se) // 3  da/du ad. ahogar(se), extinguir(se)"
+    },
+    {
+        "id": 28803,
+        "basque": "jauntto",
+        "spanish": "1 iz. (Ipar.) señor no ilustre; señorito // 2 iz. (Ipar.) cacique"
+    },
+    {
+        "id": 28804,
+        "basque": "jazinto",
+        "spanish": "Ik. hiazinto"
+    },
+    {
+        "id": 28805,
+        "basque": "Jesu Kristo",
+        "spanish": "m. (Erl.) Jesucristo, Nuestro Señor"
+    },
+    {
+        "id": 28806,
+        "basque": "jito",
+        "spanish": "1 iz. (Itsas.) deriva // 2 iz. (Geol.) deriva // 3 iz. Ik. deriba"
+    },
+    {
+        "id": 28807,
+        "basque": "Kalisto",
+        "spanish": "Calixto"
+    },
+    {
+        "id": 28808,
+        "basque": "kalitateko boto",
+        "spanish": "(Zuz.) voto de calidad"
+    },
+    {
+        "id": 28809,
+        "basque": "kamefito",
+        "spanish": "iz. (Ekol.) caméfito, -a"
+    },
+    {
+        "id": 28810,
+        "basque": "kanpanarto",
+        "spanish": "iz. (B) maíz que reciben los campaneros como salario"
+    },
+    {
+        "id": 28811,
+        "basque": "karbohidrato",
+        "spanish": "iz. (Kim.) carbohidrato, hidrato de carbono"
+    },
+    {
+        "id": 28812,
+        "basque": "karbonato",
+        "spanish": "iz. (Kim.) carbonato"
+    },
+    {
+        "id": 28813,
+        "basque": "karbono-hidrato",
+        "spanish": "(Kim.) hidrato de carbono, carbohidrato"
+    },
+    {
+        "id": 28814,
+        "basque": "karikato",
+        "spanish": "iz. (Antz.) (Mus.) caricato"
+    },
+    {
+        "id": 28815,
+        "basque": "kasto",
+        "spanish": "izond. casto, -a"
+    },
+    {
+        "id": 28816,
+        "basque": "kateto",
+        "spanish": "iz. (Mat.) cateto"
+    },
+    {
+        "id": 28817,
+        "basque": "kauto",
+        "spanish": "izond. (BN) auténtico, -a"
+    },
+    {
+        "id": 28818,
+        "basque": "kelato",
+        "spanish": "iz. (Kim.) quelato"
+    },
+    {
+        "id": 28819,
+        "basque": "ke-poto",
+        "spanish": "bote de humo"
+    },
+    {
+        "id": 28820,
+        "basque": "kinteto",
+        "spanish": "iz. (Mus.) quinteto [composición]"
+    },
+    {
+        "id": 28821,
+        "basque": "kinto",
+        "spanish": "1 iz. (Heg.) (herr.) quinto [recluta] // 2 iz. (Heg.) (herr.) quinto; coetáneo, -a, de la misma edad"
+    },
+    {
+        "id": 28822,
+        "basque": "kito",
+        "spanish": "adb. en paz, sin deudas, saldado, -a; libre, exento, -a"
+    },
+    {
+        "id": 28823,
+        "basque": "klatrato",
+        "spanish": "iz. (Kim.) clatrato"
+    },
+    {
+        "id": 28824,
+        "basque": "klinostato",
+        "spanish": "iz. (Fis.) clinostato"
+    },
+    {
+        "id": 28825,
+        "basque": "klorato",
+        "spanish": "iz. (Kim.) clorato"
+    },
+    {
+        "id": 28826,
+        "basque": "klorofito",
+        "spanish": "iz./izond. (Bot.) clorófito, -a"
+    },
+    {
+        "id": 28827,
+        "basque": "kloroplasto",
+        "spanish": "iz. (Bot.) cloroplasto"
+    },
+    {
+        "id": 28828,
+        "basque": "kobalto",
+        "spanish": "iz. (Kim.) cobalto"
+    },
+    {
+        "id": 28829,
+        "basque": "koipezto",
+        "spanish": "izond. pringoso, -a; grasiento, -a; mugriento, -a"
+    },
+    {
+        "id": 28830,
+        "basque": "koito",
+        "spanish": "iz. coito"
+    },
+    {
+        "id": 28831,
+        "basque": "konfiantzazko boto",
+        "spanish": "(Zuz.) voto de confianza"
+    },
+    {
+        "id": 28832,
+        "basque": "konjunto",
+        "spanish": "iz. (Heg.) conjunto [de ropa]"
+    },
+    {
+        "id": 28833,
+        "basque": "konpleto",
+        "spanish": "izond. [ezer falta ez zaiona] completo, -a"
+    },
+    {
+        "id": 28834,
+        "basque": "kontinenteen jito",
+        "spanish": "(Geol.) deriva continental"
+    },
+    {
+        "id": 28835,
+        "basque": "kontralto",
+        "spanish": "iz. (Mus.) contralto"
+    },
+    {
+        "id": 28836,
+        "basque": "kontzertu-areto",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28837,
+        "basque": "kontzientzia gaizto",
+        "spanish": "mala conciencia"
+    },
+    {
+        "id": 28838,
+        "basque": "koprolito",
+        "spanish": "iz. (Med.) (Paleont.) coprolito"
+    },
+    {
+        "id": 28839,
+        "basque": "kopto",
+        "spanish": "iz./izond. copto, -a"
+    },
+    {
+        "id": 28840,
+        "basque": "Korinto",
+        "spanish": "Corinto"
+    },
+    {
+        "id": 28841,
+        "basque": "kormofito",
+        "spanish": "iz./izond. (Bot.) cormofito, -a"
+    },
+    {
+        "id": 28842,
+        "basque": "kriostato",
+        "spanish": "iz. (Fis.) criostato"
+    },
+    {
+        "id": 28843,
+        "basque": "kristalito",
+        "spanish": "iz. (Geol.) cristalito"
+    },
+    {
+        "id": 28844,
+        "basque": "kristo",
+        "spanish": "1 iz. (maiusk.) Cristo // 2 iz. (Art.) cristo [imagen]"
+    },
+    {
+        "id": 28845,
+        "basque": "kromoplasto",
+        "spanish": "iz. (Biol.) cromoplasto"
+    },
+    {
+        "id": 28846,
+        "basque": "kuarteto",
+        "spanish": "iz. (Mus.) cuarteto [composición]"
+    },
+    {
+        "id": 28847,
+        "basque": "kuarto",
+        "spanish": "iz. (Heg.) (herr.) dormitorio, alcoba, habitación // iz. cuarto [moneda de cobre]"
+    },
+    {
+        "id": 28848,
+        "basque": "kuleto",
+        "spanish": "iz. (Mikol.) oronja, yema del huevo (Amanita caesarea)"
+    },
+    {
+        "id": 28849,
+        "basque": "labirinto",
+        "spanish": "1 iz. laberinto // 2 iz. (Anat.) laberinto"
+    },
+    {
+        "id": 28850,
+        "basque": "laktato",
+        "spanish": "iz. (Kim.) lactato"
+    },
+    {
+        "id": 28851,
+        "basque": "lapisto",
+        "spanish": "iz. (B) aguardiente"
+    },
+    {
+        "id": 28852,
+        "basque": "larghetto",
+        "spanish": "iz. (Mus.) larghetto"
+    },
+    {
+        "id": 28853,
+        "basque": "lazareto",
+        "spanish": "iz. lazareto"
+    },
+    {
+        "id": 28854,
+        "basque": "lento",
+        "spanish": "adb./ iz. (Mus.) lento"
+    },
+    {
+        "id": 28855,
+        "basque": "leukozito",
+        "spanish": "iz. (Biol.) leucocito"
+    },
+    {
+        "id": 28856,
+        "basque": "liberto",
+        "spanish": "iz. liberto, -a"
+    },
+    {
+        "id": 28857,
+        "basque": "libreto",
+        "spanish": "iz. (Mus.) libreto"
+    },
+    {
+        "id": 28858,
+        "basque": "lignito",
+        "spanish": "iz. lignito"
+    },
+    {
+        "id": 28859,
+        "basque": "linfozito",
+        "spanish": "iz. (Biol.) linfocito"
+    },
+    {
+        "id": 28860,
+        "basque": "listo",
+        "spanish": "interj. (lgart.) ¡listo!"
+    },
+    {
+        "id": 28861,
+        "basque": "literato",
+        "spanish": "iz. literato, -a"
+    },
+    {
+        "id": 28862,
+        "basque": "lopeto",
+        "spanish": "1 iz. [jakia] morcillón grande // 2 izond. [pertsona] atocinado, -a; fofo, -a; gordinflón, -ona"
+    },
+    {
+        "id": 28863,
+        "basque": "lore-hosto",
+        "spanish": "pétalo (de la flor)"
+    },
+    {
+        "id": 28864,
+        "basque": "loto",
+        "spanish": "iz. (Bot.) loto (Nelumbo sp., Nymphaea sp.)"
+    },
+    {
+        "id": 28865,
+        "basque": "loto(-lore)",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28866,
+        "basque": "lotsa gaizto",
+        "spanish": "1 falta de respeto, descaro, desvergüenza // 2 vergüenza, bochorno; pudor"
+    },
+    {
+        "id": 28867,
+        "basque": "luto",
+        "spanish": "izond. (Z) profundo, -a; hondo, -a // iz. (Heg.) luto, duelo"
+    },
+    {
+        "id": 28868,
+        "basque": "magneto",
+        "spanish": "iz. (Elektr.) magneto"
+    },
+    {
+        "id": 28869,
+        "basque": "mailasto",
+        "spanish": "iz. (B) caña del maíz"
+    },
+    {
+        "id": 28870,
+        "basque": "maketo",
+        "spanish": "izond. (Heg.) maqueto, -a"
+    },
+    {
+        "id": 28871,
+        "basque": "makito",
+        "spanish": "izond. (B) tonto, -a, majadero, -a, necio, -a, bobo, -a"
+    },
+    {
+        "id": 28872,
+        "basque": "makrofito",
+        "spanish": "iz./izond. (Biol.) macrófito, -a"
+    },
+    {
+        "id": 28873,
+        "basque": "malato",
+        "spanish": "iz. (B) achacoso, -a, enfermizo, -a"
+    },
+    {
+        "id": 28874,
+        "basque": "mamato",
+        "spanish": "iz. (B) renuncio [en juegos de cartas]"
+    },
+    {
+        "id": 28875,
+        "basque": "Mamerto",
+        "spanish": "Mamerto"
+    },
+    {
+        "id": 28876,
+        "basque": "manostato",
+        "spanish": "iz. (Fis.) manostato"
+    },
+    {
+        "id": 28877,
+        "basque": "Maputo",
+        "spanish": "Maputo"
+    },
+    {
+        "id": 28878,
+        "basque": "martinsalto",
+        "spanish": "iz. (GN/Ipar.) saltamontes"
+    },
+    {
+        "id": 28879,
+        "basque": "masalasto",
+        "spanish": "iz. perfolla [hoja que cubre el maíz]"
+    },
+    {
+        "id": 28880,
+        "basque": "mato",
+        "spanish": "iz. (Ipar.) bastón; vara, estaca"
+    },
+    {
+        "id": 28881,
+        "basque": "matxinsalto",
+        "spanish": "iz. (Zool.) saltamontes"
+    },
+    {
+        "id": 28882,
+        "basque": "megalito",
+        "spanish": "iz. megalito"
+    },
+    {
+        "id": 28883,
+        "basque": "melanozito",
+        "spanish": "iz. (Biol.) melanocito"
+    },
+    {
+        "id": 28884,
+        "basque": "memento",
+        "spanish": "iz. momento, instante"
+    },
+    {
+        "id": 28885,
+        "basque": "mesolito",
+        "spanish": "iz. (maiusk.) Mesolítico"
+    },
+    {
+        "id": 28886,
+        "basque": "metakrilato",
+        "spanish": "iz. (Kim.) metacrilato"
+    },
+    {
+        "id": 28887,
+        "basque": "meteorito",
+        "spanish": "iz. meteorito"
+    },
+    {
+        "id": 28888,
+        "basque": "mihigaizto",
+        "spanish": "izond. murmurador, -a, criticón, -ona; maldiciente, malhablado, -a"
+    },
+    {
+        "id": 28889,
+        "basque": "mikrofito",
+        "spanish": "iz./izond. (Biol.) micrófito, -a"
+    },
+    {
+        "id": 28890,
+        "basque": "mingaizto",
+        "spanish": "iz. (batez ere Ipar.) cáncer"
+    },
+    {
+        "id": 28891,
+        "basque": "mirto",
+        "spanish": "iz. (Bot.) mirto (Myrtus communis)"
+    },
+    {
+        "id": 28892,
+        "basque": "misto",
+        "spanish": "1 izond. mixto, -a // 2 iz. (Heg.) (batez ere pl.) cerilla, fósforo, mixto"
+    },
+    {
+        "id": 28893,
+        "basque": "mito",
+        "spanish": "1 iz. [alegia, alegoria] mito // 2 iz. [errealitatean inongo oinarririk ez duen ustea] mito // 3 iz. [zerbait edo norbaiti buruzko uste idealizatua] mito"
+    },
+    {
+        "id": 28894,
+        "basque": "mizto",
+        "spanish": "1 iz. [narrastiena] lengua // 2 iz. (hed.) lengua viperina, persona murmuradora // 3 iz. veneno, ponzoña // 4 iz. [intsektuena] aguijón"
+    },
+    {
+        "id": 28895,
+        "basque": "moderato",
+        "spanish": "adb. (Mus.) moderato"
+    },
+    {
+        "id": 28896,
+        "basque": "Modesto",
+        "spanish": "Modesto"
+    },
+    {
+        "id": 28897,
+        "basque": "mojito",
+        "spanish": "iz. mojito"
+    },
+    {
+        "id": 28898,
+        "basque": "monolito",
+        "spanish": "iz. (Arkit.) monolito"
+    },
+    {
+        "id": 28899,
+        "basque": "monozito",
+        "spanish": "iz. (Biol.) monocito"
+    },
+    {
+        "id": 28900,
+        "basque": "moskito",
+        "spanish": "iz. (Heg.) mosquito"
+    },
+    {
+        "id": 28901,
+        "basque": "moto",
+        "spanish": "1 iz. (Ipar.) moño // 2 iz. (Ipar.) [hegaztiena] penacho, cresta // 3 iz. (Ipar.) pañoleta [de la cabeza]; toca, penacho // 4 iz. (Ipar.) (hed.) penacho, vanidad, orgullo // iz. (herr.) motocicleta"
+    },
+    {
+        "id": 28902,
+        "basque": "motto",
+        "spanish": "iz. penacho [de las aves]"
+    },
+    {
+        "id": 28903,
+        "basque": "mozkin garbi/neto",
+        "spanish": "(Ekon.) beneficio neto"
+    },
+    {
+        "id": 28904,
+        "basque": "mulato",
+        "spanish": "iz./izond. mulato, -a"
+    },
+    {
+        "id": 28905,
+        "basque": "munto",
+        "spanish": "1 iz. montón; montículo // 2 iz. colina, cerro, collado, elevación; montículo; otero"
+    },
+    {
+        "id": 28906,
+        "basque": "Murillo el Fruto",
+        "spanish": "Murillo el Fruto"
+    },
+    {
+        "id": 28907,
+        "basque": "NATO",
+        "spanish": "OTAN (Organización del Tratado del Atlántico Norte)"
+    },
+    {
+        "id": 28908,
+        "basque": "nazio-produktu neto",
+        "spanish": "(Ekon.) producto nacional neto (PNN)"
+    },
+    {
+        "id": 28909,
+        "basque": "nematozisto",
+        "spanish": "iz. (Zool.) nematocisto"
+    },
+    {
+        "id": 28910,
+        "basque": "neofito",
+        "spanish": "iz. (Erl.) neófito, -a"
+    },
+    {
+        "id": 28911,
+        "basque": "neolito",
+        "spanish": "iz. (maiusk.) Neolítico"
+    },
+    {
+        "id": 28912,
+        "basque": "neskato",
+        "spanish": "1 iz. chavala, muchacha, chiquilla, jovencita, chica // 2 iz. (GN/Ipar.) sirvienta, criada, muchacha"
+    },
+    {
+        "id": 28913,
+        "basque": "neto",
+        "spanish": "izond. neto, -a"
+    },
+    {
+        "id": 28914,
+        "basque": "nitrato",
+        "spanish": "iz. (Kim.) nitrato"
+    },
+    {
+        "id": 28915,
+        "basque": "nitrito",
+        "spanish": "iz. (Kim.) nitrito"
+    },
+    {
+        "id": 28916,
+        "basque": "obozito",
+        "spanish": "iz. (Med.) ovocito"
+    },
+    {
+        "id": 28917,
+        "basque": "odol gaizto",
+        "spanish": "mala sangre"
+    },
+    {
+        "id": 28918,
+        "basque": "oin-arrasto",
+        "spanish": "huella del pie"
+    },
+    {
+        "id": 28919,
+        "basque": "okteto",
+        "spanish": "iz. (Mus.) octeto [composición]"
+    },
+    {
+        "id": 28920,
+        "basque": "oligisto",
+        "spanish": "iz. (Miner.) oligisto"
+    },
+    {
+        "id": 28921,
+        "basque": "oligoketo",
+        "spanish": "iz./izond. (Zool.) oligoqueto"
+    },
+    {
+        "id": 28922,
+        "basque": "omoplato",
+        "spanish": "iz. (Anat.) omóplato, omoplato, escápula, paleta"
+    },
+    {
+        "id": 28923,
+        "basque": "ondo baino hobeto",
+        "spanish": "mejor que mejor, mucho mejor; requetebién, de rechupete"
+    },
+    {
+        "id": 28924,
+        "basque": "oporto",
+        "spanish": "Ik. porto"
+    },
+    {
+        "id": 28925,
+        "basque": "otolito",
+        "spanish": "iz. (Med.) otolito"
+    },
+    {
+        "id": 28926,
+        "basque": "otto",
+        "spanish": "iz. (Ipar.) (lgart.) tío"
+    },
+    {
+        "id": 28927,
+        "basque": "oxalato",
+        "spanish": "iz. (Kim.) oxalato"
+    },
+    {
+        "id": 28928,
+        "basque": "paisaia-arkitekto",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28929,
+        "basque": "palafito",
+        "spanish": "iz. palafito"
+    },
+    {
+        "id": 28930,
+        "basque": "paleolito",
+        "spanish": "iz. (maiusk.) Paleolítico"
+    },
+    {
+        "id": 28931,
+        "basque": "palinpsesto",
+        "spanish": "iz. palimpsesto"
+    },
+    {
+        "id": 28932,
+        "basque": "palto",
+        "spanish": "iz. (Ipar.) abrigo"
+    },
+    {
+        "id": 28933,
+        "basque": "panfleto",
+        "spanish": "iz. panfleto"
+    },
+    {
+        "id": 28934,
+        "basque": "parapeto",
+        "spanish": "iz. (Mil.) parapeto"
+    },
+    {
+        "id": 28935,
+        "basque": "parasito",
+        "spanish": "1 iz./izond. (Biol.) parásito, -a // 2 iz./izond. (hed.) parásito // 3 iz. (Telekom.) parásito"
+    },
+    {
+        "id": 28936,
+        "basque": "parodonto",
+        "spanish": "iz. (Anat.) parodoncio"
+    },
+    {
+        "id": 28937,
+        "basque": "patruila-ibilgailu; patruila-auto",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28938,
+        "basque": "pekazto",
+        "spanish": "izond. (B) pecoso, -a"
+    },
+    {
+        "id": 28939,
+        "basque": "perianto",
+        "spanish": "iz. (Bot.) periantio, perianto, envoltura floral"
+    },
+    {
+        "id": 28940,
+        "basque": "perikito",
+        "spanish": "iz. (Zool.) (Heg.) periquito (Melopsittacus undulatus)"
+    },
+    {
+        "id": 28941,
+        "basque": "permanganato",
+        "spanish": "iz. (Kim.) permanganato"
+    },
+    {
+        "id": 28942,
+        "basque": "pinto",
+        "spanish": "izond. pinto, -a; [behi-aziendak] berrendo, -a; [zaldi-aziendak] pío, -a"
+    },
+    {
+        "id": 28943,
+        "basque": "piperpoto",
+        "spanish": "1 iz. bote de pimientos // 2 iz. (lgart.) bandera española (con sentido despectivo)"
+    },
+    {
+        "id": 28944,
+        "basque": "piroklasto",
+        "spanish": "iz. (Geol.) piroclasto"
+    },
+    {
+        "id": 28945,
+        "basque": "pisto",
+        "spanish": "iz. pisto [plato]"
+    },
+    {
+        "id": 28946,
+        "basque": "pito",
+        "spanish": "iz. (E) pito, castañeta [que se hace con los dedos] // iz. (Heg.) (herr.) (ezezko testuinguruetan) nada"
+    },
+    {
+        "id": 28947,
+        "basque": "pizzicato",
+        "spanish": "iz. (Mus.) pizzicato"
+    },
+    {
+        "id": 28948,
+        "basque": "planto",
+        "spanish": "interj. voz con que se hace alto o se indica que se para el juego en el juego de las cartas"
+    },
+    {
+        "id": 28949,
+        "basque": "plasto",
+        "spanish": "iz. (Biol.) plasto"
+    },
+    {
+        "id": 28950,
+        "basque": "plato",
+        "spanish": "iz. (Zin.) plató"
+    },
+    {
+        "id": 28951,
+        "basque": "plinto",
+        "spanish": "1 iz. (Arkit.) plinto // 2 iz. (Kir.) plinto"
+    },
+    {
+        "id": 28952,
+        "basque": "polipasto",
+        "spanish": "iz. (Teknol.) (Heg.) polipasto"
+    },
+    {
+        "id": 28953,
+        "basque": "polito",
+        "spanish": "1 adb. (B) despacio, lentamente // 2 adb. (B) bien, adecuadamente, lindamente"
+    },
+    {
+        "id": 28954,
+        "basque": "ponpa-auto",
+        "spanish": "autobomba"
+    },
+    {
+        "id": 28955,
+        "basque": "portamento",
+        "spanish": "iz. (Mus.) portamento"
+    },
+    {
+        "id": 28956,
+        "basque": "portzierto",
+        "spanish": "1 lok. (Heg.) (lgart.) [izan ere] por cierto // 2 lok. (Heg.) (lgart.) [bide batez] por cierto"
+    },
+    {
+        "id": 28957,
+        "basque": "poto",
+        "spanish": "1 iz. (Heg.) [ontzia] bote // 2 iz. (Heg.) [sega-potoa] colodra, estuche de segador // 3 iz. (Heg.) [bertsolariena] fallo; verso mal rimado // 4 iz. (Heg.) [haurrentzako pure-gisako janaria] potito // 5 iz. (Heg.) (lgart.) [eskupekoentzako ontzia] bote // 6 iz. (Heg.) (lgart.) [zozketakoa] bote // 7 iz. (Heg.) (lgart.) fondo; bote"
+    },
+    {
+        "id": 28958,
+        "basque": "potto",
+        "spanish": "iz. (GN) potro, caballito"
+    },
+    {
+        "id": 28959,
+        "basque": "prentsa-areto",
+        "spanish": "sala de prensa"
+    },
+    {
+        "id": 28960,
+        "basque": "presto",
+        "spanish": "adb./ iz. (Mus.) presto"
+    },
+    {
+        "id": 28961,
+        "basque": "prokarioto",
+        "spanish": "iz./izond. (Biol.) procariota, procarionte"
+    },
+    {
+        "id": 28962,
+        "basque": "pronto",
+        "spanish": "adb. (Heg.) (herr.) preparado, -a, dispuesto, -a, listo, -a"
+    },
+    {
+        "id": 28963,
+        "basque": "proselito",
+        "spanish": "iz. prosélito"
+    },
+    {
+        "id": 28964,
+        "basque": "protesto",
+        "spanish": "iz. (Fin.) (Zuz.) protesto"
+    },
+    {
+        "id": 28965,
+        "basque": "protisto",
+        "spanish": "iz./izond. (Biol.) protisto, -a"
+    },
+    {
+        "id": 28966,
+        "basque": "prozesatze-auto; prozesatzeko auto",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28967,
+        "basque": "pteridofito",
+        "spanish": "iz. (Bot.) pteridófito, -a"
+    },
+    {
+        "id": 28968,
+        "basque": "pterigoto",
+        "spanish": "iz./izond. (Zool.) pterigoto, -a"
+    },
+    {
+        "id": 28969,
+        "basque": "puto",
+        "spanish": "iz. puto"
+    },
+    {
+        "id": 28970,
+        "basque": "putzu txikian ito",
+        "spanish": "ahogarse en un vaso de agua"
+    },
+    {
+        "id": 28971,
+        "basque": "Quito",
+        "spanish": "Quito"
+    },
+    {
+        "id": 28972,
+        "basque": "risotto",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 28973,
+        "basque": "Roberto",
+        "spanish": "Roberto"
+    },
+    {
+        "id": 28974,
+        "basque": "rubato",
+        "spanish": "adb./ iz. (Mus.) rubato"
+    },
+    {
+        "id": 28975,
+        "basque": "saskito",
+        "spanish": "iz. (GN) almud"
+    },
+    {
+        "id": 28976,
+        "basque": "sato",
+        "spanish": "iz. (L) medida de granos"
+    },
+    {
+        "id": 28977,
+        "basque": "sega-poto",
+        "spanish": "1 [ontzia] colodra, estuche de segador // 2 [pepelerdoa] tonto de capirote/remate, tonto del bote, lelo, -a // 3 (lgart.) [telefonoa] (teléfono) móvil"
+    },
+    {
+        "id": 28978,
+        "basque": "septeto",
+        "spanish": "iz. (Mus.) septeto [composición]"
+    },
+    {
+        "id": 28979,
+        "basque": "sesteto",
+        "spanish": "iz. (Mus.) sexteto [composición]"
+    },
+    {
+        "id": 28980,
+        "basque": "sesto",
+        "spanish": "iz. (GN) chiste, ocurrencia graciosa"
+    },
+    {
+        "id": 28981,
+        "basque": "silikato",
+        "spanish": "iz. (Miner.) silicato"
+    },
+    {
+        "id": 28982,
+        "basque": "Sixto",
+        "spanish": "Sixto"
+    },
+    {
+        "id": 28983,
+        "basque": "sokasalto",
+        "spanish": "iz. (Heg.) (juego de la) comba; cuerda de la comba"
+    },
+    {
+        "id": 28984,
+        "basque": "somito",
+        "spanish": "iz. (Zool.) somito [metámero]"
+    },
+    {
+        "id": 28985,
+        "basque": "soneto",
+        "spanish": "iz. (Metr.) soneto"
+    },
+    {
+        "id": 28986,
+        "basque": "staccato",
+        "spanish": "1 iz. (Mus.) staccato // 2 adb. (Mus.) staccato"
+    },
+    {
+        "id": 28987,
+        "basque": "suelto",
+        "spanish": "1 adb. (G) (lgart.) en abundancia // 2 izond. (G) suelto, -a"
+    },
+    {
+        "id": 28988,
+        "basque": "sulfato",
+        "spanish": "iz. (Kim.) sulfato"
+    },
+    {
+        "id": 28989,
+        "basque": "sulfito",
+        "spanish": "iz. (Kim.) sulfito"
+    },
+    {
+        "id": 28990,
+        "basque": "superfosfato",
+        "spanish": "iz. (Kim.) superfosfato"
+    },
+    {
+        "id": 28991,
+        "basque": "susto",
+        "spanish": "iz. (Heg.) (herr.) susto"
+    },
+    {
+        "id": 28992,
+        "basque": "talofito",
+        "spanish": "iz./izond. (Bot.) talofita"
+    },
+    {
+        "id": 28993,
+        "basque": "tanto",
+        "spanish": "1 iz. [joko eta kiroletan] tanto // 2 iz. [oihaletakoa] lunar, mota // 3 iz. (hed.) mancha // 4 iz. Ik. tanta"
+    },
+    {
+        "id": 28994,
+        "basque": "tato",
+        "spanish": "iz. (B) cacho, pedazo, trozo"
+    },
+    {
+        "id": 28995,
+        "basque": "Tazito",
+        "spanish": "m. Tácito"
+    },
+    {
+        "id": 28996,
+        "basque": "te-areto",
+        "spanish": "salón de té"
+    },
+    {
+        "id": 28997,
+        "basque": "teknolekto",
+        "spanish": "iz. (Hizkl.) tecnolecto"
+    },
+    {
+        "id": 28998,
+        "basque": "teodolito",
+        "spanish": "iz. teodolito"
+    },
+    {
+        "id": 28999,
+        "basque": "Teokrito",
+        "spanish": "m. Teócrito"
+    },
+    {
+        "id": 29000,
+        "basque": "termostato",
+        "spanish": "iz. termostato"
+    },
+    {
+        "id": 29001,
+        "basque": "tertzeto",
+        "spanish": "iz. (Mus.) terceto [composición]"
+    },
+    {
+        "id": 29002,
+        "basque": "testo",
+        "spanish": "iz. (Ipar.) sentido común, juicio; cabeza"
+    },
+    {
+        "id": 29003,
+        "basque": "tiento",
+        "spanish": "iz. (Mus.) tiento"
+    },
+    {
+        "id": 29004,
+        "basque": "titarekada bat uretan ito",
+        "spanish": "ahogarse en un vaso de agua"
+    },
+    {
+        "id": 29005,
+        "basque": "Tito",
+        "spanish": "Tito"
+    },
+    {
+        "id": 29006,
+        "basque": "to",
+        "spanish": "1 interj. (batez ere Ipar.) (lgart.) palabra, de trato familiar, con que se llama a un hombre o a un animal macho // 2 interj. (batez ere Ipar.) (lgart.) (gizonezkoekin) toma, ten // 3 interj. (batez ere Ipar.) (lgart.) [harridura adierazteko] ¡arrea!"
+    },
+    {
+        "id": 29007,
+        "basque": "tonto",
+        "spanish": "1 izond. [batez ere gizonezkoei buruz] tonto, -a, estúpido, -a, bobo, -a, atontado, -a, alelado, -a, lelo, -a // 2 izond. (Ipar.) lento, -a"
+    },
+    {
+        "id": 29008,
+        "basque": "Torkuato",
+        "spanish": "Torcuato"
+    },
+    {
+        "id": 29009,
+        "basque": "toto",
+        "spanish": "1 iz. (B) convite que se da a los que han ayudado en alguna tarea // 2 iz. (haur.) perro, -a"
+    },
+    {
+        "id": 29010,
+        "basque": "Trento",
+        "spanish": "Trento"
+    },
+    {
+        "id": 29011,
+        "basque": "tronbozito",
+        "spanish": "iz. (Biol.) trombocito"
+    },
+    {
+        "id": 29012,
+        "basque": "tusto",
+        "spanish": "izond. (Z) podrido, -a, descompuesto, -a"
+    },
+    {
+        "id": 29013,
+        "basque": "tuzto",
+        "spanish": "zenbtz. zehaztgb. (BN) mucho(s), mucha(s)"
+    },
+    {
+        "id": 29014,
+        "basque": "txanda eta kito",
+        "spanish": "cambio y corto"
+    },
+    {
+        "id": 29015,
+        "basque": "txarto",
+        "spanish": "adb. (B) mal, malamente, de mala manera"
+    },
+    {
+        "id": 29016,
+        "basque": "txerto",
+        "spanish": "1 iz. injerto // 2 iz. (Kim.) injerto // 3 iz. (Med.) vacuna"
+    },
+    {
+        "id": 29017,
+        "basque": "txibato",
+        "spanish": "iz. (Heg.) (herr.) chivato, -a"
+    },
+    {
+        "id": 29018,
+        "basque": "txikito",
+        "spanish": "1 iz. (Heg.) (lgart.) chiquito; vaso pequeño o medio vaso de vino // 2 iz. Ik. xikito"
+    },
+    {
+        "id": 29019,
+        "basque": "txilar lauhosto",
+        "spanish": "(Bot.) brezo de turbera (Erica tetralix)"
+    },
+    {
+        "id": 29020,
+        "basque": "Txileko nitrato",
+        "spanish": "(Miner.) nitrato de Chile"
+    },
+    {
+        "id": 29021,
+        "basque": "txito",
+        "spanish": "Ik. txita"
+    },
+    {
+        "id": 29022,
+        "basque": "txoropito",
+        "spanish": "1 izond. atolondrado, -a; precipitado, -a // 2 izond. casquivano, -a"
+    },
+    {
+        "id": 29023,
+        "basque": "txorten-hosto",
+        "spanish": "(Bot.) estípula"
+    },
+    {
+        "id": 29024,
+        "basque": "txupito",
+        "spanish": "iz. (Heg.) chupito"
+    },
+    {
+        "id": 29025,
+        "basque": "udalbatza-areto",
+        "spanish": "salón de plenos del ayuntamiento"
+    },
+    {
+        "id": 29026,
+        "basque": "vibrato",
+        "spanish": "iz. (Mus.) vibrato"
+    },
+    {
+        "id": 29027,
+        "basque": "Viriato",
+        "spanish": "Viriato"
+    },
+    {
+        "id": 29028,
+        "basque": "xapito",
+        "spanish": "iz. (Ipar.) [behin-behineko etxola] carpa"
+    },
+    {
+        "id": 29029,
+        "basque": "xikito",
+        "spanish": "iz. (Z) dístico que los pastores suletinos se gritan unos a otros en la montaña"
+    },
+    {
+        "id": 29030,
+        "basque": "xilofito",
+        "spanish": "iz. (Bot.) xilófito"
+    },
+    {
+        "id": 29031,
+        "basque": "xisto",
+        "spanish": "1 iz. cajón o compartimiento del pesebre // 2 iz. serón, sera alargada"
+    },
+    {
+        "id": 29032,
+        "basque": "zelakanto",
+        "spanish": "iz. (Zool.) celacanto (Latimeria chalumnae)"
+    },
+    {
+        "id": 29033,
+        "basque": "zento",
+        "spanish": "iz. (Lit.) centón"
+    },
+    {
+        "id": 29034,
+        "basque": "zesto",
+        "spanish": "1 iz. (Heg.) (herr.) cesto, cesta // 2 iz. (Kir.) Ik. zesta"
+    },
+    {
+        "id": 29035,
+        "basque": "zubito",
+        "spanish": "1 iz. [ibaia zeharkatzekoa eta] pasadera, pasarela // 2 iz. (Mus.) ceja // 3 iz. (Mus.) cejilla, cejuela"
+    },
+    {
+        "id": 29036,
+        "basque": "aberetiar",
+        "spanish": "adj. animal; bestial, brutal"
+    },
+    {
+        "id": 29037,
+        "basque": "afaltiar",
+        "spanish": "iz. comensal de una cena"
+    },
+    {
+        "id": 29038,
+        "basque": "aitatiar",
+        "spanish": "1 adj. (batez ere Ipar.) paterno, -a // 2 adj. (batez ere Ipar.) parecido, -a al padre; hijo, -a de su padre"
+    },
+    {
+        "id": 29039,
+        "basque": "amatiar",
+        "spanish": "1 adj. (batez ere Ipar.) maternal // 2 adj. (batez ere Ipar.) parecido, -a a la madre"
+    },
+    {
+        "id": 29040,
+        "basque": "apaiztiar",
+        "spanish": "1 adj. clerical, de los clérigos // 2 adj. clerical, partidario de la Iglesia"
+    },
+    {
+        "id": 29041,
+        "basque": "arestiar",
+        "spanish": "adj./iz. arestiano, -a, de Aresti"
+    },
+    {
+        "id": 29042,
+        "basque": "atlantiar",
+        "spanish": "Ik. atlantiko"
+    },
+    {
+        "id": 29043,
+        "basque": "baketiar",
+        "spanish": "adj. (Ipar.) pacífico, -a"
+    },
+    {
+        "id": 29044,
+        "basque": "bazkaltiar",
+        "spanish": "iz. comensal; convidado a comer"
+    },
+    {
+        "id": 29045,
+        "basque": "beheitiar",
+        "spanish": "adj./iz. (GN) ribereño, -a, de la Ribera de Navarra"
+    },
+    {
+        "id": 29046,
+        "basque": "beilatiar",
+        "spanish": "iz. (Ipar.) peregrino, -a; romero, -a"
+    },
+    {
+        "id": 29047,
+        "basque": "bonapartetiar",
+        "spanish": "adj./iz. bonapartista"
+    },
+    {
+        "id": 29048,
+        "basque": "djibutiar",
+        "spanish": "adj./iz. yibutiano, -a"
+    },
+    {
+        "id": 29049,
+        "basque": "donostiar",
+        "spanish": "adj./iz. donostiarra; easonense"
+    },
+    {
+        "id": 29050,
+        "basque": "eiakulazio goiztiar",
+        "spanish": "eyaculación precoz"
+    },
+    {
+        "id": 29051,
+        "basque": "Erdi Aro berantiar",
+        "spanish": "Baja Edad Media, tardomedievo"
+    },
+    {
+        "id": 29052,
+        "basque": "Erdi Aro goiztiar",
+        "spanish": "Alta Edad Media"
+    },
+    {
+        "id": 29053,
+        "basque": "erregetiar",
+        "spanish": "adj./iz. realista, monárquico, -a"
+    },
+    {
+        "id": 29054,
+        "basque": "eszitiar",
+        "spanish": "adj./iz. escita"
+    },
+    {
+        "id": 29055,
+        "basque": "etxetiar",
+        "spanish": "1 iz. [etxekoa] habitante; familia // 2 iz. (pl.) criados, servidores // 3 iz. arrendatario, -a, inquilino, -a // 4 adj. doméstico, -a, familiar; casero, -a"
+    },
+    {
+        "id": 29056,
+        "basque": "ezkertiar",
+        "spanish": "adj./iz. izquierdista, de izquierda(s)"
+    },
+    {
+        "id": 29057,
+        "basque": "filistiar",
+        "spanish": "adj./iz. filisteo, -a"
+    },
+    {
+        "id": 29058,
+        "basque": "frankismo berantiar",
+        "spanish": "tardofranquismo"
+    },
+    {
+        "id": 29059,
+        "basque": "garaitiar",
+        "spanish": "iz./izond. (Ipar.) vencedor, -a; triunfador, -a; victorioso, -a"
+    },
+    {
+        "id": 29060,
+        "basque": "gerotiar",
+        "spanish": "adj. inclinado a demorar(se)/retrasar(se), dado a dejar las cosas para más tarde, dado a aplazar las cosas"
+    },
+    {
+        "id": 29061,
+        "basque": "gizatiar",
+        "spanish": "adj. humano, -a, de condición humana; filántropo, -a"
+    },
+    {
+        "id": 29062,
+        "basque": "goiztiar",
+        "spanish": "1 adj. madrugador, -a, que se levanta temprano // 2 adj. temprano, -a, tempranero, -a, adelantado, -a; precoz"
+    },
+    {
+        "id": 29063,
+        "basque": "gosaltiar",
+        "spanish": "iz. (L) invitado al almuerzo/desayuno"
+    },
+    {
+        "id": 29064,
+        "basque": "haitiar",
+        "spanish": "adj./iz. haitiano, -a"
+    },
+    {
+        "id": 29065,
+        "basque": "jainkotiar",
+        "spanish": "1 adj. pío, -a, devoto, -a, piadoso, -a // 2 adj. [gauzei dagokienez] divino, -a, espiritual // 3 adj. divino, -a, de Dios"
+    },
+    {
+        "id": 29066,
+        "basque": "kantiar",
+        "spanish": "adj./iz. kantiano, -a"
+    },
+    {
+        "id": 29067,
+        "basque": "karistiar",
+        "spanish": "adj./iz. caristio, -a"
+    },
+    {
+        "id": 29068,
+        "basque": "kiribatiar",
+        "spanish": "adj./iz. kiribatiano, -a"
+    },
+    {
+        "id": 29069,
+        "basque": "partiar",
+        "spanish": "adj./iz. parto, -a"
+    },
+    {
+        "id": 29070,
+        "basque": "rousseautiar",
+        "spanish": "adj./iz. rousseauniano, -a"
+    },
+    {
+        "id": 29071,
+        "basque": "solastiar",
+        "spanish": "iz. (Ipar.) interlocutor, -a; hablador, -a"
+    },
+    {
+        "id": 29072,
+        "basque": "udaberri-lore goiztiar",
+        "spanish": "(Bot.) primavera (Primula vulgaris)"
+    },
+    {
+        "id": 29073,
+        "basque": "ultraezkertiar",
+        "spanish": "adj./iz. (Pol.) ultraizquierdista"
+    },
+    {
+        "id": 29074,
+        "basque": "abakando",
+        "spanish": "iz. (Zool.) bogavante (Homarus gammarus)"
+    },
+    {
+        "id": 29075,
+        "basque": "absurdo",
+        "spanish": "iz. absurdo, absurdidad"
+    },
+    {
+        "id": 29076,
+        "basque": "accelerando",
+        "spanish": "adb./ iz. (Mus.) accelerando"
+    },
+    {
+        "id": 29077,
+        "basque": "Adelardo",
+        "spanish": "Adelardo"
+    },
+    {
+        "id": 29078,
+        "basque": "afido",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29079,
+        "basque": "agilando",
+        "spanish": "iz. (Heg.) aguinaldo"
+    },
+    {
+        "id": 29080,
+        "basque": "aikido",
+        "spanish": "iz. (Kir.) aikido"
+    },
+    {
+        "id": 29081,
+        "basque": "aktinido",
+        "spanish": "iz. (Kim.) actínido"
+    },
+    {
+        "id": 29082,
+        "basque": "akzipitrido",
+        "spanish": "iz./izond. (Zool.) accipítrido, -a"
+    },
+    {
+        "id": 29083,
+        "basque": "alaudido",
+        "spanish": "iz./izond. (Zool.) aláudido, -a"
+    },
+    {
+        "id": 29084,
+        "basque": "albedo",
+        "spanish": "iz. (Fis.) albedo"
+    },
+    {
+        "id": 29085,
+        "basque": "aldehido",
+        "spanish": "iz. (Kim.) aldehído"
+    },
+    {
+        "id": 29086,
+        "basque": "amebido",
+        "spanish": "iz./izond. (Mikrob.) amébido, -a"
+    },
+    {
+        "id": 29087,
+        "basque": "aminoazido",
+        "spanish": "iz. (Biokim.) aminoácido"
+    },
+    {
+        "id": 29088,
+        "basque": "amontillado",
+        "spanish": "izond. amontillado"
+    },
+    {
+        "id": 29089,
+        "basque": "anakardo",
+        "spanish": "1 iz. (Bot.) anacardo (Anacardium occidentale) // 2 iz. [fruitua] anacardo"
+    },
+    {
+        "id": 29090,
+        "basque": "anatido",
+        "spanish": "iz./izond. (Zool.) anátido, -a"
+    },
+    {
+        "id": 29091,
+        "basque": "anelido",
+        "spanish": "iz./izond. (Zool.) anélido, -a"
+    },
+    {
+        "id": 29092,
+        "basque": "angelu solido",
+        "spanish": "ángulo sólido"
+    },
+    {
+        "id": 29093,
+        "basque": "anhidrido",
+        "spanish": "1 iz. (Kim.) Ik. oxido // 2 iz. (Kim.) [kimika organikoan] anhídrido"
+    },
+    {
+        "id": 29094,
+        "basque": "anodo",
+        "spanish": "iz. (Kim.) ánodo"
+    },
+    {
+        "id": 29095,
+        "basque": "antiazido",
+        "spanish": "iz. (Med.) antiácido"
+    },
+    {
+        "id": 29096,
+        "basque": "apido",
+        "spanish": "iz./izond. (Zool.) ápido, -a"
+    },
+    {
+        "id": 29097,
+        "basque": "apodo",
+        "spanish": "izond. (Zool.) ápodo"
+    },
+    {
+        "id": 29098,
+        "basque": "Arakaldo",
+        "spanish": "Arakaldo"
+    },
+    {
+        "id": 29099,
+        "basque": "araknido",
+        "spanish": "iz./izond. (Zool.) arácnido, -a"
+    },
+    {
+        "id": 29100,
+        "basque": "arantza bifido; arantza zatibitu",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29101,
+        "basque": "ardeido",
+        "spanish": "iz./izond. (Zool.) ardeido, -a"
+    },
+    {
+        "id": 29102,
+        "basque": "ardo",
+        "spanish": "1 iz. vino // 2 iz. (edari batzuen izenetan (sagardo, garagardo) hitz-elkarteen bigarren osagai gisa) bebida alcohólica"
+    },
+    {
+        "id": 29103,
+        "basque": "arsaldo",
+        "spanish": "iz. rebaño de ovejas"
+    },
+    {
+        "id": 29104,
+        "basque": "artropodo",
+        "spanish": "iz./izond. (Zool.) artrópodo"
+    },
+    {
+        "id": 29105,
+        "basque": "Atxondo",
+        "spanish": "Atxondo"
+    },
+    {
+        "id": 29106,
+        "basque": "auto(mobil) hibrido",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29107,
+        "basque": "azido",
+        "spanish": "1 iz. (Kim.) ácido // 2 iz. (lgart.) [LSD] ácido // 3 izond. (Kim.) ácido, -a"
+    },
+    {
+        "id": 29108,
+        "basque": "baldo",
+        "spanish": "1 iz. estaca // 2 iz. zoquete, tarugo, pedazo grande de pan o de madera"
+    },
+    {
+        "id": 29109,
+        "basque": "balido",
+        "spanish": "iz. (Hist.) valido"
+    },
+    {
+        "id": 29110,
+        "basque": "bando",
+        "spanish": "iz. bando, edicto; pregón, comunicado oficial // iz. bando, facción, partido, grupo, camarilla"
+    },
+    {
+        "id": 29111,
+        "basque": "Barakaldo",
+        "spanish": "Barakaldo"
+    },
+    {
+        "id": 29112,
+        "basque": "bardo",
+        "spanish": "iz. bardo"
+    },
+    {
+        "id": 29113,
+        "basque": "begardo",
+        "spanish": "adj./iz. (Erl.) begardo, -a"
+    },
+    {
+        "id": 29114,
+        "basque": "belozipedo",
+        "spanish": "iz. velocípedo"
+    },
+    {
+        "id": 29115,
+        "basque": "Bernardo",
+        "spanish": "Bernardo"
+    },
+    {
+        "id": 29116,
+        "basque": "Bernedo",
+        "spanish": "Bernedo"
+    },
+    {
+        "id": 29117,
+        "basque": "biberrido",
+        "spanish": "iz./izond. (Zool.) vivérrido, -a"
+    },
+    {
+        "id": 29118,
+        "basque": "bifido",
+        "spanish": "izond. (Biol.) bífido, -a"
+    },
+    {
+        "id": 29119,
+        "basque": "bipedo",
+        "spanish": "izond. (Zool.) bípedo, -a"
+    },
+    {
+        "id": 29120,
+        "basque": "bisigodo",
+        "spanish": "iz./izond. visigodo, -a"
+    },
+    {
+        "id": 29121,
+        "basque": "bizardo",
+        "spanish": "izond. (gutxiesgarria) [gizonezkoei buruz] barbudo, -a"
+    },
+    {
+        "id": 29122,
+        "basque": "blenido",
+        "spanish": "iz./izond. (Zool.) blénido, -a"
+    },
+    {
+        "id": 29123,
+        "basque": "bobido",
+        "spanish": "iz./izond. (Zool.) bóvido"
+    },
+    {
+        "id": 29124,
+        "basque": "boldo",
+        "spanish": "iz. (Bot.) boldo (Peumus boldus)"
+    },
+    {
+        "id": 29125,
+        "basque": "bolido",
+        "spanish": "1 iz. (Astron.) bólido // 2 iz. (hed.) bólido"
+    },
+    {
+        "id": 29126,
+        "basque": "Bordeleko ardo",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29127,
+        "basque": "brakiopodo",
+        "spanish": "iz./izond. (Zool.) braquiópodo, -a"
+    },
+    {
+        "id": 29128,
+        "basque": "dado",
+        "spanish": "iz. dado"
+    },
+    {
+        "id": 29129,
+        "basque": "dardo",
+        "spanish": "1 iz. venablo, lanza corta arrojadiza; flecha; lanza // 2 iz. (Kir.) dardo"
+    },
+    {
+        "id": 29130,
+        "basque": "dekapodo",
+        "spanish": "iz./izond. (Zool.) decápodo, -a"
+    },
+    {
+        "id": 29131,
+        "basque": "desintegrazio-periodo",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29132,
+        "basque": "digitigrado",
+        "spanish": "iz./izond. (Zool.) digitígrado, -a"
+    },
+    {
+        "id": 29133,
+        "basque": "diminuendo",
+        "spanish": "adb./ iz. (Mus.) diminuendo"
+    },
+    {
+        "id": 29134,
+        "basque": "diodo",
+        "spanish": "iz. (Elektron.) diodo"
+    },
+    {
+        "id": 29135,
+        "basque": "dioxido",
+        "spanish": "iz. (Kim.) dióxido"
+    },
+    {
+        "id": 29136,
+        "basque": "disakarido",
+        "spanish": "iz. (Kim.) disacárido"
+    },
+    {
+        "id": 29137,
+        "basque": "do",
+        "spanish": "iz. (Mus.) do"
+    },
+    {
+        "id": 29138,
+        "basque": "dodo",
+        "spanish": "iz. (Zool.) dodo (Raphus cucullatus)"
+    },
+    {
+        "id": 29139,
+        "basque": "donado",
+        "spanish": "iz./izond. (GN/Ipar.) solterón; soltero"
+    },
+    {
+        "id": 29140,
+        "basque": "durdo",
+        "spanish": "iz. (Zool.) nombre que reciben los peces de los géneros Labrus, Acantholabrus y Centrolabrus"
+    },
+    {
+        "id": 29141,
+        "basque": "ebaketa-likido",
+        "spanish": "(Teknol.) taladrina, líquido de corte"
+    },
+    {
+        "id": 29142,
+        "basque": "Edmundo",
+        "spanish": "Edmundo"
+    },
+    {
+        "id": 29143,
+        "basque": "edo",
+        "spanish": "1 junt. o; u (delante de palabras que empiezan por o u ho) // 2 junt. o así, o algo así; aproximadamente // 3 junt. partícula empleada como refuerzo de una oración interrogativa"
+    },
+    {
+        "id": 29144,
+        "basque": "edo... edo...",
+        "spanish": "o (bien)... o (bien)..."
+    },
+    {
+        "id": 29145,
+        "basque": "Eduardo",
+        "spanish": "Eduardo"
+    },
+    {
+        "id": 29146,
+        "basque": "egundo",
+        "spanish": "1 adb. (B/G) (ezezko testuinguruetan) nunca, jamás // 2 adb. (B/G) (galde- eta baldintza-perpausetan) alguna vez // 3 interj. (B/G) voz que expresa admiración y cuyo significado varía según el contexto"
+    },
+    {
+        "id": 29147,
+        "basque": "ekido",
+        "spanish": "iz./izond. (Zool.) équido, -a"
+    },
+    {
+        "id": 29148,
+        "basque": "El Dorado",
+        "spanish": "m. (Mit.) El Dorado; Eldorado"
+    },
+    {
+        "id": 29149,
+        "basque": "elektrodo",
+        "spanish": "iz. (Elektr.) (Elektron.) electrodo"
+    },
+    {
+        "id": 29150,
+        "basque": "elektrolito sendo",
+        "spanish": "electrólito fuerte"
+    },
+    {
+        "id": 29151,
+        "basque": "enbido",
+        "spanish": "1 iz. [bereziki musean] envido // 2 iz. (hed.) envite, desafío"
+    },
+    {
+        "id": 29152,
+        "basque": "endredo",
+        "spanish": "1 iz. (Heg.) (herr.) enredo, lío, molestia // 2 iz. [nobelarena, filmarena] trama"
+    },
+    {
+        "id": 29153,
+        "basque": "epoxido",
+        "spanish": "iz. (Kim.) epóxido"
+    },
+    {
+        "id": 29154,
+        "basque": "erinazeido",
+        "spanish": "iz./izond. (Zool.) erinaceido, -a"
+    },
+    {
+        "id": 29155,
+        "basque": "erlamando",
+        "spanish": "1 iz. (Zool.) zángano // 2 iz. (hed.) zángano, -a, holgazán, -ana"
+    },
+    {
+        "id": 29156,
+        "basque": "erreserba handiko ardo",
+        "spanish": "vino gran reserva"
+    },
+    {
+        "id": 29157,
+        "basque": "erreserbako ardo",
+        "spanish": "vino de reserva"
+    },
+    {
+        "id": 29158,
+        "basque": "estrigido",
+        "spanish": "iz./izond. (Zool.) estrígido, -a"
+    },
+    {
+        "id": 29159,
+        "basque": "Estuardo",
+        "spanish": "Estuardo"
+    },
+    {
+        "id": 29160,
+        "basque": "esturnido",
+        "spanish": "iz./izond. (Zool.) estúrnido, -a"
+    },
+    {
+        "id": 29161,
+        "basque": "etxeko ardo",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29162,
+        "basque": "euri azido",
+        "spanish": "lluvia ácida"
+    },
+    {
+        "id": 29163,
+        "basque": "exodo",
+        "spanish": "iz. éxodo"
+    },
+    {
+        "id": 29164,
+        "basque": "ez ur ez ardo",
+        "spanish": "ni chicha ni limonada, ni carne ni pescado"
+    },
+    {
+        "id": 29165,
+        "basque": "fado",
+        "spanish": "iz. (Mus.) fado"
+    },
+    {
+        "id": 29166,
+        "basque": "falkonido",
+        "spanish": "iz./izond. (Zool.) falcónido, -a"
+    },
+    {
+        "id": 29167,
+        "basque": "fardo",
+        "spanish": "1 iz. (Heg.) fardo // 2 izond. (Ipar.) [zuraz, frutaz] poroso, -a, esponjoso, -a, de inferior calidad // 3 izond. (arrt.) (gutxiesgarria) [prostituta] zorrona, grandísima zorra"
+    },
+    {
+        "id": 29168,
+        "basque": "felido",
+        "spanish": "iz./izond. (Zool.) félido, -a"
+    },
+    {
+        "id": 29169,
+        "basque": "Fernando",
+        "spanish": "Fernando"
+    },
+    {
+        "id": 29170,
+        "basque": "ferodo",
+        "spanish": "iz. (Teknol.) ferodo"
+    },
+    {
+        "id": 29171,
+        "basque": "feudo",
+        "spanish": "iz. (Heg.) feudo"
+    },
+    {
+        "id": 29172,
+        "basque": "filikopsido",
+        "spanish": "iz./izond. (Bot.) filicópsido, -a"
+    },
+    {
+        "id": 29173,
+        "basque": "fiordo",
+        "spanish": "iz. (Geol.) fiordo"
+    },
+    {
+        "id": 29174,
+        "basque": "fluido",
+        "spanish": "iz./izond. (Fis.) fluido"
+    },
+    {
+        "id": 29175,
+        "basque": "formaldehido",
+        "spanish": "iz. (Kim.) formaldehído"
+    },
+    {
+        "id": 29176,
+        "basque": "frigido",
+        "spanish": "iz./izond. (Med.) frígido, -a"
+    },
+    {
+        "id": 29177,
+        "basque": "fringilido",
+        "spanish": "iz./izond. (Zool.) fringílido, -a"
+    },
+    {
+        "id": 29178,
+        "basque": "gando",
+        "spanish": "iz. (Ipar.) germen, pimpollo; vástago"
+    },
+    {
+        "id": 29179,
+        "basque": "gantz-azido",
+        "spanish": "(Kim.) ácido graso"
+    },
+    {
+        "id": 29180,
+        "basque": "garagardo (hori)",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29181,
+        "basque": "gari-garagardo",
+        "spanish": "cerveza de trigo"
+    },
+    {
+        "id": 29182,
+        "basque": "gas geldo",
+        "spanish": "(Kim.) gas inerte"
+    },
+    {
+        "id": 29183,
+        "basque": "gastropodo",
+        "spanish": "iz./izond. (Zool.) gasterópodo, -a"
+    },
+    {
+        "id": 29184,
+        "basque": "gepardo",
+        "spanish": "iz. (Zool.) guepardo (Acinonyx jubatus)"
+    },
+    {
+        "id": 29185,
+        "basque": "gereziardo",
+        "spanish": "iz. kirsch"
+    },
+    {
+        "id": 29186,
+        "basque": "glissando",
+        "spanish": "iz. (Mus.) glissando"
+    },
+    {
+        "id": 29187,
+        "basque": "glizerido",
+        "spanish": "iz. (Biokim.) glicérido"
+    },
+    {
+        "id": 29188,
+        "basque": "glukolipido",
+        "spanish": "iz. (Biokim.) glucolípido"
+    },
+    {
+        "id": 29189,
+        "basque": "gluzido",
+        "spanish": "iz. (Biokim.) glúcido"
+    },
+    {
+        "id": 29190,
+        "basque": "godo",
+        "spanish": "iz./izond. godo, -a"
+    },
+    {
+        "id": 29191,
+        "basque": "golardo",
+        "spanish": "iz. (Ipar.) galardón, premio"
+    },
+    {
+        "id": 29192,
+        "basque": "goliardo",
+        "spanish": "iz. (Hist.) goliardo, -a"
+    },
+    {
+        "id": 29193,
+        "basque": "Gumersindo",
+        "spanish": "Gumersindo"
+    },
+    {
+        "id": 29194,
+        "basque": "gurdo",
+        "spanish": "izond. (Ipar.) rollizo, -a, grueso, -a, gordo, -a, lozano, -a"
+    },
+    {
+        "id": 29195,
+        "basque": "harizkando",
+        "spanish": "iz. roble joven"
+    },
+    {
+        "id": 29196,
+        "basque": "hazkuntza-likido",
+        "spanish": "(Biol.) caldo de cultivo"
+    },
+    {
+        "id": 29197,
+        "basque": "heraldo",
+        "spanish": "iz. heraldo"
+    },
+    {
+        "id": 29198,
+        "basque": "herdo",
+        "spanish": "iz. (Ipar.) añublo, roña [enfermedad de las plantas]"
+    },
+    {
+        "id": 29199,
+        "basque": "hexapodo",
+        "spanish": "iz./izond. (Zool.) hexápodo, -a"
+    },
+    {
+        "id": 29200,
+        "basque": "hibrido",
+        "spanish": "1 iz./izond. (Biol.) híbrido, -a // 2 iz./izond. (hed.) híbrido, -a; mezcla"
+    },
+    {
+        "id": 29201,
+        "basque": "hidrazido",
+        "spanish": "iz. (Kim.) hidrácido"
+    },
+    {
+        "id": 29202,
+        "basque": "hidroxido",
+        "spanish": "iz. (Kim.) hidróxido"
+    },
+    {
+        "id": 29203,
+        "basque": "hispido",
+        "spanish": "izond. híspido, -a"
+    },
+    {
+        "id": 29204,
+        "basque": "hominido",
+        "spanish": "iz./izond. (Antr.) homínido"
+    },
+    {
+        "id": 29205,
+        "basque": "hudo",
+        "spanish": "iz. (Zool.) hurón (Mustela furo)"
+    },
+    {
+        "id": 29206,
+        "basque": "ibilgailu hibrido",
+        "spanish": "vehículo eléctrico"
+    },
+    {
+        "id": 29207,
+        "basque": "ikas-metodo",
+        "spanish": "método de aprendizaje"
+    },
+    {
+        "id": 29208,
+        "basque": "ikasteko metodo",
+        "spanish": "método de aprendizaje"
+    },
+    {
+        "id": 29209,
+        "basque": "ildo",
+        "spanish": "1 iz. surco // 2 iz. (hed.) camino, dirección; sentido; derrotero // 3 iz. (B) parte casi podrida del tronco de un árbol // 4 iz. (Med.) (batez ere pl.) [larruazalarena] estría"
+    },
+    {
+        "id": 29210,
+        "basque": "in crescendo",
+        "spanish": "adb. in crescendo; hacia arriba, creciendo"
+    },
+    {
+        "id": 29211,
+        "basque": "iodo",
+        "spanish": "iz. (Kim.) yodo"
+    },
+    {
+        "id": 29212,
+        "basque": "irakas-metodo",
+        "spanish": "método de enseñanza"
+    },
+    {
+        "id": 29213,
+        "basque": "irakasteko metodo",
+        "spanish": "método de enseñanza"
+    },
+    {
+        "id": 29214,
+        "basque": "isopodo",
+        "spanish": "1 izond. (Zool.) isópodo, -a // 2 iz./izond. (Zool.) isópodo, -a"
+    },
+    {
+        "id": 29215,
+        "basque": "itsumando",
+        "spanish": "iz. gallina ciega [juego infantil]"
+    },
+    {
+        "id": 29216,
+        "basque": "jarduera-ildo",
+        "spanish": "línea de actuación"
+    },
+    {
+        "id": 29217,
+        "basque": "judo",
+        "spanish": "iz. (Kir.) yudo, judo"
+    },
+    {
+        "id": 29218,
+        "basque": "kabildo",
+        "spanish": "1 iz. (Erl.) (Heg.) cabildo // 2 iz. (Heg.) cabildo"
+    },
+    {
+        "id": 29219,
+        "basque": "kakarraldo",
+        "spanish": "iz. (B) escarabajo"
+    },
+    {
+        "id": 29220,
+        "basque": "kamelido",
+        "spanish": "iz./izond. (Zool.) camélido, -a"
+    },
+    {
+        "id": 29221,
+        "basque": "kamera geldo",
+        "spanish": "cámara lenta"
+    },
+    {
+        "id": 29222,
+        "basque": "kanido",
+        "spanish": "iz./izond. (Zool.) cánido, -a"
+    },
+    {
+        "id": 29223,
+        "basque": "karbono dioxido",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29224,
+        "basque": "karbono monoxido",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29225,
+        "basque": "karbono(II) oxido",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29226,
+        "basque": "karraldo",
+        "spanish": "iz. (B) helada fuerte"
+    },
+    {
+        "id": 29227,
+        "basque": "katodo",
+        "spanish": "iz. (Kim.) cátodo"
+    },
+    {
+        "id": 29228,
+        "basque": "keldo",
+        "spanish": "izond. desaliñado, -a, descuidado, -a"
+    },
+    {
+        "id": 29229,
+        "basque": "kendo",
+        "spanish": "iz. (Kir.) kendo"
+    },
+    {
+        "id": 29230,
+        "basque": "kilopodo",
+        "spanish": "iz./izond. (Zool.) quilópodo, -a"
+    },
+    {
+        "id": 29231,
+        "basque": "koadrupedo",
+        "spanish": "iz./izond. (Zool.) cuadrúpedo, -a"
+    },
+    {
+        "id": 29232,
+        "basque": "Koldo",
+        "spanish": "Luis"
+    },
+    {
+        "id": 29233,
+        "basque": "komando",
+        "spanish": "1 iz. (Mil.) comando // 2 iz. (Inform.) comando"
+    },
+    {
+        "id": 29234,
+        "basque": "kontrabando",
+        "spanish": "iz. contrabando"
+    },
+    {
+        "id": 29235,
+        "basque": "korbido",
+        "spanish": "iz./izond. (Zool.) córvido, -a"
+    },
+    {
+        "id": 29236,
+        "basque": "kredo",
+        "spanish": "1 iz. (Erl.) credo // 2 iz. (hed.) credo; creencias, opiniones, doctrina"
+    },
+    {
+        "id": 29237,
+        "basque": "kristal likido",
+        "spanish": "cristal líquido"
+    },
+    {
+        "id": 29238,
+        "basque": "kuidado",
+        "spanish": "1 iz. (Heg.) (herr.) cuidado, preocupación, intranquilidad // 2 iz. (Heg.) (herr.) cuidado, atención, interés"
+    },
+    {
+        "id": 29239,
+        "basque": "Kupido",
+        "spanish": "m. (Mit.) Cupido"
+    },
+    {
+        "id": 29240,
+        "basque": "lagopodo",
+        "spanish": "iz. (Zool.) lagópodo; perdiz nival"
+    },
+    {
+        "id": 29241,
+        "basque": "lando",
+        "spanish": "iz. landó"
+    },
+    {
+        "id": 29242,
+        "basque": "lantanido",
+        "spanish": "iz./izond. (Kim.) lantánido, -a"
+    },
+    {
+        "id": 29243,
+        "basque": "larido",
+        "spanish": "iz./izond. (Zool.) lárido, -a"
+    },
+    {
+        "id": 29244,
+        "basque": "laudo",
+        "spanish": "1 iz. [laudorioa] alabanza, laude, loa // 2 iz. (Zuz.) [ebazpena, erabakia] laudo"
+    },
+    {
+        "id": 29245,
+        "basque": "LED diodo",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29246,
+        "basque": "leikarraldo",
+        "spanish": "iz. (B) capa de hielo"
+    },
+    {
+        "id": 29247,
+        "basque": "leotardo",
+        "spanish": "iz. (Heg.) (pl.) leotardos"
+    },
+    {
+        "id": 29248,
+        "basque": "leporido",
+        "spanish": "iz./izond. (Zool.) lepórido, -a"
+    },
+    {
+        "id": 29249,
+        "basque": "lerdo",
+        "spanish": "izond. (herr.) atontado, -a; alelado, -a; lelo, -a; turulato, -a; zopenco, -a; lerdo, -a; embobado, -a; tonto, -a"
+    },
+    {
+        "id": 29250,
+        "basque": "libido",
+        "spanish": "iz. (Psikol.) libido"
+    },
+    {
+        "id": 29251,
+        "basque": "likido",
+        "spanish": "1 iz. (Fis.) líquido // 2 izond. (Fis.) líquido, -a // 3 iz./izond. (Ekon.) líquido, -a // 4 iz./izond. (Hizkl.) líquido, -a"
+    },
+    {
+        "id": 29252,
+        "basque": "lindo",
+        "spanish": "izond. limpio, -a, aseado, -a"
+    },
+    {
+        "id": 29253,
+        "basque": "lipido",
+        "spanish": "iz. (Biokim.) lípido"
+    },
+    {
+        "id": 29254,
+        "basque": "mahaiko ardo",
+        "spanish": "vino de mesa"
+    },
+    {
+        "id": 29255,
+        "basque": "mahats-mordo; mahats-luku",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29256,
+        "basque": "mando",
+        "spanish": "1 iz. mulo [macho o hembra] // 2 izond. estéril // 3 izond. grande, abultado, -a, enorme"
+    },
+    {
+        "id": 29257,
+        "basque": "mantekado",
+        "spanish": "iz. mantecado"
+    },
+    {
+        "id": 29258,
+        "basque": "mardo",
+        "spanish": "1 izond. (B) lozano, -a, rollizo, -a, robusto, -a // 2 izond. (batez ere Z) blando, -a, suave, tierno, -a, mullido, -a"
+    },
+    {
+        "id": 29259,
+        "basque": "metodo",
+        "spanish": "iz. método"
+    },
+    {
+        "id": 29260,
+        "basque": "mezako ardo",
+        "spanish": "(Erl.) vino de misa, vino litúrgico, vino de consagrar"
+    },
+    {
+        "id": 29261,
+        "basque": "mihi bifido",
+        "spanish": "(Biol.) lengua bífida"
+    },
+    {
+        "id": 29262,
+        "basque": "mikroildo",
+        "spanish": "iz. microsurco"
+    },
+    {
+        "id": 29263,
+        "basque": "mikrosegundo",
+        "spanish": "iz. microsegundo"
+    },
+    {
+        "id": 29264,
+        "basque": "milisegundo",
+        "spanish": "iz. milisegundo"
+    },
+    {
+        "id": 29265,
+        "basque": "miriapodo",
+        "spanish": "iz./izond. (Zool.) miriápodo"
+    },
+    {
+        "id": 29266,
+        "basque": "mokordo",
+        "spanish": "1 iz. (lgart.) mojón, excremento // 2 iz. (lgart.) [irain-hitza] petardo, cargante"
+    },
+    {
+        "id": 29267,
+        "basque": "monosakarido",
+        "spanish": "iz. (Kim.) monosacárido"
+    },
+    {
+        "id": 29268,
+        "basque": "monoxido",
+        "spanish": "iz. (Kim.) monóxido"
+    },
+    {
+        "id": 29269,
+        "basque": "Monteagudo",
+        "spanish": "Monteagudo"
+    },
+    {
+        "id": 29270,
+        "basque": "morbido",
+        "spanish": "izond. (Med.) mórbido, -a"
+    },
+    {
+        "id": 29271,
+        "basque": "mordo",
+        "spanish": "1 iz. [mahatsarekin] racimo (de uvas); [hainbat fruiturekin] racimo // 2 iz. montón, grupo, tropel // 3 iz. (zenbatzaile gisa) gran cantidad, un montón, muchos, -as // 4 iz. enredo, embrollo, revoltijo"
+    },
+    {
+        "id": 29272,
+        "basque": "morrodo",
+        "spanish": "iz. (BN) panecillo o torta especial que las madrinas regalaban a sus ahijados o ahijadas por Pascua de Resurrección"
+    },
+    {
+        "id": 29273,
+        "basque": "mustelido",
+        "spanish": "iz./izond. (Zool.) mustélido, -a"
+    },
+    {
+        "id": 29274,
+        "basque": "nahiz... nahiz...; nahiz... edo...",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29275,
+        "basque": "nematodo",
+        "spanish": "iz./izond. (Zool.) nematodo"
+    },
+    {
+        "id": 29276,
+        "basque": "nitrogeno dioxido",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29277,
+        "basque": "nodo",
+        "spanish": "1 iz. (Fis.) nodo // 2 iz. (Anat.) nodo, nódulo // 3 iz. (Inform.) nodo, nudo"
+    },
+    {
+        "id": 29278,
+        "basque": "nukleosido",
+        "spanish": "iz. (Biokim.) nucleósido"
+    },
+    {
+        "id": 29279,
+        "basque": "nukleotido",
+        "spanish": "iz. (Biokim.) nucleótido"
+    },
+    {
+        "id": 29280,
+        "basque": "obido",
+        "spanish": "adj./iz. (Zool.) óvido"
+    },
+    {
+        "id": 29281,
+        "basque": "ogi ala ardo",
+        "spanish": "cara o cruz"
+    },
+    {
+        "id": 29282,
+        "basque": "oktopodo",
+        "spanish": "iz./izond. (Zool.) octópodo, -a"
+    },
+    {
+        "id": 29283,
+        "basque": "onddo",
+        "spanish": "1 iz. hongo // 2 iz. (Mikol.) boleto, hongo"
+    },
+    {
+        "id": 29284,
+        "basque": "ordo",
+        "spanish": "iz. (Erl.) epacta"
+    },
+    {
+        "id": 29285,
+        "basque": "Oviedo",
+        "spanish": "Oviedo"
+    },
+    {
+        "id": 29286,
+        "basque": "oxido",
+        "spanish": "iz. (Kim.) óxido"
+    },
+    {
+        "id": 29287,
+        "basque": "paldo",
+        "spanish": "iz. (Ipar.) palo, bastón; estaca, pilote, poste"
+    },
+    {
+        "id": 29288,
+        "basque": "palmipedo",
+        "spanish": "izond. (Zool.) palmípedo, -a"
+    },
+    {
+        "id": 29289,
+        "basque": "papardo",
+        "spanish": "iz. (Zool.) castañola (Brama brama)"
+    },
+    {
+        "id": 29290,
+        "basque": "paralelepipedo",
+        "spanish": "iz. (Mat.) paralelepípedo"
+    },
+    {
+        "id": 29291,
+        "basque": "parido",
+        "spanish": "iz./izond. (Zool.) párido, -a"
+    },
+    {
+        "id": 29292,
+        "basque": "pascal-segundo",
+        "spanish": "(Fis.) pascal-segundo"
+    },
+    {
+        "id": 29293,
+        "basque": "pentsio-fondo",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29294,
+        "basque": "pepelerdo",
+        "spanish": "izond. (B) tonto de capirote, tonto perdido"
+    },
+    {
+        "id": 29295,
+        "basque": "peptido",
+        "spanish": "iz. (Biokim.) péptido"
+    },
+    {
+        "id": 29296,
+        "basque": "periodo",
+        "spanish": "1 iz. (Fis.) (Kim.) (Mat.) período, periodo // 2 iz. (Geol.) período, periodo"
+    },
+    {
+        "id": 29297,
+        "basque": "peroxido",
+        "spanish": "iz. (Kim.) peróxido"
+    },
+    {
+        "id": 29298,
+        "basque": "petardo",
+        "spanish": "iz. petardo, explosivo, traca"
+    },
+    {
+        "id": 29299,
+        "basque": "plantigrado",
+        "spanish": "iz./izond. (Zool.) plantígrado, -a"
+    },
+    {
+        "id": 29300,
+        "basque": "Plazido",
+        "spanish": "Plácido"
+    },
+    {
+        "id": 29301,
+        "basque": "poliazido",
+        "spanish": "iz. (Kim.) poliácido"
+    },
+    {
+        "id": 29302,
+        "basque": "polisakarido",
+        "spanish": "iz. (Kim.) polisacárido"
+    },
+    {
+        "id": 29303,
+        "basque": "porfido",
+        "spanish": "iz. (Geol.) pórfido"
+    },
+    {
+        "id": 29304,
+        "basque": "Portoko ardo",
+        "spanish": "oporto [vino]"
+    },
+    {
+        "id": 29305,
+        "basque": "presioko (garagardo)",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29306,
+        "basque": "proteido",
+        "spanish": "iz. (Biokim.) proteido"
+    },
+    {
+        "id": 29307,
+        "basque": "protido",
+        "spanish": "iz. (Biokim.) prótido"
+    },
+    {
+        "id": 29308,
+        "basque": "pseudopodo",
+        "spanish": "iz. (Biol.) seudópodo"
+    },
+    {
+        "id": 29309,
+        "basque": "Quasimodo",
+        "spanish": "Cuasimodo"
+    },
+    {
+        "id": 29310,
+        "basque": "Raimundo",
+        "spanish": "Raimundo"
+    },
+    {
+        "id": 29311,
+        "basque": "rallentando",
+        "spanish": "adb./ iz. (Mus.) rallentando"
+    },
+    {
+        "id": 29312,
+        "basque": "Rikardo",
+        "spanish": "Ricardo"
+    },
+    {
+        "id": 29313,
+        "basque": "ritardando",
+        "spanish": "adb./ iz. (Mus.) ritardando"
+    },
+    {
+        "id": 29314,
+        "basque": "Satan onddo",
+        "spanish": "(Mikol.) boleto de Satanás (Boletus satanas)"
+    },
+    {
+        "id": 29315,
+        "basque": "scherzando",
+        "spanish": "adb./ iz. (Mus.) scherzando"
+    },
+    {
+        "id": 29316,
+        "basque": "semidesintegrazio-periodo",
+        "spanish": "(Fis.) período de semidesintegración"
+    },
+    {
+        "id": 29317,
+        "basque": "sforzando",
+        "spanish": "1 adb. (Mus.) sforzando // 2 iz. (Mus.) sforzando"
+    },
+    {
+        "id": 29318,
+        "basque": "Sigismundo",
+        "spanish": "Segismundo"
+    },
+    {
+        "id": 29319,
+        "basque": "sinodo",
+        "spanish": "1 iz. [apezpikuen kontzilioa] sínodo // 2 iz. [artzain protestanteena] sínodo"
+    },
+    {
+        "id": 29320,
+        "basque": "solido",
+        "spanish": "1 iz./izond. (Fis.) sólido, -a // 2 iz. (Mat.) sólido // 3 izond. (Ipar.) sólido, -a, fuerte, firme, macizo, -a"
+    },
+    {
+        "id": 29321,
+        "basque": "sorizido",
+        "spanish": "iz./izond. (Zool.) sorícido, -a"
+    },
+    {
+        "id": 29322,
+        "basque": "sueldo",
+        "spanish": "iz. sueldo [moneda antigua]"
+    },
+    {
+        "id": 29323,
+        "basque": "sugeldo",
+        "spanish": "iz. rescoldo, brasa; fuego bajo"
+    },
+    {
+        "id": 29324,
+        "basque": "suido",
+        "spanish": "iz./izond. (Zool.) suido, -a"
+    },
+    {
+        "id": 29325,
+        "basque": "talpido",
+        "spanish": "iz./izond. (Zool.) tálpido, -a"
+    },
+    {
+        "id": 29326,
+        "basque": "tamarindo",
+        "spanish": "iz. (Bot.) tamarindo (Tamarindus indica)"
+    },
+    {
+        "id": 29327,
+        "basque": "telekomando",
+        "spanish": "iz. mando a distancia, control remoto, telemando"
+    },
+    {
+        "id": 29328,
+        "basque": "tetrapodo",
+        "spanish": "iz./izond. (Zool.) tetrápodo, -a"
+    },
+    {
+        "id": 29329,
+        "basque": "tetrodo",
+        "spanish": "iz. (Elektron.) tetrodo"
+    },
+    {
+        "id": 29330,
+        "basque": "toldo",
+        "spanish": "iz. (Heg.) toldo"
+    },
+    {
+        "id": 29331,
+        "basque": "Toledo",
+        "spanish": "Toledo"
+    },
+    {
+        "id": 29332,
+        "basque": "tornado",
+        "spanish": "1 iz. (Meteorol.) tornado // 2 iz. (Kir.) [katamarana] tornado"
+    },
+    {
+        "id": 29333,
+        "basque": "torpedo",
+        "spanish": "iz. (Arm.) torpedo"
+    },
+    {
+        "id": 29334,
+        "basque": "tranpaldo",
+        "spanish": "iz. tablado, tarima"
+    },
+    {
+        "id": 29335,
+        "basque": "transuranido",
+        "spanish": "iz./izond. (Kim.) transuránico, -a"
+    },
+    {
+        "id": 29336,
+        "basque": "trematodo",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29337,
+        "basque": "trifido",
+        "spanish": "izond. (Bot.) trífido, -a"
+    },
+    {
+        "id": 29338,
+        "basque": "triglizerido",
+        "spanish": "iz. (Kim.) triglicérido"
+    },
+    {
+        "id": 29339,
+        "basque": "triodo",
+        "spanish": "iz. (Elektron.) triodo"
+    },
+    {
+        "id": 29340,
+        "basque": "txordo",
+        "spanish": "1 izond. ceñudo, -a, cejijunto, -a // 2 izond. [adarrak beherantz dituen animalia] cornigacho, -a"
+    },
+    {
+        "id": 29341,
+        "basque": "ugerdo",
+        "spanish": "izond. (B) sucio, -a, mugriento, -a, cochambroso, -a"
+    },
+    {
+        "id": 29342,
+        "basque": "urardo",
+        "spanish": "1 iz. agua con vino // 2 iz. Ik. sangria"
+    },
+    {
+        "id": 29343,
+        "basque": "uretako kakalardo",
+        "spanish": "1 (Zool.) ditisco // 2 (Zool.) cualquier escarabajo acuático"
+    },
+    {
+        "id": 29344,
+        "basque": "urteko ardo",
+        "spanish": "vino cosechero"
+    },
+    {
+        "id": 29345,
+        "basque": "usomando",
+        "spanish": "iz. paloma torcaz ➥ pagauso"
+    },
+    {
+        "id": 29346,
+        "basque": "uste sendo",
+        "spanish": "(Erl.) (pl.) convicciones"
+    },
+    {
+        "id": 29347,
+        "basque": "zefalopodo",
+        "spanish": "iz./izond. (Zool.) cefalópodo, -a"
+    },
+    {
+        "id": 29348,
+        "basque": "zerbido",
+        "spanish": "iz./izond. (Zool.) cérvido, -a"
+    },
+    {
+        "id": 29349,
+        "basque": "zestodo",
+        "spanish": "iz./izond. (Zool.) cestodo, -a"
+    },
+    {
+        "id": 29350,
+        "basque": "aforo",
+        "spanish": "1 Ik. edukiera // 2 Ik. neurketa, neurtze"
+    },
+    {
+        "id": 29351,
+        "basque": "alde eta aldi oro",
+        "spanish": "en todo momento y lugar, en todo tiempo y lugar"
+    },
+    {
+        "id": 29352,
+        "basque": "aldi oro(z)",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29353,
+        "basque": "artasoro",
+        "spanish": "iz. campo de maíz, maizal"
+    },
+    {
+        "id": 29354,
+        "basque": "belar-soro",
+        "spanish": "prado; herbazal"
+    },
+    {
+        "id": 29355,
+        "basque": "blastoporo",
+        "spanish": "iz. (Zool.) blastoporo"
+    },
+    {
+        "id": 29356,
+        "basque": "boro",
+        "spanish": "iz. (Kim.) boro"
+    },
+    {
+        "id": 29357,
+        "basque": "Bosforo",
+        "spanish": "Bósforo"
+    },
+    {
+        "id": 29358,
+        "basque": "burtzoro",
+        "spanish": "1 izond. mareado, -a; aturdido, -a; insensato, -a, atolondrado, -a // 2 iz. mareo, desvanecimiento; aturdimiento; atontamiento // 3 iz. (Albait.) modorra"
+    },
+    {
+        "id": 29359,
+        "basque": "detritiboro",
+        "spanish": "iz./izond. (Ekol.) detritívoro, -a; detritófago, -a"
+    },
+    {
+        "id": 29360,
+        "basque": "egunoro",
+        "spanish": "Ik. egun oroz, egunero"
+    },
+    {
+        "id": 29361,
+        "basque": "foro",
+        "spanish": "1 iz. (Hist.) [antzinako Erromakoa] foro, fórum // 2 iz. (hed.) [eztabaida-lekua] foro, fórum"
+    },
+    {
+        "id": 29362,
+        "basque": "fosforo",
+        "spanish": "iz. (Kim.) fósforo"
+    },
+    {
+        "id": 29363,
+        "basque": "frugiboro",
+        "spanish": "iz./izond. (Ekol.) frugívoro, -a"
+    },
+    {
+        "id": 29364,
+        "basque": "galaktoforo",
+        "spanish": "izond. (Anat.) galactóforo, -a"
+    },
+    {
+        "id": 29365,
+        "basque": "galsoro",
+        "spanish": "iz. trigal, campo de trigo"
+    },
+    {
+        "id": 29366,
+        "basque": "gozoro",
+        "spanish": "adb. dulcemente, suavemente, con amabilidad"
+    },
+    {
+        "id": 29367,
+        "basque": "graniboro",
+        "spanish": "iz./izond. (Ekol.) granívoro, -a"
+    },
+    {
+        "id": 29368,
+        "basque": "gurpil zoro",
+        "spanish": "círculo vicioso; [la]/[una] pescadilla que se muerde la cola"
+    },
+    {
+        "id": 29369,
+        "basque": "haboro",
+        "spanish": "1 adb. (Z) más // 2 izond. (Z) la mayor parte"
+    },
+    {
+        "id": 29370,
+        "basque": "haboroz haboro",
+        "spanish": "cada vez más"
+    },
+    {
+        "id": 29371,
+        "basque": "herbiboro",
+        "spanish": "iz./izond. (Ekol.) herbívoro, -a"
+    },
+    {
+        "id": 29372,
+        "basque": "hidrometeoro",
+        "spanish": "iz. (Meteorol.) hidrometeoro"
+    },
+    {
+        "id": 29373,
+        "basque": "idoro, idoro, idorotzen",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29374,
+        "basque": "intsektiboro",
+        "spanish": "iz./izond. (Ekol.) (Zool.) insectívoro, -a"
+    },
+    {
+        "id": 29375,
+        "basque": "Isidoro",
+        "spanish": "Isidoro"
+    },
+    {
+        "id": 29376,
+        "basque": "kafe-soro",
+        "spanish": "cafetal"
+    },
+    {
+        "id": 29377,
+        "basque": "karniboro",
+        "spanish": "1 iz./izond. (Zool.) carnívoro, -a // 2 iz./izond. (Ekol.) carnívoro, -a"
+    },
+    {
+        "id": 29378,
+        "basque": "kloro",
+        "spanish": "iz. (Kim.) cloro"
+    },
+    {
+        "id": 29379,
+        "basque": "komodoro",
+        "spanish": "iz. (Mil.) comodoro"
+    },
+    {
+        "id": 29380,
+        "basque": "koro",
+        "spanish": "iz. bóveda"
+    },
+    {
+        "id": 29381,
+        "basque": "kromatoforo",
+        "spanish": "iz. (Biol.) cromatóforo"
+    },
+    {
+        "id": 29382,
+        "basque": "kromoforo",
+        "spanish": "izond. (Kim.) cromóforo, -a"
+    },
+    {
+        "id": 29383,
+        "basque": "krudiboro",
+        "spanish": "iz./izond. crudívoro, -a"
+    },
+    {
+        "id": 29384,
+        "basque": "lemoro",
+        "spanish": "iz. (Itsas.) limera"
+    },
+    {
+        "id": 29385,
+        "basque": "lofoforo",
+        "spanish": "iz. (Zool.) lofóforo"
+    },
+    {
+        "id": 29386,
+        "basque": "loro",
+        "spanish": "iz. (Itsas.) (B) alambre [en los aparejos] // iz. (Zool.) loro (Psittacula sp.)"
+    },
+    {
+        "id": 29387,
+        "basque": "meteoro",
+        "spanish": "1 iz. (Astron.) meteoro // 2 iz. (Meteorol.) meteoro"
+    },
+    {
+        "id": 29388,
+        "basque": "moro",
+        "spanish": "iz. moro, -a"
+    },
+    {
+        "id": 29389,
+        "basque": "naroro",
+        "spanish": "adb. abundantemente, generosamente"
+    },
+    {
+        "id": 29390,
+        "basque": "omniboro",
+        "spanish": "iz./izond. (Ekol.) omnívoro, -a"
+    },
+    {
+        "id": 29391,
+        "basque": "panporo",
+        "spanish": "izond. alegre, alegrillo, -a; achispado, -a"
+    },
+    {
+        "id": 29392,
+        "basque": "piloro",
+        "spanish": "iz. (Anat.) píloro"
+    },
+    {
+        "id": 29393,
+        "basque": "poro",
+        "spanish": "1 iz. (Biol.) poro // 2 iz. (Fis.) poro"
+    },
+    {
+        "id": 29394,
+        "basque": "semaforo",
+        "spanish": "iz. (Heg.) semáforo"
+    },
+    {
+        "id": 29395,
+        "basque": "sendoro",
+        "spanish": "adb. fuertemente, firmemente"
+    },
+    {
+        "id": 29396,
+        "basque": "sikomoro",
+        "spanish": "iz. (Bot.) sicómoro (Ficus sycomorus)"
+    },
+    {
+        "id": 29397,
+        "basque": "Telesforo",
+        "spanish": "Telesforo"
+    },
+    {
+        "id": 29398,
+        "basque": "Teodoro",
+        "spanish": "Teodoro"
+    },
+    {
+        "id": 29399,
+        "basque": "tesoro",
+        "spanish": "iz. (Heg.) tesoro"
+    },
+    {
+        "id": 29400,
+        "basque": "txoro",
+        "spanish": "izond. (batez ere G) loco, -a, chiflado, -a, chalado, -a; alocado, -a, atolondrado, -a, imprudente, insensato, -a"
+    },
+    {
+        "id": 29401,
+        "basque": "une oro",
+        "spanish": "(a) cada instante, en todo momento; cada dos por tres"
+    },
+    {
+        "id": 29402,
+        "basque": "urrisoro",
+        "spanish": "iz. (Ipar.) hierba que sale el mismo año después de segar una vez; segundo corte de hierba"
+    },
+    {
+        "id": 29403,
+        "basque": "abantaila",
+        "spanish": "iz. ventaja; provecho, beneficio; privilegio"
+    },
+    {
+        "id": 29404,
+        "basque": "abantailaren lege",
+        "spanish": "(Kir.) ley de la ventaja"
+    },
+    {
+        "id": 29405,
+        "basque": "abantaila eraman",
+        "spanish": "(zah.) aventajar"
+    },
+    {
+        "id": 29406,
+        "basque": "atoian eraman",
+        "spanish": "remolcar"
+    },
+    {
+        "id": 29407,
+        "basque": "aurrea eraman",
+        "spanish": "llevar la delantera; aventajar"
+    },
+    {
+        "id": 29408,
+        "basque": "aurrera eraman",
+        "spanish": "llevar adelante"
+    },
+    {
+        "id": 29409,
+        "basque": "auzitara eraman",
+        "spanish": "(Zuz.) llevar a juicio, procesar; demandar"
+    },
+    {
+        "id": 29410,
+        "basque": "(azken) muturreraino eraman",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29411,
+        "basque": "deabruak eraman",
+        "spanish": "llevar(se) (alguien o algo) el diablo, llevar(se) (alguien o algo) los diablos; echarse a perder, malograr(se)"
+    },
+    {
+        "id": 29412,
+        "basque": "demonioak eraman",
+        "spanish": "llevar el diablo, llevar los demonios"
+    },
+    {
+        "id": 29413,
+        "basque": "erremate txarra eraman",
+        "spanish": "tener un mal final"
+    },
+    {
+        "id": 29414,
+        "basque": "gaizki eraman",
+        "spanish": "llevar a mal; parecer mal [a alguien]"
+    },
+    {
+        "id": 29415,
+        "basque": "heriotzara eraman",
+        "spanish": "llevar a la muerte"
+    },
+    {
+        "id": 29416,
+        "basque": "moldera eraman",
+        "spanish": "imprimir"
+    },
+    {
+        "id": 29417,
+        "basque": "odolean eraman",
+        "spanish": "llevar en la sangre"
+    },
+    {
+        "id": 29418,
+        "basque": "preso altxatu/eraman",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 29419,
+        "basque": "Glotodidaktika",
+        "spanish": "iz. (Pedag.) glotodidáctica"
+    },
+    {
+        "id": 29420,
+        "basque": "bala-bala",
+        "spanish": "adb. de boca en boca, profusamente"
+    },
+    {
+        "id": 29421,
+        "basque": "ahotik ahora",
+        "spanish": "de boca en boca"
+    },
+    {
+        "id": 29422,
+        "basque": "ahoz aho",
+        "spanish": "de boca en boca, oralmente"
+    },
+    {
+        "id": 29423,
+        "basque": "txakurrarenak esan",
+        "spanish": "decir pestes, echar pestes"
+    },
+    {
+        "id": 29424,
+        "basque": "txakur",
+        "spanish": "1 iz. (Zool.) perro (Canis familiaris) // 2 iz. (Heg.) (lgart.) (gutxiesgarria) (batez ere pl.) policía // 3 iz. (Teknol.) perro/corazón de arrastre // 4 izond. malicioso, -a, marrajo, -a, astuto, -a // 5 izond. (G) [eguraldia] malo, desapacible, horroroso, -a"
+    },
+    {
+        "id": 29425,
+        "basque": "txakur afganiar",
+        "spanish": "lebrel afgano"
+    },
+    {
+        "id": 29426,
+        "basque": "(txakur) pekindar",
+        "spanish": "(perro) pequinés"
+    },
+    {
+        "id": 29427,
+        "basque": "txakur pekindar",
+        "spanish": "(perro) pequinés"
+    },
+    {
+        "id": 29428,
+        "basque": "txakur txiki",
+        "spanish": "(Heg.) perra chica [moneda de 5 céntimos]"
+    },
+    {
+        "id": 29429,
+        "basque": "txakur-amets",
+        "spanish": "(pl.) ilusión, sueño, fantasía; quimera"
+    },
+    {
+        "id": 29430,
+        "basque": "txakur-eztul",
+        "spanish": "tos perruna"
+    },
+    {
+        "id": 29431,
+        "basque": "txakurka",
+        "spanish": "adb. a gatas, a cuatro pies, gateando"
+    },
+    {
+        "id": 29432,
+        "basque": "txakurki",
+        "spanish": "iz. carne de perro // adb. astutamente"
+    },
+    {
+        "id": 29433,
+        "basque": "txakur-mihi",
+        "spanish": "(Bot.) lengua de perro, lengua canina (Cynoglossum officinale)"
+    },
+    {
+        "id": 29434,
+        "basque": "txakur-musu",
+        "spanish": "(B) desvergonzado, -a, sinvergüenza"
+    },
+    {
+        "id": 29435,
+        "basque": "txakurraren ipurdira bidali",
+        "spanish": "(arrt.) mandar a tomar por culo; mandar a paseo, mandar a freír buñuelos, mandar a hacer gárgaras, mandar a la picota, mandar a freír espárragos, mandar a freír monas"
+    },
+    {
+        "id": 29436,
+        "basque": "txakurraren ipurdira/ipurtzulora joan",
+        "spanish": "(arrt.) (aginterazko aditzekin, arbuio bizia adierazteko) irse a tomar por culo; irse al cuerno; echarse a perder"
+    },
+    {
+        "id": 29437,
+        "basque": "txakurraren putza",
+        "spanish": "1 (lgart.) mierda, caca de (la) vaca // 2 cosa que no vale nada"
+    },
+    {
+        "id": 29438,
+        "basque": "txakurtxo",
+        "spanish": "iz. perrito, -a"
+    },
+    {
+        "id": 29439,
+        "basque": "txakurzuri",
+        "spanish": "iz. (lgart.) vagancia, galbana"
+    },
+    {
+        "id": 29440,
+        "basque": "txakurraren bibolina!",
+        "spanish": "¡y un jamón!, ¡y un cuerno!"
+    },
+    {
+        "id": 29441,
+        "basque": "hauteslerri",
+        "spanish": "iz. electorado [país]"
+    },
+    {
+        "id": 29442,
+        "basque": "seneskalerri",
+        "spanish": "iz. (Hist.) senescalado"
+    },
+    {
+        "id": 29443,
+        "basque": "udalerri",
+        "spanish": "1  iz. [erakundea] municipio // 2  iz. [lurraldea] municipio, término municipal"
+    },
+    {
+        "id": 29444,
+        "basque": "udal-barruti",
+        "spanish": "término municipal"
+    },
+    {
+        "id": 29445,
+        "basque": "egutegi-egun",
+        "spanish": "día natural, día civil"
+    },
+    {
+        "id": 29446,
+        "basque": "almanaka",
+        "spanish": "iz. almanaque"
+    },
+    {
+        "id": 29447,
+        "basque": "ipini, ipin, ipintzen",
+        "spanish": "da/du ad. poner(se), colocar(se); situar(se)"
     },
 ];

@@ -22351,5 +22351,25 @@ export const euskaraVerbs: WordPair[] = [
         "id": 4470,
         "basque": "zuztartu, zuztar(tu), zuztartzen",
         "spanish": "da ad. arraigar"
+    },
+    {
+        "id": 4471,
+        "basque": "irato, irato, iratotzen",
+        "spanish": "du ad. ahogar, asfixiar; estrangular"
+    },
+    {
+        "id": 4472,
+        "basque": "ito, ito, itotzen",
+        "spanish": "1  da/du ad. ahogar(se), asfixiar(se) // 2  da/du ad. agobiar(se), fatigar(se), abrumar(se) // 3  da/du ad. ahogar(se), extinguir(se)"
+    },
+    {
+        "id": 4473,
+        "basque": "idoro, idoro, idorotzen",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 4474,
+        "basque": "ipini, ipin, ipintzen",
+        "spanish": "da/du ad. poner(se), colocar(se); situar(se)"
     }
 ];
