@@ -147237,4 +147237,4659 @@ export const euskaraWords: WordPair[] = [
         "basque": "ipini, ipin, ipintzen",
         "spanish": "da/du ad. poner(se), colocar(se); situar(se)"
     },
+    {
+        "id": 29448,
+        "basque": "adarrak jarri/ipini",
+        "spanish": "(lgart.) poner los cuernos"
+    },
+    {
+        "id": 29449,
+        "basque": "afgani",
+        "spanish": "iz. afgani [moneda]"
+    },
+    {
+        "id": 29450,
+        "basque": "albeni",
+        "spanish": "iz. orillo, borde de la tela"
+    },
+    {
+        "id": 29451,
+        "basque": "Andoni",
+        "spanish": "Antonio"
+    },
+    {
+        "id": 29452,
+        "basque": "ani-ani",
+        "spanish": "adb. (B) (haur.) a pie, andando"
+    },
+    {
+        "id": 29453,
+        "basque": "armoni",
+        "spanish": "iz. menudo(s) del carnero"
+    },
+    {
+        "id": 29454,
+        "basque": "arrisku(t)an jarri/ipini",
+        "spanish": "iz. peligro, riesgo"
+    },
+    {
+        "id": 29455,
+        "basque": "auzitan ipini/jarri",
+        "spanish": "poner en entredicho, poner en tela de juicio, poner en duda"
+    },
+    {
+        "id": 29456,
+        "basque": "bikini",
+        "spanish": "iz. bikini, biquini"
+    },
+    {
+        "id": 29457,
+        "basque": "burni",
+        "spanish": "Ik. burdina"
+    },
+    {
+        "id": 29458,
+        "basque": "mahaia ipini/jarri",
+        "spanish": "poner la mesa"
+    },
+    {
+        "id": 29459,
+        "basque": "maharani",
+        "spanish": "iz. maharaní"
+    },
+    {
+        "id": 29460,
+        "basque": "markoni",
+        "spanish": "iz. (Itsas.) marconi"
+    },
+    {
+        "id": 29461,
+        "basque": "martxan ezarri/ipini/jarri",
+        "spanish": "poner en marcha"
+    },
+    {
+        "id": 29462,
+        "basque": "Moroni",
+        "spanish": "Moroni"
+    },
+    {
+        "id": 29463,
+        "basque": "zerga",
+        "spanish": "iz. impuesto"
+    },
+    {
+        "id": 29464,
+        "basque": "zerga(k) arindu",
+        "spanish": "iz. impuesto"
+    },
+    {
+        "id": 29465,
+        "basque": "zerga ezarri",
+        "spanish": "(Fin.) gravar, cargar"
+    },
+    {
+        "id": 29466,
+        "basque": "zerga-egitate",
+        "spanish": "(Fin.) hecho imponible"
+    },
+    {
+        "id": 29467,
+        "basque": "zerga-egoitza",
+        "spanish": "(Zuz.) domicilio fiscal"
+    },
+    {
+        "id": 29468,
+        "basque": "ihes fiskal; zerga-ihes",
+        "spanish": "(Ekon.) evasión fiscal"
+    },
+    {
+        "id": 29469,
+        "basque": "zerga-iruzur",
+        "spanish": "(Zuz.) fraude fiscal"
+    },
+    {
+        "id": 29470,
+        "basque": "zergak bildu",
+        "spanish": "recaudar impuestos"
+    },
+    {
+        "id": 29471,
+        "basque": "zergak ordaindu",
+        "spanish": "tributar, pagar impuestos"
+    },
+    {
+        "id": 29472,
+        "basque": "paradisu fiskal; zerga-paradisu",
+        "spanish": "(Ekon.) paraíso fiscal"
+    },
+    {
+        "id": 29473,
+        "basque": "zergapeko",
+        "spanish": "izlag. contribuyente"
+    },
+    {
+        "id": 29474,
+        "basque": "zergapetu, zergape(tu), zergapetzen",
+        "spanish": "du ad. (Fin.) gravar"
+    },
+    {
+        "id": 29475,
+        "basque": "zergari",
+        "spanish": "iz. recaudador, -a de impuestos"
+    },
+    {
+        "id": 29476,
+        "basque": "zerga-sistema",
+        "spanish": "sistema fiscal"
+    },
+    {
+        "id": 29477,
+        "basque": "zergatik",
+        "spanish": "gald. (zeharkako eta zuzeneko galderetan) por qué"
+    },
+    {
+        "id": 29478,
+        "basque": "zergatiko",
+        "spanish": "iz. porqué, causa, motivo"
+    },
+    {
+        "id": 29479,
+        "basque": "zerga-urte; urte fiskal",
+        "spanish": "año fiscal"
+    },
+    {
+        "id": 29480,
+        "basque": "zerga-zigilu",
+        "spanish": "póliza [sello]"
+    },
+    {
+        "id": 29481,
+        "basque": "ibai",
+        "spanish": "iz. río [corriente fluvial]"
+    },
+    {
+        "id": 29482,
+        "basque": "ibargi",
+        "spanish": "iz./izond. solana; soleado, -a"
+    },
+    {
+        "id": 29483,
+        "basque": "Ibargoiti",
+        "spanish": "Ibargoiti"
+    },
+    {
+        "id": 29484,
+        "basque": "ibi",
+        "spanish": "1 iz. [ibaian] vado // 2 iz. [bide publikoan] vado"
+    },
+    {
+        "id": 29485,
+        "basque": "ibilbide-orri",
+        "spanish": "1 [merkataritza] hoja de ruta // 2 [politika, kazetaritza] hoja de ruta"
+    },
+    {
+        "id": 29486,
+        "basque": "ibilkari",
+        "spanish": "izond. caminante, andariego, -a; andarín, -ina; andador, -a"
+    },
+    {
+        "id": 29487,
+        "basque": "ibilketari",
+        "spanish": "iz. corredor de marcha"
+    },
+    {
+        "id": 29488,
+        "basque": "ibiltari",
+        "spanish": "1 izond. caminante, andariego, -a; andarín, -ina; andador, -a // 2 izond. errante, vagante, ambulante, itinerante"
+    },
+    {
+        "id": 29489,
+        "basque": "ibiltorri",
+        "spanish": "iz. circular"
+    },
+    {
+        "id": 29490,
+        "basque": "iboi",
+        "spanish": "iz. ibón"
+    },
+    {
+        "id": 29491,
+        "basque": "idatzi, idatz, idazten",
+        "spanish": "du ad. escribir // iz. escrito, texto, documento, obra escrita"
+    },
+    {
+        "id": 29492,
+        "basque": "idazkari",
+        "spanish": "1 iz. secretario, -a // 2 iz. (Zool.) secretario (Sagittarius serpentarius)"
+    },
+    {
+        "id": 29493,
+        "basque": "idazkari nagusi",
+        "spanish": "(Pol.) secretario general"
+    },
+    {
+        "id": 29494,
+        "basque": "idazmahai",
+        "spanish": "iz. pupitre; mesa de escritorio"
+    },
+    {
+        "id": 29495,
+        "basque": "idazti",
+        "spanish": "iz. libro"
+    },
+    {
+        "id": 29496,
+        "basque": "idi-begi",
+        "spanish": "1 (Bot.) manzanilla loca (Anacyclus clavatus) // 2 [leiho-mota] ojo de buey // 3 (Arkit.) óculo"
+    },
+    {
+        "id": 29497,
+        "basque": "idi-mihi",
+        "spanish": "1 (Mikol.) hígado de buey (Fistulina hepatica) // 2 (Bot.) lengua de buey, buglosa (Anchusa azurea)"
+    },
+    {
+        "id": 29498,
+        "basque": "idi-uztarri",
+        "spanish": "(batez ere B) pareja/par de bueyes"
+    },
+    {
+        "id": 29499,
+        "basque": "idoi",
+        "spanish": "iz. (Ipar.) agravio, ultraje, injuria // iz. pantano, ciénaga"
+    },
+    {
+        "id": 29500,
+        "basque": "idorreri",
+        "spanish": "iz. estreñimiento; astringencia"
+    },
+    {
+        "id": 29501,
+        "basque": "iduri",
+        "spanish": "1 iz. (GN/Ipar.) imagen; figura // 2 adb. (Ipar.) (aurretik izen-sintagma mugatua edo determinatzaileduna duela) como, igual que // iz. cisco [carbón muy menudo]"
+    },
+    {
+        "id": 29502,
+        "basque": "igali",
+        "spanish": "iz. fruto [de las plantas]"
+    },
+    {
+        "id": 29503,
+        "basque": "igande-inaute(ri)",
+        "spanish": "domingo de carnaval"
+    },
+    {
+        "id": 29504,
+        "basque": "igandekari",
+        "spanish": "1 adb. (Ipar.) en domingo // 2 iz./izond. dominical"
+    },
+    {
+        "id": 29505,
+        "basque": "Igantzi",
+        "spanish": "Igantzi"
+    },
+    {
+        "id": 29506,
+        "basque": "igazi, igaz, igazten",
+        "spanish": "da/du ad. pasar [el tiempo]"
+    },
+    {
+        "id": 29507,
+        "basque": "igeltsu bizi",
+        "spanish": "(Art.) yeso vivo"
+    },
+    {
+        "id": 29508,
+        "basque": "igeltsu zuri",
+        "spanish": "(Eraik.) yeso blanco"
+    },
+    {
+        "id": 29509,
+        "basque": "igeltsu-harri",
+        "spanish": "yeso, aljez, piedra de yeso"
+    },
+    {
+        "id": 29510,
+        "basque": "igeri",
+        "spanish": "1 adb. nadando, a nado // 2 adb. flotando; en la superficie [de un líquido] // 3 adb. (hed.) (nadando) en abundancia, teniendo mucho de // 4 adb. sin moverse, quieto, -a"
+    },
+    {
+        "id": 29511,
+        "basque": "igerikari",
+        "spanish": "iz./izond. (Ipar.) nadador, -a"
+    },
+    {
+        "id": 29512,
+        "basque": "igeri-maskuri",
+        "spanish": "vejiga natatoria"
+    },
+    {
+        "id": 29513,
+        "basque": "igitai",
+        "spanish": "iz. hoz"
+    },
+    {
+        "id": 29514,
+        "basque": "igitari",
+        "spanish": "iz. segador, -a [con la hoz]"
+    },
+    {
+        "id": 29515,
+        "basque": "igokari",
+        "spanish": "izond. trepador, -a; enredadera [planta]"
+    },
+    {
+        "id": 29516,
+        "basque": "igurai",
+        "spanish": "iz. guardabosque"
+    },
+    {
+        "id": 29517,
+        "basque": "igurzkari",
+        "spanish": "iz./izond. (Hizkl.) fricativo, -a"
+    },
+    {
+        "id": 29518,
+        "basque": "ihabali",
+        "spanish": "izond. (Ipar.) miedoso, -a; temeroso, -a; cobarde; tímido, -a"
+    },
+    {
+        "id": 29519,
+        "basque": "ihaurri, ihaur, ihaurtzen",
+        "spanish": "1 du ad. (Ipar.) extender; esparcir, dispersar, diseminar // 2 du ad. (Ipar.) cubrir, llenar; alfombrar // 3 du ad. (Ipar.) [azpiak egin] hacer la cama // 1 adb. (Ipar.) boca abajo; de bruces // 2 adb. (Ipar.) en abundancia, abundantemente // 3 adb. (Ipar.) lleno, repleto, colmado"
+    },
+    {
+        "id": 29520,
+        "basque": "ihausi",
+        "spanish": "iz. (Ipar.) ladrido"
+    },
+    {
+        "id": 29521,
+        "basque": "ihauteri",
+        "spanish": "iz. carnaval"
+    },
+    {
+        "id": 29522,
+        "basque": "ihes-hodi",
+        "spanish": "(Autom.) tubo de escape"
+    },
+    {
+        "id": 29523,
+        "basque": "ihes-hodi",
+        "spanish": "(Autom.) tubo de escape"
+    },
+    {
+        "id": 29524,
+        "basque": "iheskari",
+        "spanish": "1 iz./izond. escapado, -a; huido, -a; fugitivo, -a // 2 iz./izond. prófugo, -a, desertor, -a // 3 iz./izond. refugiado, -a [político]"
+    },
+    {
+        "id": 29525,
+        "basque": "ihes-nahi",
+        "spanish": "escapismo"
+    },
+    {
+        "id": 29526,
+        "basque": "ihi",
+        "spanish": "iz. (Bot.) junco (Juncus sp.)"
+    },
+    {
+        "id": 29527,
+        "basque": "ihintz zuri",
+        "spanish": "rocío blanco"
+    },
+    {
+        "id": 29528,
+        "basque": "ihi-txori",
+        "spanish": "(Zool.) buitrón (Cisticola juncidis)"
+    },
+    {
+        "id": 29529,
+        "basque": "ihizi",
+        "spanish": "1 iz. (GN/Ipar.) [harrapakina] caza // 2 iz. (GN/Ipar.) [jarduera] caza // 3 iz. (GN/Ipar.) bestia, animal salvaje"
+    },
+    {
+        "id": 29530,
+        "basque": "ihurtzuri",
+        "spanish": "1 iz. trueno // 2 iz. relámpago"
+    },
+    {
+        "id": 29531,
+        "basque": "ijiji",
+        "spanish": "1 onom. onomatopeya de la risa // 2 iz. risa"
+    },
+    {
+        "id": 29532,
+        "basque": "ikareri",
+        "spanish": "1 iz. temblor // 2 iz. pavor, espanto, pánico"
+    },
+    {
+        "id": 29533,
+        "basque": "ikasmahai",
+        "spanish": "iz. pupitre, mesa de estudio"
+    },
+    {
+        "id": 29534,
+        "basque": "ikasnahi",
+        "spanish": "1 izond. aplicado, -a; estudioso, -a // 2 iz. deseo/ganas de aprender"
+    },
+    {
+        "id": 29535,
+        "basque": "ikastetxe nagusi",
+        "spanish": "colegio mayor"
+    },
+    {
+        "id": 29536,
+        "basque": "ikatz bizi",
+        "spanish": "brasa (de carbón)"
+    },
+    {
+        "id": 29537,
+        "basque": "ikatz-ziri",
+        "spanish": "carboncillo, carbón"
+    },
+    {
+        "id": 29538,
+        "basque": "ikazkai",
+        "spanish": "iz. carbono"
+    },
+    {
+        "id": 29539,
+        "basque": "ikazketari",
+        "spanish": "iz. transportista de carbón"
+    },
+    {
+        "id": 29540,
+        "basque": "ikaztobi",
+        "spanish": "iz. carbonera [pila de leña]"
+    },
+    {
+        "id": 29541,
+        "basque": "ikaztxori",
+        "spanish": "iz. colirrojo ➥ buztangorri"
+    },
+    {
+        "id": 29542,
+        "basque": "ikoti",
+        "spanish": "iz. (B) salto, brinco"
+    },
+    {
+        "id": 29543,
+        "basque": "iktiosi",
+        "spanish": "iz. (Med.) ictiosis"
+    },
+    {
+        "id": 29544,
+        "basque": "ikurri, ikur, ikurtzen",
+        "spanish": "da ad. caerse"
+    },
+    {
+        "id": 29545,
+        "basque": "ikusi, ikus, ikusten",
+        "spanish": "1 du ad. ver // 2 du ad. ver; opinar, juzgar // 3 du ad. ver, comprender, darse cuenta // 4 du ad. ver, examinar, inspeccionar // 5 du ad. visitar, ir a ver // 6 du ad. soportar, aguantar, padecer, sufrir; tolerar // iz. visita [acción de visitar]"
+    },
+    {
+        "id": 29546,
+        "basque": "ikusi-makusi",
+        "spanish": "adb. fórmula del juego infantil conocido como"
+    },
+    {
+        "id": 29547,
+        "basque": "ikuskari",
+        "spanish": "1 iz. espectáculo // 2 iz. inspector, -a // 3 iz. (Erl.) visión, aparición // 4 iz. (Kont.) auditor, -a"
+    },
+    {
+        "id": 29548,
+        "basque": "ikustarazi, ikustaraz, ikustarazten",
+        "spanish": "Ik. ikusarazi"
+    },
+    {
+        "id": 29549,
+        "basque": "ikustari",
+        "spanish": "iz. visitante"
+    },
+    {
+        "id": 29550,
+        "basque": "ikuzarri",
+        "spanish": "iz. piedra del lavadero"
+    },
+    {
+        "id": 29551,
+        "basque": "ikuzi, ikuz, ikuzten",
+        "spanish": "du ad. (Ipar.) lavar, limpiar"
+    },
+    {
+        "id": 29552,
+        "basque": "ilagindegi",
+        "spanish": "iz. (Ipar.) taller del lanero/cardador"
+    },
+    {
+        "id": 29553,
+        "basque": "ilargi",
+        "spanish": "1 iz. [Lurraren satelitea] (astronomiaz ari garela, maiusk. eta mug.) luna // 2 iz. (hed.) [edozein satelite] luna // 3 iz. (Ipar.) instrumento de arar, especie de arado de reja en forma de media luna, que sirve para abrir anchos surcos"
+    },
+    {
+        "id": 29554,
+        "basque": "ilargi berri",
+        "spanish": "novilunio, luna nueva"
+    },
+    {
+        "id": 29555,
+        "basque": "ilargi zuri",
+        "spanish": "(Ipar.) luz lunar"
+    },
+    {
+        "id": 29556,
+        "basque": "ilargi-eri",
+        "spanish": "lunático, -a"
+    },
+    {
+        "id": 29557,
+        "basque": "ilasi, ilas, ilasten",
+        "spanish": "du ad. andar a la greña, pelearse tirándose de los pelos"
+    },
+    {
+        "id": 29558,
+        "basque": "ilberri",
+        "spanish": "iz. novilunio, luna nueva"
+    },
+    {
+        "id": 29559,
+        "basque": "ildautsi, ildauts, ildausten",
+        "spanish": "du ad. (Ipar.) arar"
+    },
+    {
+        "id": 29560,
+        "basque": "ildo-txori",
+        "spanish": "(Ipar.) lavandera, aguzanieves ➥ buztanikara"
+    },
+    {
+        "id": 29561,
+        "basque": "ile-apaindegi",
+        "spanish": "peluquería [establecimiento]"
+    },
+    {
+        "id": 29562,
+        "basque": "ilebihurri",
+        "spanish": "izond. de cabello muy rizado/encrespado/ensortijado"
+    },
+    {
+        "id": 29563,
+        "basque": "ilegorri",
+        "spanish": "izond. pelirrojo, -a"
+    },
+    {
+        "id": 29564,
+        "basque": "ileguri",
+        "spanish": "iz. terciopelo"
+    },
+    {
+        "id": 29565,
+        "basque": "ilehori",
+        "spanish": "izond. rubio, -a [de pelo rubio]"
+    },
+    {
+        "id": 29566,
+        "basque": "ilezuri",
+        "spanish": "izond. cano, -a; canoso, -a; peliblanco, -a"
+    },
+    {
+        "id": 29567,
+        "basque": "ilinti",
+        "spanish": "1 iz. tizón // 2 iz. (Ipar.) carbón, carbunco"
+    },
+    {
+        "id": 29568,
+        "basque": "iltzez eta giltzez itxi",
+        "spanish": "cerrar a cal y canto"
+    },
+    {
+        "id": 29569,
+        "basque": "iltzez josi",
+        "spanish": "clavar, enclavar [asegurar con clavos]"
+    },
+    {
+        "id": 29570,
+        "basque": "ilundegi",
+        "spanish": "iz. tiniebla, oscuridad profunda"
+    },
+    {
+        "id": 29571,
+        "basque": "ilunsenti",
+        "spanish": "iz. atardecer, anochecer, anochecida"
+    },
+    {
+        "id": 29572,
+        "basque": "iman-harri",
+        "spanish": "(Miner.) piedra imán"
+    },
+    {
+        "id": 29573,
+        "basque": "imurtxi",
+        "spanish": "1 iz. pellizco // 2 iz. (hed.) remordimiento"
+    },
+    {
+        "id": 29574,
+        "basque": "inarrosi, inarros, inarrosten",
+        "spanish": "1 da/du ad. sacudir, agitar; estremecer // 2 da/du ad. (hed.) agitar; estremecer, conmover; inquietar, turbar"
+    },
+    {
+        "id": 29575,
+        "basque": "inatazi",
+        "spanish": "iz. granizo"
+    },
+    {
+        "id": 29576,
+        "basque": "inausi, inaus, inausten",
+        "spanish": "1 du ad. podar // 2 du ad. (hed.) quitar, arrancar, arrebatar, cercenar"
+    },
+    {
+        "id": 29577,
+        "basque": "inauskai",
+        "spanish": "iz. podadera"
+    },
+    {
+        "id": 29578,
+        "basque": "inaustari",
+        "spanish": "iz. podador, -a [persona]"
+    },
+    {
+        "id": 29579,
+        "basque": "inauteri",
+        "spanish": "iz. (batez ere pl.) carnaval"
+    },
+    {
+        "id": 29580,
+        "basque": "indar basati",
+        "spanish": "fuerza bruta"
+    },
+    {
+        "id": 29581,
+        "basque": "indargarri",
+        "spanish": "1 iz./izond. reconfortante, reconstituyente, refuerzo // 2 iz./izond. (Med.) reconstituyente; revitalizante // 3 iz./izond. (Eraik.) refuerzo // 4 iz. (Hizkl.) intensificador"
+    },
+    {
+        "id": 29582,
+        "basque": "indarrik gabe utzi",
+        "spanish": "(Zuz.) derogar, dejar sin efecto"
+    },
+    {
+        "id": 29583,
+        "basque": "indarti",
+        "spanish": "izond. fuerte, forzudo, -a; que tiene mucha fuerza"
+    },
+    {
+        "id": 29584,
+        "basque": "indusi, indus, industen",
+        "spanish": "1 du ad. hozar, hocicar; escarbar // 2 du ad. excavar"
+    },
+    {
+        "id": 29585,
+        "basque": "induskari",
+        "spanish": "iz./izond. hozador, -a; escarbador, -a; excavador, -a"
+    },
+    {
+        "id": 29586,
+        "basque": "infanterri",
+        "spanish": "iz. infantado"
+    },
+    {
+        "id": 29587,
+        "basque": "infantzoi",
+        "spanish": "iz. (Hist.) infanzón, -ona"
+    },
+    {
+        "id": 29588,
+        "basque": "infernuko etsai",
+        "spanish": "demonio"
+    },
+    {
+        "id": 29589,
+        "basque": "informatikari",
+        "spanish": "iz. informático, -a [persona]"
+    },
+    {
+        "id": 29590,
+        "basque": "informatizagarri",
+        "spanish": "izond. informatizable"
+    },
+    {
+        "id": 29591,
+        "basque": "infragorri",
+        "spanish": "iz./izond. (Fis.) infrarrojo, -a"
+    },
+    {
+        "id": 29592,
+        "basque": "ingeniari",
+        "spanish": "iz. ingeniero, -a"
+    },
+    {
+        "id": 29593,
+        "basque": "ingurumari",
+        "spanish": "1 iz. alrededor; afueras, cercanías, inmediaciones // 2 iz. rodeo; tapujo"
+    },
+    {
+        "id": 29594,
+        "basque": "injektagarri",
+        "spanish": "iz./izond. (Med.) inyectable"
+    },
+    {
+        "id": 29595,
+        "basque": "inkaminari",
+        "spanish": "iz. (Ipar.) escamoteador, -a, prestidigitador, -a"
+    },
+    {
+        "id": 29596,
+        "basque": "inkestari",
+        "spanish": "iz. encuestador, -a"
+    },
+    {
+        "id": 29597,
+        "basque": "inokulagarri",
+        "spanish": "izond. inoculable"
+    },
+    {
+        "id": 29598,
+        "basque": "inor gutxi",
+        "spanish": "casi nadie, poca gente, muy pocos"
+    },
+    {
+        "id": 29599,
+        "basque": "inorengarri",
+        "spanish": "izond. (Zuz.) alienable, enajenable [un bien, derecho...]"
+    },
+    {
+        "id": 29600,
+        "basque": "inotsi, inots, inosten",
+        "spanish": "dio ad. (B) (forma sintetikoa soilik erabiltzen da) manar, fluir"
+    },
+    {
+        "id": 29601,
+        "basque": "integragarri",
+        "spanish": "1 izond. integrable // 2 izond. (Mat.) integrable"
+    },
+    {
+        "id": 29602,
+        "basque": "interpretagarri",
+        "spanish": "izond. interpretable"
+    },
+    {
+        "id": 29603,
+        "basque": "interpretari",
+        "spanish": "Ik. interprete"
+    },
+    {
+        "id": 29604,
+        "basque": "intsentsu-ontzi",
+        "spanish": "incensario"
+    },
+    {
+        "id": 29605,
+        "basque": "intsusa gorri",
+        "spanish": "(Bot.) saúco rojo (Sambucus racemosa)"
+    },
+    {
+        "id": 29606,
+        "basque": "intsusa-txori",
+        "spanish": "curruca ➥ txinbo"
+    },
+    {
+        "id": 29607,
+        "basque": "intxarri",
+        "spanish": "1 iz. cencerro pequeño // 2 iz. cascabel, sonajero"
+    },
+    {
+        "id": 29608,
+        "basque": "intxausti",
+        "spanish": "iz. nogueral, bosque de nogales"
+    },
+    {
+        "id": 29609,
+        "basque": "intziri",
+        "spanish": "1 iz. [pertsonarena] gemido, sollozo, lamento; suspiro // 2 iz. [animaliarena] gemido; [txakurrena, otsoena...] aullido"
+    },
+    {
+        "id": 29610,
+        "basque": "inurri",
+        "spanish": "iz. (Zool.) hormiga"
+    },
+    {
+        "id": 29611,
+        "basque": "inurri gorri",
+        "spanish": "(Zool.) hormiga roja (Formica rufa)"
+    },
+    {
+        "id": 29612,
+        "basque": "inurri lehoi",
+        "spanish": "(Zool.) hormiga león"
+    },
+    {
+        "id": 29613,
+        "basque": "inusturi",
+        "spanish": "1 iz. trueno // 2 iz. relámpago"
+    },
+    {
+        "id": 29614,
+        "basque": "ioi",
+        "spanish": "iz. (Kim.) ion"
+    },
+    {
+        "id": 29615,
+        "basque": "ipar gorri",
+        "spanish": "cierzo, aquilón, viento (del) norte"
+    },
+    {
+        "id": 29616,
+        "basque": "ipar zuri",
+        "spanish": "viento del norte agradable"
+    },
+    {
+        "id": 29617,
+        "basque": "ipingi",
+        "spanish": "1 iz. (B) remiendo; petacho // 2 iz. (B) (hed.) remiendo, parche, arreglo provisional"
+    },
+    {
+        "id": 29618,
+        "basque": "ipurdantzari",
+        "spanish": "1 iz. (Zool.) lavandera, aguzanieves // 2 izond. persona inquieta/movida"
+    },
+    {
+        "id": 29619,
+        "basque": "ipurmami",
+        "spanish": "iz. nalga"
+    },
+    {
+        "id": 29620,
+        "basque": "ipurtageri",
+        "spanish": "1 adb. con el culo al aire // 2 adb. (hed.) a la vista, en evidencia"
+    },
+    {
+        "id": 29621,
+        "basque": "ipurtargi",
+        "spanish": "iz. (Zool.) luciérnaga (Lamprys noctiluca)"
+    },
+    {
+        "id": 29622,
+        "basque": "ipurtzapi",
+        "spanish": "iz. pañal"
+    },
+    {
+        "id": 29623,
+        "basque": "ipurtzuri",
+        "spanish": "izond. adulador, -a, lisonjero, -a, halagador, -a"
+    },
+    {
+        "id": 29624,
+        "basque": "irabazi garbi",
+        "spanish": "(Ekon.) beneficio neto"
+    },
+    {
+        "id": 29625,
+        "basque": "irabazi garbi",
+        "spanish": "(Ekon.) beneficio neto"
+    },
+    {
+        "id": 29626,
+        "basque": "iragaitzazko (bidari)",
+        "spanish": "izlag. transitorio, -a, pasajero, -a; en tránsito"
+    },
+    {
+        "id": 29627,
+        "basque": "iragangarri",
+        "spanish": "izond. transitable, franqueable"
+    },
+    {
+        "id": 29628,
+        "basque": "iragazi, iragaz, iragazten",
+        "spanish": "1 du ad. [bereziki, iragazkitik igaroarazi] colar, filtrar // 2 da/du ad. [gorputz solido baten hutsuneetatik zerbait igaro] filtrarse; infiltrarse // 3 du ad. [uhinak edo seinaleak] filtrar // 4 du ad. (Inform.) filtrar"
+    },
+    {
+        "id": 29629,
+        "basque": "iraitzi, iraitz, iraizten",
+        "spanish": "1 du ad. (Ipar.) expulsar, arrojar; tirar, lanzar // 2 du ad. (Biol.) excretar"
+    },
+    {
+        "id": 29630,
+        "basque": "irakasgarri",
+        "spanish": "1 izond. enseñable // 2 izond. domable, domesticable // 3 iz. enseñanza"
+    },
+    {
+        "id": 29631,
+        "basque": "irakinontzi; ur-irakinontzi",
+        "spanish": "hervidor"
+    },
+    {
+        "id": 29632,
+        "basque": "irakori, irakor, irakortzen",
+        "spanish": "da/du ad. levantar(se), alzar, izar"
+    },
+    {
+        "id": 29633,
+        "basque": "irakurgarri",
+        "spanish": "1 izond. digno de leerse // 2 izond. legible, leíble"
+    },
+    {
+        "id": 29634,
+        "basque": "irakurri, irakur, irakurtzen",
+        "spanish": "1 du ad. leer // 2 du ad. (hed.) leer // 3 du ad. (Elektron.) [seinaleak] leer // 4 du ad. (Mus.) leer, solfear"
+    },
+    {
+        "id": 29635,
+        "basque": "irakuzi, irakuz, irakuzten",
+        "spanish": "dio ad. enjuagar, lavar con agua"
+    },
+    {
+        "id": 29636,
+        "basque": "iranoi",
+        "spanish": "iz. (BN/GN/Z) esófago"
+    },
+    {
+        "id": 29637,
+        "basque": "irantzi, irantz, iranzten",
+        "spanish": "du ad. castrar, capar, emascular"
+    },
+    {
+        "id": 29638,
+        "basque": "irardausi, irardaus, irardausten",
+        "spanish": "du ad. sacudir, zarandear, agitar, menear // iz. brío, meneo"
+    },
+    {
+        "id": 29639,
+        "basque": "irarri, irar, irartzen",
+        "spanish": "1 du ad. imprimir // 2 du ad. (Art.) grabar"
+    },
+    {
+        "id": 29640,
+        "basque": "irasagasti",
+        "spanish": "iz. membrillar"
+    },
+    {
+        "id": 29641,
+        "basque": "iratxori",
+        "spanish": "iz. collalba ➥ buztanzuri"
+    },
+    {
+        "id": 29642,
+        "basque": "iratzargarri",
+        "spanish": "iz./izond. excitante, estimulante; despertador, -a"
+    },
+    {
+        "id": 29643,
+        "basque": "iratzeketari",
+        "spanish": "iz. recolector del helecho"
+    },
+    {
+        "id": 29644,
+        "basque": "iraulki-kamioi",
+        "spanish": "camión con volquete"
+    },
+    {
+        "id": 29645,
+        "basque": "iraupen-lasterkari",
+        "spanish": "(Kir.) fondista, corredor, -a de fondo"
+    },
+    {
+        "id": 29646,
+        "basque": "irausi",
+        "spanish": "adb. en celo [la hembra del cerdo]"
+    },
+    {
+        "id": 29647,
+        "basque": "irazki-hari",
+        "spanish": "lizo"
+    },
+    {
+        "id": 29648,
+        "basque": "iraztontzi",
+        "spanish": "iz. colador, pasador"
+    },
+    {
+        "id": 29649,
+        "basque": "iretargi",
+        "spanish": "iz. (B) luna [satélite]"
+    },
+    {
+        "id": 29650,
+        "basque": "iri",
+        "spanish": "postp. (Ipar.) hacia, por, cerca de, a eso de"
+    },
+    {
+        "id": 29651,
+        "basque": "irindegi",
+        "spanish": "iz. harinero [lugar para amasar y guardar la harina]"
+    },
+    {
+        "id": 29652,
+        "basque": "iritziak iritzi",
+        "spanish": "se piense lo que se piense"
+    },
+    {
+        "id": 29653,
+        "basque": "iroi",
+        "spanish": "1 iz. injuria, reproche // 2 iz. afrenta"
+    },
+    {
+        "id": 29654,
+        "basque": "irozgarri",
+        "spanish": "1 iz. apoyo, soporte // 2 izond. capaz de sustentar"
+    },
+    {
+        "id": 29655,
+        "basque": "irozkai",
+        "spanish": "iz. apoyo, soporte"
+    },
+    {
+        "id": 29656,
+        "basque": "irrati",
+        "spanish": "1 iz. [haririk gabeko telefonia] radio // 2 iz. [aparatua] radio // 3 iz. [komunikabidea] radio // 4 iz. [instalazioa] radio"
+    },
+    {
+        "id": 29657,
+        "basque": "irrati(-etxe)",
+        "spanish": "1 iz. [haririk gabeko telefonia] radio // 2 iz. [aparatua] radio // 3 iz. [komunikabidea] radio // 4 iz. [instalazioa] radio"
+    },
+    {
+        "id": 29658,
+        "basque": "irrati(-instalazio)",
+        "spanish": "1 iz. [haririk gabeko telefonia] radio // 2 iz. [aparatua] radio // 3 iz. [komunikabidea] radio // 4 iz. [instalazioa] radio"
+    },
+    {
+        "id": 29659,
+        "basque": "irrati-taxi",
+        "spanish": "radiotaxi"
+    },
+    {
+        "id": 29660,
+        "basque": "a capella",
+        "spanish": "adb. (Mus.) a capella"
+    },
+    {
+        "id": 29661,
+        "basque": "AA",
+        "spanish": "iz. (Inform.) IA (inteligencia artificial)"
+    },
+    {
+        "id": 29662,
+        "basque": "aba",
+        "spanish": "Ik. aita"
+    },
+    {
+        "id": 29663,
+        "basque": "abadesa",
+        "spanish": "iz. abadesa"
+    },
+    {
+        "id": 29664,
+        "basque": "abadetza",
+        "spanish": "1 iz. [abadearen kargua eta egitekoa] abadía // 2 iz. (B) sacerdocio"
+    },
+    {
+        "id": 29665,
+        "basque": "abadia",
+        "spanish": "1 iz. [kargua] abadía // 2 iz. [komentua, monasterioa] abadía"
+    },
+    {
+        "id": 29666,
+        "basque": "abadira",
+        "spanish": "iz. (Zool.) abadejo (Pollachius pollachius)"
+    },
+    {
+        "id": 29667,
+        "basque": "abail eginda",
+        "spanish": "muy cansado"
+    },
+    {
+        "id": 29668,
+        "basque": "abaila",
+        "spanish": "iz. velocidad, ímpetu"
+    },
+    {
+        "id": 29669,
+        "basque": "Abaltzisketa",
+        "spanish": "Abaltzisketa"
+    },
+    {
+        "id": 29670,
+        "basque": "abangoardia",
+        "spanish": "iz. vanguardia"
+    },
+    {
+        "id": 29671,
+        "basque": "abangoardista",
+        "spanish": "izond. (Art.) vanguardista"
+    },
+    {
+        "id": 29672,
+        "basque": "abaraska",
+        "spanish": "iz. panal (de miel)"
+    },
+    {
+        "id": 29673,
+        "basque": "abarizia",
+        "spanish": "iz. (zah.) avaricia, codicia"
+    },
+    {
+        "id": 29674,
+        "basque": "abarka",
+        "spanish": "iz. abarca, albarca"
+    },
+    {
+        "id": 29675,
+        "basque": "abarreria",
+        "spanish": "iz. residuos, restos"
+    },
+    {
+        "id": 29676,
+        "basque": "Abartzuza",
+        "spanish": "Abárzuza"
+    },
+    {
+        "id": 29677,
+        "basque": "abata",
+        "spanish": "1 iz. (Ipar.) puesto de caza situado en los árboles desde donde se observa a las palomas // 2 iz. figura de gavilán, de madera, que el cazador arroja a las palomas para que estas abatan el vuelo y entren en las redes (algunas veces también se utiliza una paloma ciega)"
+    },
+    {
+        "id": 29678,
+        "basque": "Abaurregaina, -a",
+        "spanish": "Abaurrea Alta"
+    },
+    {
+        "id": 29679,
+        "basque": "Abaurrepea, -a",
+        "spanish": "Abaurrea Baja"
+    },
+    {
+        "id": 29680,
+        "basque": "abegi-familia",
+        "spanish": "familia de acogida"
+    },
+    {
+        "id": 29681,
+        "basque": "abeltzaintza",
+        "spanish": "iz. cuidado del ganado; ganadería"
+    },
+    {
+        "id": 29682,
+        "basque": "abeltzantza",
+        "spanish": "Ik. abeltzaintza"
+    },
+    {
+        "id": 29683,
+        "basque": "abemaria",
+        "spanish": "1 iz. (Erl.) [otoitza] avemaría // 2 iz. (pl.) hora y toque del Ángelus, generalmente la vespertina"
+    },
+    {
+        "id": 29684,
+        "basque": "abemaria-ezkila",
+        "spanish": "toque (de campana) del Ángelus vespertino"
+    },
+    {
+        "id": 29685,
+        "basque": "abenda",
+        "spanish": "iz. raza (humana)"
+    },
+    {
+        "id": 29686,
+        "basque": "abenida",
+        "spanish": "Ik. etorbide, hiribide"
+    },
+    {
+        "id": 29687,
+        "basque": "abenka",
+        "spanish": "iz. (Itsas.) (batez ere pl.) obenque"
+    },
+    {
+        "id": 29688,
+        "basque": "abentura-nobela",
+        "spanish": "(Lit.) novela de aventuras"
+    },
+    {
+        "id": 29689,
+        "basque": "abentura-nobela",
+        "spanish": "(Lit.) novela de aventuras"
+    },
+    {
+        "id": 29690,
+        "basque": "abere-azoka",
+        "spanish": "feria de ganado"
+    },
+    {
+        "id": 29691,
+        "basque": "aberia",
+        "spanish": "1 iz. avería, daño, perjuicio // 2 iz. esfuerzo, cansancio // 3 iz. avería"
+    },
+    {
+        "id": 29692,
+        "basque": "aberri ama",
+        "spanish": "madre patria"
+    },
+    {
+        "id": 29693,
+        "basque": "abesbatza",
+        "spanish": "iz. coro, orfeón, masa coral"
+    },
+    {
+        "id": 29694,
+        "basque": "abiada",
+        "spanish": "1 iz. velocidad, impulso // 2 iz. partida, salida // 3 iz. (hed.) marcha, ritmo"
+    },
+    {
+        "id": 29695,
+        "basque": "abiadazko irteera",
+        "spanish": "(Kir.) salida lanzada"
+    },
+    {
+        "id": 29696,
+        "basque": "abiadura-kaxa",
+        "spanish": "(Teknol.) caja de cambios/velocidades"
+    },
+    {
+        "id": 29697,
+        "basque": "abiadura-muga",
+        "spanish": "límite de velocidad"
+    },
+    {
+        "id": 29698,
+        "basque": "abiadura-palanka",
+        "spanish": "(Teknol.) palanca de cambio"
+    },
+    {
+        "id": 29699,
+        "basque": "abilezia",
+        "spanish": "iz. habilidad, destreza"
+    },
+    {
+        "id": 29700,
+        "basque": "abioneta",
+        "spanish": "iz. (Heg.) avioneta"
+    },
+    {
+        "id": 29701,
+        "basque": "Abisinia",
+        "spanish": "Abisinia"
+    },
+    {
+        "id": 29702,
+        "basque": "Abkhazia",
+        "spanish": "Abjasia"
+    },
+    {
+        "id": 29703,
+        "basque": "abokatu-langela",
+        "spanish": "(Zuz.) bufete"
+    },
+    {
+        "id": 29704,
+        "basque": "abokatutza",
+        "spanish": "1 iz. (Zuz.) abogacía [oficio] // 2 iz. (Zuz.) [erakundea] abogacía"
+    },
+    {
+        "id": 29705,
+        "basque": "abolizionista",
+        "spanish": "iz./izond. abolicionista"
+    },
+    {
+        "id": 29706,
+        "basque": "abortista",
+        "spanish": "iz./izond. abortista"
+    },
+    {
+        "id": 29707,
+        "basque": "abortza",
+        "spanish": "iz. (Itsas.) orza"
+    },
+    {
+        "id": 29708,
+        "basque": "abozeta",
+        "spanish": "iz. (Zool.) avoceta (Recurvirostra avosetta)"
+    },
+    {
+        "id": 29709,
+        "basque": "abra",
+        "spanish": "iz. abra"
+    },
+    {
+        "id": 29710,
+        "basque": "abrakadabra",
+        "spanish": "iz. abracadabra"
+    },
+    {
+        "id": 29711,
+        "basque": "abruska",
+        "spanish": "adb. de bruces"
+    },
+    {
+        "id": 29712,
+        "basque": "absenta",
+        "spanish": "iz. absenta, ajenjo"
+    },
+    {
+        "id": 29713,
+        "basque": "absentzia",
+        "spanish": "1 iz. ausencia // 2 iz. (Med.) ausencia // 3 iz. (Zuz.) ausencia"
+    },
+    {
+        "id": 29714,
+        "basque": "absolutista",
+        "spanish": "iz./izond. (Pol.) absolutista"
+    },
+    {
+        "id": 29715,
+        "basque": "absorbantzia",
+        "spanish": "iz. (Fis.) absorbancia"
+    },
+    {
+        "id": 29716,
+        "basque": "absortziometria",
+        "spanish": "iz. (Kim.) absorciometría"
+    },
+    {
+        "id": 29717,
+        "basque": "abstentzionista",
+        "spanish": "iz./izond. (Pol.) abstencionista"
+    },
+    {
+        "id": 29718,
+        "basque": "abstinentzia",
+        "spanish": "1 iz. [bijilia, mehea] abstinencia // 2 iz. (Med.) abstinencia"
+    },
+    {
+        "id": 29719,
+        "basque": "Abuja",
+        "spanish": "Abuya"
+    },
+    {
+        "id": 29720,
+        "basque": "abulia",
+        "spanish": "iz. (Psikiat.) abulia"
+    },
+    {
+        "id": 29721,
+        "basque": "aburna",
+        "spanish": "iz. naso ➥ loina handi"
+    },
+    {
+        "id": 29722,
+        "basque": "aburumenka",
+        "spanish": "adb. (Ipar.) al (buen) tuntún, sin ninguna base; a ojo, a voleo"
+    },
+    {
+        "id": 29723,
+        "basque": "abzisa",
+        "spanish": "iz. (Mat.) abscisa"
+    },
+    {
+        "id": 29724,
+        "basque": "Aconcagua",
+        "spanish": "Aconcagua"
+    },
+    {
+        "id": 29725,
+        "basque": "ahalaz",
+        "spanish": "(BN/L) en lo posible, en la medida que se pueda, si es posible"
+    },
+    {
+        "id": 29726,
+        "basque": "baltsamina (arrunt)",
+        "spanish": "(Bot.) alegría de la casa (Impatiens wallerana)"
+    },
+    {
+        "id": 29727,
+        "basque": "adaka",
+        "spanish": "iz. (Bot.) renuevo"
+    },
+    {
+        "id": 29728,
+        "basque": "adakera",
+        "spanish": "1 iz. [animaliek] cornamenta, cuerna // 2 iz. [zuhaitzek] ramaje; copa"
+    },
+    {
+        "id": 29729,
+        "basque": "adar-aldaxka",
+        "spanish": "(Bot.) estaca"
+    },
+    {
+        "id": 29730,
+        "basque": "adareta",
+        "spanish": "iz. (Ipar.) tipo de arado"
+    },
+    {
+        "id": 29731,
+        "basque": "adarga",
+        "spanish": "iz. adarga"
+    },
+    {
+        "id": 29732,
+        "basque": "adarka",
+        "spanish": "1 adb. a cornadas, golpeando con los cuernos // 2 adb. a cántaros"
+    },
+    {
+        "id": 29733,
+        "basque": "adarkara",
+        "spanish": "izond. cornial; corniforme; córneo, -a"
+    },
+    {
+        "id": 29734,
+        "basque": "adarpunta",
+        "spanish": "iz. punta del cuerno; pitón"
+    },
+    {
+        "id": 29735,
+        "basque": "adausika",
+        "spanish": "ladrando"
+    },
+    {
+        "id": 29736,
+        "basque": "adaxka",
+        "spanish": "1 iz. rama pequeña, chasca; [hirugarren ordenako adarra] ramilla // 2 iz. vástago, renuevo, retoño // 3 iz. cuerno pequeño; [ateratzen hasia den adarra] pitón // 4 iz. punta del bieldo // 5 iz. (Ipar.) trenza (de pelo)"
+    },
+    {
+        "id": 29737,
+        "basque": "adbentista",
+        "spanish": "iz./izond. (Erl.) adventista"
+    },
+    {
+        "id": 29738,
+        "basque": "Addis Abeba",
+        "spanish": "Adis Abeba"
+    },
+    {
+        "id": 29739,
+        "basque": "Adelaida",
+        "spanish": "Adelaida"
+    },
+    {
+        "id": 29740,
+        "basque": "adenina",
+        "spanish": "iz. (Biokim.) adenina"
+    },
+    {
+        "id": 29741,
+        "basque": "adenopatia",
+        "spanish": "iz. (Med.) adenopatía"
+    },
+    {
+        "id": 29742,
+        "basque": "adenosina",
+        "spanish": "iz. (Biokim.) adenosina"
+    },
+    {
+        "id": 29743,
+        "basque": "adi, prest, ja!",
+        "spanish": "1 adb. atentamente, con atención // 2 iz. atención // 1 iz. inteligencia, entendimiento // 2 iz. intención"
+    },
+    {
+        "id": 29744,
+        "basque": "adia",
+        "spanish": "iz. lamentación, gemido"
+    },
+    {
+        "id": 29745,
+        "basque": "adiaka",
+        "spanish": "adb. gimiendo, aullando"
+    },
+    {
+        "id": 29746,
+        "basque": "adina",
+        "spanish": "partik. tanto... como"
+    },
+    {
+        "id": 29747,
+        "basque": "adinamia",
+        "spanish": "iz. (Med.) adinamia"
+    },
+    {
+        "id": 29748,
+        "basque": "adiskidantza",
+        "spanish": "iz. (Ipar.) amistad, compañerismo, afecto"
+    },
+    {
+        "id": 29749,
+        "basque": "adiskidantzazko partida; lagunarteko partida",
+        "spanish": "(Kir.) partido amistoso"
+    },
+    {
+        "id": 29750,
+        "basque": "adiskidetza",
+        "spanish": "1 iz. amistad, compañerismo, afecto // 2 iz. (hed.) amistad"
+    },
+    {
+        "id": 29751,
+        "basque": "aditz-sintagma",
+        "spanish": "(Hizkl.) sintagma verbal"
+    },
+    {
+        "id": 29752,
+        "basque": "aditz-sintagma",
+        "spanish": "(Hizkl.) sintagma verbal"
+    },
+    {
+        "id": 29753,
+        "basque": "aditz-taula",
+        "spanish": "(Hizkl.) conjugación, tabla verbal, tabla de conjugación"
+    },
+    {
+        "id": 29754,
+        "basque": "adiuntza",
+        "spanish": "iz. tiempo, ocasión, momento"
+    },
+    {
+        "id": 29755,
+        "basque": "adizkera",
+        "spanish": "iz. (Hizkl.) forma verbal"
+    },
+    {
+        "id": 29756,
+        "basque": "administraritza",
+        "spanish": "iz. administración [entidades públicas]"
+    },
+    {
+        "id": 29757,
+        "basque": "adoleszentzia",
+        "spanish": "iz. adolescencia"
+    },
+    {
+        "id": 29758,
+        "basque": "adopziozko familia",
+        "spanish": "familia adoptiva"
+    },
+    {
+        "id": 29759,
+        "basque": "adrenalina",
+        "spanish": "iz. (Biokim.) adrenalina"
+    },
+    {
+        "id": 29760,
+        "basque": "adrezia",
+        "spanish": "iz. (Ipar.) (herr.) habilidad, destreza, maña; inteligencia"
+    },
+    {
+        "id": 29761,
+        "basque": "aduana",
+        "spanish": "iz. aduana"
+    },
+    {
+        "id": 29762,
+        "basque": "muga-zerga; aduana-zerga",
+        "spanish": "(Ekon.) impuesto de aduanas, arancel (aduanero)"
+    },
+    {
+        "id": 29763,
+        "basque": "adularia",
+        "spanish": "iz. (Miner.) adularia"
+    },
+    {
+        "id": 29764,
+        "basque": "Aduna",
+        "spanish": "Aduna"
+    },
+    {
+        "id": 29765,
+        "basque": "aerodinamika",
+        "spanish": "iz. (Fis.) aerodinámica"
+    },
+    {
+        "id": 29766,
+        "basque": "aerofagia",
+        "spanish": "iz. (Med.) aerofagia"
+    },
+    {
+        "id": 29767,
+        "basque": "aerofotografia",
+        "spanish": "iz. (Arg.) aerofotografía"
+    },
+    {
+        "id": 29768,
+        "basque": "aerogastria",
+        "spanish": "iz. (Med.) aerogastria"
+    },
+    {
+        "id": 29769,
+        "basque": "aerografia",
+        "spanish": "iz. (Pint.) aerografía"
+    },
+    {
+        "id": 29770,
+        "basque": "aerograma",
+        "spanish": "iz. (Telekom.) aerograma"
+    },
+    {
+        "id": 29771,
+        "basque": "aerologia",
+        "spanish": "iz. aerología"
+    },
+    {
+        "id": 29772,
+        "basque": "aeronauta",
+        "spanish": "iz. (Aeron.) aeronauta"
+    },
+    {
+        "id": 29773,
+        "basque": "aeronautika",
+        "spanish": "iz. (Aeron.) aeronáutica, aeronavegación"
+    },
+    {
+        "id": 29774,
+        "basque": "aerostatika",
+        "spanish": "iz. (Fis.) aerostática"
+    },
+    {
+        "id": 29775,
+        "basque": "aezkera",
+        "spanish": "iz. dialecto vasco del valle de Aezkoa"
+    },
+    {
+        "id": 29776,
+        "basque": "Aezkoa (Ibarra)",
+        "spanish": "(Valle de) Aezkoa"
+    },
+    {
+        "id": 29777,
+        "basque": "afari-merienda",
+        "spanish": "merienda-cena"
+    },
+    {
+        "id": 29778,
+        "basque": "afaritara",
+        "spanish": "a cenar"
+    },
+    {
+        "id": 29779,
+        "basque": "afasia",
+        "spanish": "iz. (Med.) afasia"
+    },
+    {
+        "id": 29780,
+        "basque": "afganiera",
+        "spanish": "iz. afgano [lengua]"
+    },
+    {
+        "id": 29781,
+        "basque": "afitxa",
+        "spanish": "Ik. afixa"
+    },
+    {
+        "id": 29782,
+        "basque": "afonia",
+        "spanish": "iz. (Med.) afonía"
+    },
+    {
+        "id": 29783,
+        "basque": "Afrika",
+        "spanish": "África"
+    },
+    {
+        "id": 29784,
+        "basque": "Afrika Erdiko Errepublika",
+        "spanish": "República Centroafricana"
+    },
+    {
+        "id": 29785,
+        "basque": "afrikanista",
+        "spanish": "iz./izond. africanista"
+    },
+    {
+        "id": 29786,
+        "basque": "Afrodita",
+        "spanish": "f. (Mit.) Afrodita"
+    },
+    {
+        "id": 29787,
+        "basque": "afta",
+        "spanish": "iz. (Med.) afta"
+    },
+    {
+        "id": 29788,
+        "basque": "aga",
+        "spanish": "iz. (Hist.) agá"
+    },
+    {
+        "id": 29789,
+        "basque": "agaka",
+        "spanish": "Ik. alfabeto"
+    },
+    {
+        "id": 29790,
+        "basque": "agalaktia",
+        "spanish": "iz. (Med.) agalactia"
+    },
+    {
+        "id": 29791,
+        "basque": "agama",
+        "spanish": "iz. (Zool.) agama (Agama sp.)"
+    },
+    {
+        "id": 29792,
+        "basque": "agata",
+        "spanish": "iz. (Miner.) ágata"
+    },
+    {
+        "id": 29793,
+        "basque": "Agata",
+        "spanish": "Ágata, Águeda"
+    },
+    {
+        "id": 29794,
+        "basque": "Ageda",
+        "spanish": "Ik. Agata"
+    },
+    {
+        "id": 29795,
+        "basque": "agenda",
+        "spanish": "iz. agenda"
+    },
+    {
+        "id": 29796,
+        "basque": "agenesia",
+        "spanish": "iz. (Biol.) (Med.) agenesia"
+    },
+    {
+        "id": 29797,
+        "basque": "agentzia",
+        "spanish": "iz. agencia"
+    },
+    {
+        "id": 29798,
+        "basque": "agiantza",
+        "spanish": "iz. (BN/L) deseo"
+    },
+    {
+        "id": 29799,
+        "basque": "Aginaga",
+        "spanish": "Aginaga"
+    },
+    {
+        "id": 29800,
+        "basque": "aginduka",
+        "spanish": "adb. dando órdenes, mandando"
+    },
+    {
+        "id": 29801,
+        "basque": "agintaritza",
+        "spanish": "iz. poder, autoridad, potestad"
+    },
+    {
+        "id": 29802,
+        "basque": "agintekidetza",
+        "spanish": "iz. (Zuz.) condominio [de un territorio]"
+    },
+    {
+        "id": 29803,
+        "basque": "aginte-makila",
+        "spanish": "cetro, vara [de la autoridad]"
+    },
+    {
+        "id": 29804,
+        "basque": "agintera",
+        "spanish": "1 iz. modo de gobierno // 2 iz. (Hizkl.) (modo) imperativo"
+    },
+    {
+        "id": 29805,
+        "basque": "agiraka",
+        "spanish": "1 iz. (batez ere B) riña, reprimenda // 2 adb. (batez ere B) riñendo, reprendiendo"
+    },
+    {
+        "id": 29806,
+        "basque": "agoa",
+        "spanish": "iz. masa de hierro fundido; tocho"
+    },
+    {
+        "id": 29807,
+        "basque": "agogika",
+        "spanish": "iz. (Mus.) agógica"
+    },
+    {
+        "id": 29808,
+        "basque": "agonia",
+        "spanish": "1 iz. agonía, estado que precede a la muerte // 2 iz. (hed.) agonía, estado que precede al fin"
+    },
+    {
+        "id": 29809,
+        "basque": "agora",
+        "spanish": "1 iz. [plaza] ágora // 2 iz. [batzarra] ágora"
+    },
+    {
+        "id": 29810,
+        "basque": "agorafobia",
+        "spanish": "iz. (Psikol.) agorafobia"
+    },
+    {
+        "id": 29811,
+        "basque": "agorreria",
+        "spanish": "iz. sequía; penuria, escasez"
+    },
+    {
+        "id": 29812,
+        "basque": "agorrola",
+        "spanish": "iz. herrería de monte que funcionaba sin agua"
+    },
+    {
+        "id": 29813,
+        "basque": "agrafia",
+        "spanish": "iz. (Med.) agrafia"
+    },
+    {
+        "id": 29814,
+        "basque": "agregatutza",
+        "spanish": "iz. agregaduría"
+    },
+    {
+        "id": 29815,
+        "basque": "agrobiologia",
+        "spanish": "iz. agrobiología"
+    },
+    {
+        "id": 29816,
+        "basque": "agroekologia",
+        "spanish": "iz. agroecología"
+    },
+    {
+        "id": 29817,
+        "basque": "agrokimika",
+        "spanish": "iz. agroquímica"
+    },
+    {
+        "id": 29818,
+        "basque": "agronomia",
+        "spanish": "iz. agronomía"
+    },
+    {
+        "id": 29819,
+        "basque": "agudezia",
+        "spanish": "iz. (batez ere Ipar.) (zah.) agudeza, habilidad, destreza"
+    },
+    {
+        "id": 29820,
+        "basque": "Aguilar Kodeskoa",
+        "spanish": "Aguilar de Codés"
+    },
+    {
+        "id": 29821,
+        "basque": "agulera",
+        "spanish": "iz. agul [lengua]"
+    },
+    {
+        "id": 29822,
+        "basque": "Agur erregina",
+        "spanish": "(Erl.) salve [oración]"
+    },
+    {
+        "id": 29823,
+        "basque": "agurka",
+        "spanish": "1 adb. saludando; despidiendo, diciendo adiós // 2 adb. (batez ere Ipar.) venerando, adorando; haciendo una reverencia // 3 adb. (batez ere Ipar.) dando cabezadas [de sueño]"
+    },
+    {
+        "id": 29824,
+        "basque": "agurmaria",
+        "spanish": "iz. (Erl.) avemaría [oración]"
+    },
+    {
+        "id": 29825,
+        "basque": "agurtza",
+        "spanish": "1 iz. reverencia, adoración // 2 iz. rosario // 3 iz. saludo"
+    },
+    {
+        "id": 29826,
+        "basque": "Agustina",
+        "spanish": "Agustina"
+    },
+    {
+        "id": 29827,
+        "basque": "aha",
+        "spanish": "interj. ajá"
+    },
+    {
+        "id": 29828,
+        "basque": "ahabia",
+        "spanish": "1 iz. (Bot.) arándano (Vaccinium myrtillus) // 2 iz. (Bot.) [fruitua] arándano"
+    },
+    {
+        "id": 29829,
+        "basque": "ahaideria",
+        "spanish": "iz. (Ipar.) parentela, familia, conjunto de parientes"
+    },
+    {
+        "id": 29830,
+        "basque": "ahaidetza",
+        "spanish": "iz. entronque, parentesco"
+    },
+    {
+        "id": 29831,
+        "basque": "ahaika",
+        "spanish": "iz. provocación"
+    },
+    {
+        "id": 29832,
+        "basque": "ahal guztia",
+        "spanish": "adb. todo lo que se pueda, tanto como se pueda"
+    },
+    {
+        "id": 29833,
+        "basque": "(behe-)gabia",
+        "spanish": "(Itsas.) gavia (baja)"
+    },
+    {
+        "id": 29834,
+        "basque": "ahaleginka",
+        "spanish": "adb. haciendo lo posible; haciendo esfuerzos, esforzándose"
+    },
+    {
+        "id": 29835,
+        "basque": "ahalera",
+        "spanish": "iz. (Hizkl.) (modo) potencial"
+    },
+    {
+        "id": 29836,
+        "basque": "ahalik... -en(a)",
+        "spanish": "1 adb. lo más... posible // 2 izond. lo más... posible"
+    },
+    {
+        "id": 29837,
+        "basque": "ahalik eta... -ena",
+        "spanish": "1 adb. lo más... posible // 2 izond. lo más... posible"
+    },
+    {
+        "id": 29838,
+        "basque": "ahamenda",
+        "spanish": "1 iz. (Ipar.) menta ➥ menda // 2 iz. (Ipar.) ajenjo, absintio ➥ asentsio(-belar)"
+    },
+    {
+        "id": 29839,
+        "basque": "ahamenka",
+        "spanish": "adb. a bocados, a porciones; en partes"
+    },
+    {
+        "id": 29840,
+        "basque": "ahapeka",
+        "spanish": "adb. (batez ere Ipar.) hablando en secreto, hablando al oído, hablando en voz baja"
+    },
+    {
+        "id": 29841,
+        "basque": "ahardi-alaba",
+        "spanish": "(arrt.) hija de puta, hijaputa"
+    },
+    {
+        "id": 29842,
+        "basque": "ahari-joko; ahari-talka; ahari-topeka",
+        "spanish": "pelea de carneros"
+    },
+    {
+        "id": 29843,
+        "basque": "ahari-talka",
+        "spanish": "pelea de carneros"
+    },
+    {
+        "id": 29844,
+        "basque": "aharkela",
+        "spanish": "iz. (Ipar.) carnero cebado"
+    },
+    {
+        "id": 29845,
+        "basque": "aharra",
+        "spanish": "iz. riña, disputa, contienda"
+    },
+    {
+        "id": 29846,
+        "basque": "aharrausika",
+        "spanish": "adb. bostezando"
+    },
+    {
+        "id": 29847,
+        "basque": "ahizpa",
+        "spanish": "1 iz. [beste ahizpa batena] hermana // 2 iz. (Erl.) [mojen tratamendua] hermana, sor"
+    },
+    {
+        "id": 29848,
+        "basque": "aho(a) betean/beteka/betez",
+        "spanish": "1 iz. boca // 2 iz. [aurpegiko atala] boca // 3 iz. [mintzamenaren organoa] boca; palabra // 4 iz. [zaporea] boca, sabor, gusto // 5 iz. (hed.) [tresnarena, organoarena] boca, abertura // 6 iz. [ibaiarena] desembocadura // 7 iz. [ebakitze-tresnarena] filo, hoja // 8 iz. [atearena, leihoarena] hoja, abertura // 9 iz. (Arkit.) (Eraik.) mortaja"
+    },
+    {
+        "id": 29849,
+        "basque": "aho zabalka",
+        "spanish": "(egon, ari izan, hasi eta antzeko aditzekin) bostezando"
+    },
+    {
+        "id": 29850,
+        "basque": "aho-burdina",
+        "spanish": "bocado, embocadura [del caballo]"
+    },
+    {
+        "id": 29851,
+        "basque": "aho-ganga",
+        "spanish": "(Anat.) bóveda palatina"
+    },
+    {
+        "id": 29852,
+        "basque": "aholkularitza",
+        "spanish": "iz. asesoría, asesoramiento"
+    },
+    {
+        "id": 29853,
+        "basque": "aho-pieza",
+        "spanish": "(Mus.) boquilla"
+    },
+    {
+        "id": 29854,
+        "basque": "ahotara",
+        "spanish": "1 iz. (Ipar.) bocado // 2 iz. (Ipar.) (hed.) sorbo, trago"
+    },
+    {
+        "id": 29855,
+        "basque": "ahotaraka",
+        "spanish": "adb. a bocados; a tragos"
+    },
+    {
+        "id": 29856,
+        "basque": "ahotik belarrira",
+        "spanish": "1 al oído // 2 de boca en boca"
+    },
+    {
+        "id": 29857,
+        "basque": "ahotik hortzera",
+        "spanish": "de repente, súbitamente, al instante"
+    },
+    {
+        "id": 29858,
+        "basque": "ahotik sudurrera",
+        "spanish": "en el acto; de manos a boca"
+    },
+    {
+        "id": 29859,
+        "basque": "ahots-korda",
+        "spanish": "(Anat.) (batez ere pl.) cuerda(s) vocal(es)"
+    },
+    {
+        "id": 29860,
+        "basque": "ahots-musika",
+        "spanish": "(Mus.) música vocal"
+    },
+    {
+        "id": 29861,
+        "basque": "ahoz behera",
+        "spanish": "boca abajo, bocabajo"
+    },
+    {
+        "id": 29862,
+        "basque": "ahoz beherako etzanera",
+        "spanish": "decúbito prono"
+    },
+    {
+        "id": 29863,
+        "basque": "ahoz gora",
+        "spanish": "boca arriba"
+    },
+    {
+        "id": 29864,
+        "basque": "ahoz gorako etzanera",
+        "spanish": "decúbito supino"
+    },
+    {
+        "id": 29865,
+        "basque": "ahozabalka",
+        "spanish": "adb. (egon, ari izan, hasi eta antzeko aditzekin) bostezando"
+    },
+    {
+        "id": 29866,
+        "basque": "ahuleria",
+        "spanish": "iz. debilidad, flaqueza, flojera, desfallecimiento [generalmente por no comer]"
+    },
+    {
+        "id": 29867,
+        "basque": "ahuntzaintza",
+        "spanish": "iz. oficio de cabrero"
+    },
+    {
+        "id": 29868,
+        "basque": "ahuntzak adarrak dituen aldera",
+        "spanish": "(lgart.) al revés, en sentido contrario"
+    },
+    {
+        "id": 29869,
+        "basque": "ahuntzama",
+        "spanish": "iz. cabra madre"
+    },
+    {
+        "id": 29870,
+        "basque": "ahuntz-azienda",
+        "spanish": "ganado cabrío"
+    },
+    {
+        "id": 29871,
+        "basque": "ahuntz-erdara",
+        "spanish": "1 lenguaje ridículo que consiste en repetir una sílaba cambiando su consonante en p o intercalando esta consonante si la palabra solo tiene vocales // 2 (hed.) jerigonza, jerga, argot"
+    },
+    {
+        "id": 29872,
+        "basque": "ahuntz-gazta",
+        "spanish": "queso de cabra"
+    },
+    {
+        "id": 29873,
+        "basque": "ahuntz-praka",
+        "spanish": "(Bot.) alhelí, alelí"
+    },
+    {
+        "id": 29874,
+        "basque": "ahunzkara",
+        "spanish": "adb. (B) en celo [la cabra]"
+    },
+    {
+        "id": 29875,
+        "basque": "ahurka",
+        "spanish": "adb. a manos llenas, a puñados"
+    },
+    {
+        "id": 29876,
+        "basque": "ahurtara",
+        "spanish": "iz. (Ipar.) puñado"
+    },
+    {
+        "id": 29877,
+        "basque": "ahurtaraka",
+        "spanish": "adb. a puñados"
+    },
+    {
+        "id": 29878,
+        "basque": "ahuspeka",
+        "spanish": "adb. (Ipar.) boca abajo; de bruces; postrado, -a"
+    },
+    {
+        "id": 29879,
+        "basque": "ahuspezka",
+        "spanish": "adb. boca abajo; de bruces; postrado, -a"
+    },
+    {
+        "id": 29880,
+        "basque": "ahuspezko etzanera",
+        "spanish": "decúbito prono"
+    },
+    {
+        "id": 29881,
+        "basque": "ahutzeta",
+        "spanish": "iz. bocado"
+    },
+    {
+        "id": 29882,
+        "basque": "Aia",
+        "spanish": "Aia"
+    },
+    {
+        "id": 29883,
+        "basque": "Aiara",
+        "spanish": "Ayala"
+    },
+    {
+        "id": 29884,
+        "basque": "aiari(a)",
+        "spanish": "iz. lamento, quejido"
+    },
+    {
+        "id": 29885,
+        "basque": "aiatola",
+        "spanish": "iz. ayatolá, ayatollah"
+    },
+    {
+        "id": 29886,
+        "basque": "aiba",
+        "spanish": "interj. (Heg.) (lgart.) ¡caramba!, ¡anda!, ¡pardiez!, ¡atiza!"
+    },
+    {
+        "id": 29887,
+        "basque": "aida",
+        "spanish": "interj. voz con que se incita a andar al ganado vacuno // iz. (B) instante, momento (breve)"
+    },
+    {
+        "id": 29888,
+        "basque": "aidaka",
+        "spanish": "adb. gritando/animando al ganado"
+    },
+    {
+        "id": 29889,
+        "basque": "aieika",
+        "spanish": "adb. quejándose"
+    },
+    {
+        "id": 29890,
+        "basque": "aieka",
+        "spanish": "iz. lado, costado"
+    },
+    {
+        "id": 29891,
+        "basque": "aieneka",
+        "spanish": "1 adb. quejándose, lamentándose // 2 iz. queja, lamento"
+    },
+    {
+        "id": 29892,
+        "basque": "aienka",
+        "spanish": "iz. (Itsas.) garrucho, raca"
+    },
+    {
+        "id": 29893,
+        "basque": "aieruka",
+        "spanish": "adb. al tuntún, sin ninguna base; a ojo, a voleo"
+    },
+    {
+        "id": 29894,
+        "basque": "aieska",
+        "spanish": "iz. quejido, lamento"
+    },
+    {
+        "id": 29895,
+        "basque": "aieta",
+        "spanish": "iz. (B) rizoma"
+    },
+    {
+        "id": 29896,
+        "basque": "aiezka",
+        "spanish": "adb. lamentándose, quejándose, gimiendo"
+    },
+    {
+        "id": 29897,
+        "basque": "aiherga",
+        "spanish": "izond. indiferente, apático, -a"
+    },
+    {
+        "id": 29898,
+        "basque": "aika",
+        "spanish": "adb. lamentándose, quejándose, gimiendo"
+    },
+    {
+        "id": 29899,
+        "basque": "aila",
+        "spanish": "1 iz. (B) cola de animal // 2 iz. (B) pedúnculo de fruta"
+    },
+    {
+        "id": 29900,
+        "basque": "ailara",
+        "spanish": "1 iz. tira de rama fina de árbol utilizada en cestería // 2 iz. [metalezkoa] fleje"
+    },
+    {
+        "id": 29901,
+        "basque": "aimara",
+        "spanish": "1 iz./izond. [herria] aimara, aymara // 2 iz. [hizkuntza] aimara, aymara"
+    },
+    {
+        "id": 29902,
+        "basque": "aimenta",
+        "spanish": "iz. imán, piedra imán"
+    },
+    {
+        "id": 29903,
+        "basque": "aina",
+        "spanish": "Ik. adina"
+    },
+    {
+        "id": 29904,
+        "basque": "ainada",
+        "spanish": "iz. golondrina ➥ enara"
+    },
+    {
+        "id": 29905,
+        "basque": "ainara",
+        "spanish": "iz. golondrina; avión"
+    },
+    {
+        "id": 29906,
+        "basque": "ainarba",
+        "spanish": "iz. (Z) araña"
+    },
+    {
+        "id": 29907,
+        "basque": "aingeru-torrada",
+        "spanish": "tocino de cielo"
+    },
+    {
+        "id": 29908,
+        "basque": "aingira",
+        "spanish": "iz. (Zool.) anguila (Anguilla anguilla)"
+    },
+    {
+        "id": 29909,
+        "basque": "aingiratxa",
+        "spanish": "iz. angula ➥ angula"
+    },
+    {
+        "id": 29910,
+        "basque": "aintza",
+        "spanish": "1 iz. (Erl.) gloria // 2 iz. gloria, grandeza, magnificencia"
+    },
+    {
+        "id": 29911,
+        "basque": "aintzaka",
+        "spanish": "adb. glorificando"
+    },
+    {
+        "id": 29912,
+        "basque": "aintzira",
+        "spanish": "iz. lago, laguna; pantano, ciénaga; estero"
+    },
+    {
+        "id": 29913,
+        "basque": "airean gora",
+        "spanish": "hacia arriba; por el aire, por los aires"
+    },
+    {
+        "id": 29914,
+        "basque": "aireko armada",
+        "spanish": "(Mil.) ejército del aire"
+    },
+    {
+        "id": 29915,
+        "basque": "aireko bidaia",
+        "spanish": "viaje aéreo; viaje en avión"
+    },
+    {
+        "id": 29916,
+        "basque": "aireko linea",
+        "spanish": "(Elektr.) línea aérea"
+    },
+    {
+        "id": 29917,
+        "basque": "aire-konpainia; hegazkin-konpainia",
+        "spanish": "compañía aérea"
+    },
+    {
+        "id": 29918,
+        "basque": "airelinea",
+        "spanish": "1 iz. línea/ruta aérea // 2 iz. (pl.) líneas aéreas, aerolínea(s), compañía aérea"
+    },
+    {
+        "id": 29919,
+        "basque": "aire-masa",
+        "spanish": "(Meteorol.) masa de aire"
+    },
+    {
+        "id": 29920,
+        "basque": "aire-poltsa",
+        "spanish": "1 bolsa de aire, airbag // 2 (Meteorol.) bolsa de aire"
+    },
+    {
+        "id": 29921,
+        "basque": "aireko posta; aire-posta",
+        "spanish": "correo aéreo"
+    },
+    {
+        "id": 29922,
+        "basque": "aire-serpentina",
+        "spanish": "matasuegras"
+    },
+    {
+        "id": 29923,
+        "basque": "airezko buelta",
+        "spanish": "vuelta de campana"
+    },
+    {
+        "id": 29924,
+        "basque": "aisia",
+        "spanish": "1 iz. comodidad; ociosidad, placer // 2 iz. ocio"
+    },
+    {
+        "id": 29925,
+        "basque": "aisiara",
+        "spanish": "(osagarriak -en kasu-atzizkia duela) a gusto (de), a su (mi, tu...) gusto, a satisfacción de"
+    },
+    {
+        "id": 29926,
+        "basque": "aita",
+        "spanish": "1 iz. padre // 2 iz. [hainbat apaiz eta erlijiosori ematen zaien trataera] padre // 3 iz. (hed.) [obra baten sortzailea, egilea] padre, creador, inventor // 4 iz. (Erl.) [Hirutasun Santuko lehen pertsona] (maiusk.) Padre"
+    },
+    {
+        "id": 29927,
+        "basque": "aita-alaba",
+        "spanish": "(pl.) padre e hija"
+    },
+    {
+        "id": 29928,
+        "basque": "aita-ama",
+        "spanish": "iz. (pl.) padres [padre y madre]"
+    },
+    {
+        "id": 29929,
+        "basque": "aita-amaginarreba",
+        "spanish": "iz. (pl.) suegros [suegro y suegra]"
+    },
+    {
+        "id": 29930,
+        "basque": "aitabisaba",
+        "spanish": "iz. bisabuelo"
+    },
+    {
+        "id": 29931,
+        "basque": "aitaginarreba",
+        "spanish": "iz. suegro, padre político"
+    },
+    {
+        "id": 29932,
+        "basque": "aitaita",
+        "spanish": "iz. (B) abuelo"
+    },
+    {
+        "id": 29933,
+        "basque": "aitaita-amama",
+        "spanish": "iz. (pl.) abuelos [abuelo y abuela]; abuelos y abuelas"
+    },
+    {
+        "id": 29934,
+        "basque": "aitarenka",
+        "spanish": "adb. haciéndose cruces"
+    },
+    {
+        "id": 29935,
+        "basque": "aitasaindutza",
+        "spanish": "iz. papado, pontificado"
+    },
+    {
+        "id": 29936,
+        "basque": "aitatasun-baja",
+        "spanish": "baja por paternidad, baja paternal"
+    },
+    {
+        "id": 29937,
+        "basque": "aitita",
+        "spanish": "iz. (B) abuelo"
+    },
+    {
+        "id": 29938,
+        "basque": "aitita-amama",
+        "spanish": "iz. (B) (pl.) abuelos [abuelo y abuela]"
+    },
+    {
+        "id": 29939,
+        "basque": "aitona",
+        "spanish": "1 iz. abuelo // 2 iz. anciano // 3 iz. (pl.) antepasado"
+    },
+    {
+        "id": 29940,
+        "basque": "aitona-amona",
+        "spanish": "iz. (pl.) abuelos [abuelo y abuela]"
+    },
+    {
+        "id": 29941,
+        "basque": "aitzakia",
+        "spanish": "1 iz. excusa, pretexto, pega // 2 iz. mal, defecto, tacha"
+    },
+    {
+        "id": 29942,
+        "basque": "aitzindaritza",
+        "spanish": "1 iz. jefatura, mando // 2 iz. liderato, liderazgo"
+    },
+    {
+        "id": 29943,
+        "basque": "aitzinera",
+        "spanish": "adb. adelante; en adelante; hacia adelante"
+    },
+    {
+        "id": 29944,
+        "basque": "aitzinetapa",
+        "spanish": "(Kir.) etapa prólogo"
+    },
+    {
+        "id": 29945,
+        "basque": "aitzurka",
+        "spanish": "1 adb. cavando, excavando [con la azada] // 2 adb. dando golpes con la azada"
+    },
+    {
+        "id": 29946,
+        "basque": "aitzurkula",
+        "spanish": "iz. azada de dos o más púas, bidente"
+    },
+    {
+        "id": 29947,
+        "basque": "aitzurlaritza",
+        "spanish": "iz. oficio de agricultor"
+    },
+    {
+        "id": 29948,
+        "basque": "aiuika",
+        "spanish": "adb. gritando, chillando"
+    },
+    {
+        "id": 29949,
+        "basque": "aiuma",
+        "spanish": "iz. gemido, quejido, lamento"
+    },
+    {
+        "id": 29950,
+        "basque": "aiuta",
+        "spanish": "1 iz. (Ipar.) ayuda // 2 iz. (Med.) (Ipar.) lavativa, ayuda, enema, clister"
+    },
+    {
+        "id": 29951,
+        "basque": "aizina",
+        "spanish": "1 iz. (Ipar.) tiempo libre, tiempo disponible // 2 iz. (Ipar.) oportunidad, ocasión favorable"
+    },
+    {
+        "id": 29952,
+        "basque": "aizkora",
+        "spanish": "1 iz. hacha // 2 iz. (Kir.) corte de troncos"
+    },
+    {
+        "id": 29953,
+        "basque": "aizta",
+        "spanish": "iz. (B) hermana"
+    },
+    {
+        "id": 29954,
+        "basque": "aiztaga",
+        "spanish": "iz. lanza"
+    },
+    {
+        "id": 29955,
+        "basque": "akabaila",
+        "spanish": "iz. fin, terminación"
+    },
+    {
+        "id": 29956,
+        "basque": "akabantza",
+        "spanish": "iz. (Ipar.) fin, terminación, remate"
+    },
+    {
+        "id": 29957,
+        "basque": "akademia",
+        "spanish": "iz. academia [sociedad científica, literaria, artística]"
+    },
+    {
+        "id": 29958,
+        "basque": "akademizista",
+        "spanish": "izond. academicista"
+    },
+    {
+        "id": 29959,
+        "basque": "akadera",
+        "spanish": "iz. acadio, lengua acadia"
+    },
+    {
+        "id": 29960,
+        "basque": "akanpada",
+        "spanish": "Ik. kanpaldi"
+    },
+    {
+        "id": 29961,
+        "basque": "akara",
+        "spanish": "iz. (Bot.) nardo (Polianthes tuberosa)"
+    },
+    {
+        "id": 29962,
+        "basque": "akarizida",
+        "spanish": "iz. acaricida"
+    },
+    {
+        "id": 29963,
+        "basque": "akazia",
+        "spanish": "iz. (Bot.) acacia (Acacia sp.)"
+    },
+    {
+        "id": 29964,
+        "basque": "akeita",
+        "spanish": "iz. café"
+    },
+    {
+        "id": 29965,
+        "basque": "akiakula",
+        "spanish": "iz. (batez ere B) pretexto, excusa"
+    },
+    {
+        "id": 29966,
+        "basque": "Akitania",
+        "spanish": "Aquitania"
+    },
+    {
+        "id": 29967,
+        "basque": "Akitania",
+        "spanish": "Aquitania"
+    },
+    {
+        "id": 29968,
+        "basque": "akitaniera",
+        "spanish": "iz. aquitano [lengua]"
+    },
+    {
+        "id": 29969,
+        "basque": "akitika",
+        "spanish": "dando saltos, saltando"
+    },
+    {
+        "id": 29970,
+        "basque": "Akkra",
+        "spanish": "Acra"
+    },
+    {
+        "id": 29971,
+        "basque": "akrata",
+        "spanish": "iz./izond. ácrata"
+    },
+    {
+        "id": 29972,
+        "basque": "akrazia",
+        "spanish": "iz. acracia"
+    },
+    {
+        "id": 29973,
+        "basque": "akrobata",
+        "spanish": "iz. acróbata"
+    },
+    {
+        "id": 29974,
+        "basque": "akrobazia",
+        "spanish": "iz. acrobacia"
+    },
+    {
+        "id": 29975,
+        "basque": "akrofobia",
+        "spanish": "iz. (Psikol.) acrofobia"
+    },
+    {
+        "id": 29976,
+        "basque": "akromegalia",
+        "spanish": "iz. (Med.) acromegalia"
+    },
+    {
+        "id": 29977,
+        "basque": "akromia",
+        "spanish": "iz. (Med.) acromia"
+    },
+    {
+        "id": 29978,
+        "basque": "Akropolia",
+        "spanish": "Acrópolis [de Atenas]"
+    },
+    {
+        "id": 29979,
+        "basque": "akrotera",
+        "spanish": "iz. (Arkit.) acrotera"
+    },
+    {
+        "id": 29980,
+        "basque": "akrozefalia",
+        "spanish": "iz. (Med.) acrocefalia"
+    },
+    {
+        "id": 29981,
+        "basque": "akta",
+        "spanish": "iz. acta"
+    },
+    {
+        "id": 29982,
+        "basque": "aktibista",
+        "spanish": "iz. activista"
+    },
+    {
+        "id": 29983,
+        "basque": "aktinia",
+        "spanish": "iz. (Zool.) actinia (Actinia sp.)"
+    },
+    {
+        "id": 29984,
+        "basque": "akuamarina",
+        "spanish": "iz. aguamarina"
+    },
+    {
+        "id": 29985,
+        "basque": "akuarela",
+        "spanish": "iz. (Art.) acuarela"
+    },
+    {
+        "id": 29986,
+        "basque": "akuarelista",
+        "spanish": "iz. (Pint.) acuarelista"
+    },
+    {
+        "id": 29987,
+        "basque": "akuilada",
+        "spanish": "iz. aguijonazo, punzada"
+    },
+    {
+        "id": 29988,
+        "basque": "akuiluka",
+        "spanish": "adb. a aguijonazos"
+    },
+    {
+        "id": 29989,
+        "basque": "akula",
+        "spanish": "iz. (Zool.) aguja, pez aguja (Belone belone)"
+    },
+    {
+        "id": 29990,
+        "basque": "akura",
+        "spanish": "1 iz. [agotena] contribución, tributo // 2 iz. arriendo; alquiler"
+    },
+    {
+        "id": 29991,
+        "basque": "akusazio-akta",
+        "spanish": "(Zuz.) acta de acusación"
+    },
+    {
+        "id": 29992,
+        "basque": "akustika",
+        "spanish": "iz. (Fis.) acústica"
+    },
+    {
+        "id": 29993,
+        "basque": "akzionista",
+        "spanish": "Ik. akziodun"
+    },
+    {
+        "id": 29994,
+        "basque": "akzio-sorta; akzio-pakete",
+        "spanish": "(Ekon.) paquete de acciones"
+    },
+    {
+        "id": 29995,
+        "basque": "akzio-film/pelikula; akziozko film/pelikula",
+        "spanish": "(Zin.) película de acción"
+    },
+    {
+        "id": 29996,
+        "basque": "akzio-zinema; akziozko zinema",
+        "spanish": "(Zin.) cine de acción"
+    },
+    {
+        "id": 29997,
+        "basque": "Ala",
+        "spanish": "m. (Erl.) Alá"
+    },
+    {
+        "id": 29998,
+        "basque": "ala",
+        "spanish": "1 junt. (galde-perpaus zuzen eta zeharkakoetan) o // 2 junt. (galde-perpausen amaieran) es que; acaso // 3 interj. (perpausaren hasieran) partícula exclamativa // interj. partícula de carácter imperativo o coactivo antepuesta a adverbios y sustantivos // Ik. alha // iz. dolor, sufrimiento // iz. barca plana y ancha semejante a la gabarra"
+    },
+    {
+        "id": 29999,
+        "basque": "ala... ala...",
+        "spanish": "tanto... como..."
+    },
+    {
+        "id": 30000,
+        "basque": "alaba",
+        "spanish": "1 iz. hija // 2 iz. (Erl.) (pl.) hijas"
+    },
+    {
+        "id": 30001,
+        "basque": "alabantza",
+        "spanish": "iz. (Erl.) (Heg.) (zah.) alabanza [ensalzamiento de las virtudes]"
+    },
+    {
+        "id": 30002,
+        "basque": "alabarda",
+        "spanish": "iz. (Arm.) alabarda"
+    },
+    {
+        "id": 30003,
+        "basque": "aladonea",
+        "spanish": "interj. fórmula de juramento"
+    },
+    {
+        "id": 30004,
+        "basque": "alaena",
+        "spanish": "Ik. alaen"
+    },
+    {
+        "id": 30005,
+        "basque": "alagala",
+        "spanish": "adb. (B) a propósito, oportunamente"
+    },
+    {
+        "id": 30006,
+        "basque": "alaja",
+        "spanish": "1 iz. (herr.) joya; adorno // 2 iz. (herr.) (hed.) alhaja, prenda"
+    },
+    {
+        "id": 30007,
+        "basque": "alajainkoa",
+        "spanish": "1 interj. ¡por Dios! // 2 interj. [zin egiteko formula gisa] ¡como hay Dios!"
+    },
+    {
+        "id": 30008,
+        "basque": "alaka",
+        "spanish": "iz. (Teknol.) bisel, chaflán // 1 adb. lamentando(se) // 2 iz. quejido, lamento"
+    },
+    {
+        "id": 30009,
+        "basque": "alalia",
+        "spanish": "iz. (Med.) alalia"
+    },
+    {
+        "id": 30010,
+        "basque": "alara",
+        "spanish": "iz. cacareo"
+    },
+    {
+        "id": 30011,
+        "basque": "alarda",
+        "spanish": "iz. (Bot.) graciola (Gratiola officinalis)"
+    },
+    {
+        "id": 30012,
+        "basque": "alarguntsa",
+        "spanish": "iz. viuda"
+    },
+    {
+        "id": 30013,
+        "basque": "alarguntza",
+        "spanish": "iz. viudez, viudedad"
+    },
+    {
+        "id": 30014,
+        "basque": "alarma",
+        "spanish": "iz. alarma"
+    },
+    {
+        "id": 30015,
+        "basque": "alarma-egoera",
+        "spanish": "estado de alarma"
+    },
+    {
+        "id": 30016,
+        "basque": "alarmista",
+        "spanish": "izond. alarmista"
+    },
+    {
+        "id": 30017,
+        "basque": "alasa",
+        "spanish": "Ik. arasa"
+    },
+    {
+        "id": 30018,
+        "basque": "Alaska",
+        "spanish": "Alaska"
+    },
+    {
+        "id": 30019,
+        "basque": "alauda",
+        "spanish": "iz. alondra ➥ hegatxabal"
+    },
+    {
+        "id": 30020,
+        "basque": "alba",
+        "spanish": "iz. jadeo // iz. alba, amanecer // iz. (Erl.) alba [de sacerdote]"
+    },
+    {
+        "id": 30021,
+        "basque": "albagela",
+        "spanish": "iz. (B) cada una de las habitaciones a ambos lados de la puerta principal de la casa rural"
+    },
+    {
+        "id": 30022,
+        "basque": "albaitaritza",
+        "spanish": "iz. veterinaria"
+    },
+    {
+        "id": 30023,
+        "basque": "albaka",
+        "spanish": "1 iz. (Bot.) albahaca (Ocimun basilicum) // 2 iz. Ik. 1 alboka"
+    },
+    {
+        "id": 30024,
+        "basque": "Albania",
+        "spanish": "Albania"
+    },
+    {
+        "id": 30025,
+        "basque": "albaniera",
+        "spanish": "iz. albanés [lengua]"
+    },
+    {
+        "id": 30026,
+        "basque": "albata",
+        "spanish": "iz. (Albait.) enfermedad pulmonar que afecta a las ovejas"
+    },
+    {
+        "id": 30027,
+        "basque": "albazea",
+        "spanish": "iz. (Zuz.) (Heg.) albacea"
+    },
+    {
+        "id": 30028,
+        "basque": "alberdania",
+        "spanish": "1 iz. (G) bufonada, truhanería // 2 iz. (G) acción obscena/indecente; obscenidad, indecencia; juego erótico // 3 iz. (G) holgazanería, vagancia"
+    },
+    {
+        "id": 30029,
+        "basque": "alberjinia",
+        "spanish": "1 iz. (Bot.) berenjena (Solanum melongena) // 2 iz. [fruitua] berenjena"
+    },
+    {
+        "id": 30030,
+        "basque": "albistaritza",
+        "spanish": "iz. periodismo"
+    },
+    {
+        "id": 30031,
+        "basque": "albiste-agentzia; berri-agentzia",
+        "spanish": "agencia de noticias/prensa/información"
+    },
+    {
+        "id": 30032,
+        "basque": "albita",
+        "spanish": "iz. (Miner.) albita"
+    },
+    {
+        "id": 30033,
+        "basque": "alboka",
+        "spanish": "1 adb. de costado // 2 adb. tambaleándose, zigzagueando // iz. (Mus.) albogue; [Euskal Herriko musika-instrumentua] alboka"
+    },
+    {
+        "id": 30034,
+        "basque": "albokera",
+        "spanish": "iz. (B) atún blanco, albacora ➥ hegaluze // adb. (B) de lado, de costado, de canto"
+    },
+    {
+        "id": 30035,
+        "basque": "alboko etzanera",
+        "spanish": "decúbito lateral"
+    },
+    {
+        "id": 30036,
+        "basque": "alboko marra",
+        "spanish": "(Kir.) línea lateral, línea de banda"
+    },
+    {
+        "id": 30037,
+        "basque": "alborada",
+        "spanish": "1 iz. (Mus.) alborada // 2 iz. (Mil.) alborada"
+    },
+    {
+        "id": 30038,
+        "basque": "albotiko bista",
+        "spanish": "(Mar.) vista lateral"
+    },
+    {
+        "id": 30039,
+        "basque": "albufera",
+        "spanish": "iz. (Geogr.) albufera"
+    },
+    {
+        "id": 30040,
+        "basque": "albuginea",
+        "spanish": "iz. (Anat.) albugínea"
+    },
+    {
+        "id": 30041,
+        "basque": "albumina",
+        "spanish": "iz. (Biokim.) albúmina"
+    },
+    {
+        "id": 30042,
+        "basque": "alda",
+        "spanish": "iz. mudanza [de casa, de domicilio]; cambio"
+    },
+    {
+        "id": 30043,
+        "basque": "aldaba",
+        "spanish": "iz. (Heg.) aldaba, aldabón"
+    },
+    {
+        "id": 30044,
+        "basque": "aldabada",
+        "spanish": "iz. aldabada, aldabonazo, aldabazo"
+    },
+    {
+        "id": 30045,
+        "basque": "aldabarra",
+        "spanish": "iz. (pl.) puntales que sostienen el mazo de ferrería"
+    },
+    {
+        "id": 30046,
+        "basque": "aldadenbora",
+        "spanish": "iz. (batez ere pl.) comienzo de cada una de las cuatro estaciones del año"
+    },
+    {
+        "id": 30047,
+        "basque": "aldaera",
+        "spanish": "1 iz. variante // 2 iz. cambio; mudanza // 3 iz. (Hizkl.) [hizkuntza-forma batena] variante // 4 iz. (Hizkl.) [hizkuntza baten forma edo azpisistema] variedad, variante"
+    },
+    {
+        "id": 30048,
+        "basque": "aldagela",
+        "spanish": "1 iz. (batez ere pl.) vestuario(s) // 2 iz. [antzokian] camerino // 3 iz. (B) cada una de las habitaciones a ambos lados de la puerta principal de la casa rural"
+    },
+    {
+        "id": 30049,
+        "basque": "aldaika",
+        "spanish": "iz. (B) las cuatro esquinas [juego infantil]"
+    },
+    {
+        "id": 30050,
+        "basque": "aldaira",
+        "spanish": "1 iz. (Ipar.) cambio, variación // 2 iz. (Ipar.) mudanza [de casa]"
+    },
+    {
+        "id": 30051,
+        "basque": "aldaka",
+        "spanish": "1 iz. (Anat.) cadera // 2 iz. lado; flanco // 3 iz. (pl.) posaderas, asentaderas, nalgas // 4 iz. (Bot.) sierpe, brote, vástago // 5 iz. Ik. aldaxka"
+    },
+    {
+        "id": 30052,
+        "basque": "ba-",
+        "spanish": "1 mend. (aditz trinkoari edo laguntzaileari aurretik loturik, edo alegiazko baldintza-adizkien osagai gisa; baldin har dezake indargarri) [baldintza-aurrizkia] si // 2 mend. (nahi izan, on izan, hobe izan bezalako aditz nagusiak dituzten perpausetan, objektu-perpaus menderatuak sortzeko partikula) con los verbos de voluntad, expresiones desiderativas, etc."
+    },
+    {
+        "id": 30053,
+        "basque": "ba(-)",
+        "spanish": "partik. (al, omen eta ote partikulak soilik tartekatu daitezke) prefijo que situado inmediatamente delante del verbo sintético refuerza el carácter afirmativo del mismo"
+    },
+    {
+        "id": 30054,
+        "basque": "ba",
+        "spanish": "partik. (al, omen eta ote partikulak soilik tartekatu daitezke) prefijo que situado inmediatamente delante del verbo sintético refuerza el carácter afirmativo del mismo"
+    },
+    {
+        "id": 30055,
+        "basque": "baba",
+        "spanish": "1 iz. (Bot.) haba (Vicia faba) // 2 iz. [hazia] haba // 3 iz. [azalekoa] ampolla, callo // 4 iz. [gorotza] boñiga // 5 iz. alubia, judía ➥ babarrun"
+    },
+    {
+        "id": 30056,
+        "basque": "babaka",
+        "spanish": "iz. (Ipar.) boñiga"
+    },
+    {
+        "id": 30057,
+        "basque": "babazuza",
+        "spanish": "iz. (Ipar.) granizo"
+    },
+    {
+        "id": 30058,
+        "basque": "babesgabezia",
+        "spanish": "iz. (Zuz.) desamparo, desprotección"
+    },
+    {
+        "id": 30059,
+        "basque": "babeskopia",
+        "spanish": "iz. (Inform.) copia de seguridad, salvaguarda, salvaguardia"
+    },
+    {
+        "id": 30060,
+        "basque": "babesletza",
+        "spanish": "1 iz. apadrinamiento, esponsorización, patrocinio // 2 iz. protectorado"
+    },
+    {
+        "id": 30061,
+        "basque": "babes-listoi; babes-soka",
+        "spanish": "quitamiedos"
+    },
+    {
+        "id": 30062,
+        "basque": "Babieca",
+        "spanish": "Babieca"
+    },
+    {
+        "id": 30063,
+        "basque": "Babilonia",
+        "spanish": "Babilonia"
+    },
+    {
+        "id": 30064,
+        "basque": "babiloniera",
+        "spanish": "iz. babilónico [lengua]"
+    },
+    {
+        "id": 30065,
+        "basque": "babintonita",
+        "spanish": "iz. (Miner.) babintonita"
+    },
+    {
+        "id": 30066,
+        "basque": "babutxa",
+        "spanish": "iz. babucha"
+    },
+    {
+        "id": 30067,
+        "basque": "bachata",
+        "spanish": "iz. bachata [baile y música]"
+    },
+    {
+        "id": 30068,
+        "basque": "badia",
+        "spanish": "iz. (Geogr.) bahía"
+    },
+    {
+        "id": 30069,
+        "basque": "baduk/badun mira!; baduzu mira!",
+        "spanish": "(Ipar.) ¡qué extraño!, ¡es asombroso!, ¡sería asombroso!"
+    },
+    {
+        "id": 30070,
+        "basque": "bafa",
+        "spanish": "iz. mal aliento; resoplido"
+    },
+    {
+        "id": 30071,
+        "basque": "bafada",
+        "spanish": "1 iz. (Ipar.) bocanada de aire caliente; bocanada // 2 iz. (Ipar.) aliento // 3 iz. (Ipar.) [erretzean] bocanada, fumada"
+    },
+    {
+        "id": 30072,
+        "basque": "bafadaka",
+        "spanish": "adb. a bocanadas"
+    },
+    {
+        "id": 30073,
+        "basque": "baga",
+        "spanish": "1 iz. ola, onda de mar // 2 iz. (hed.) envite, oleada, impulso // iz. soga, maroma, amarra // Ik. gabe"
+    },
+    {
+        "id": 30074,
+        "basque": "bagina",
+        "spanish": "iz. (Anat.) vagina"
+    },
+    {
+        "id": 30075,
+        "basque": "baginoplastia",
+        "spanish": "iz. (Med.) vaginoplastia"
+    },
+    {
+        "id": 30076,
+        "basque": "bagoneta",
+        "spanish": "iz. vagoneta"
+    },
+    {
+        "id": 30077,
+        "basque": "bahola",
+        "spanish": "iz. (Ipar.) criba, cedazo"
+    },
+    {
+        "id": 30078,
+        "basque": "bai ba(da)!",
+        "spanish": "¡pues claro!, ¡claro que sí!; ¡que sí!"
+    },
+    {
+        "id": 30079,
+        "basque": "bai... eta bai... (ere); bai... baita... (ere)",
+        "spanish": "tanto... como..."
+    },
+    {
+        "id": 30080,
+        "basque": "bai, bibolina!",
+        "spanish": "1 adb. sí // 2 adb. (aditz laguntzailea -(e)la atzizkiaz) sí, qué, cuán // 3 adb. [apustua botatzeko hitza] a que sí, apuesto a que // 4 iz. [baiezkoa] sí"
+    },
+    {
+        "id": 30081,
+        "basque": "baia?",
+        "spanish": "(Ipar.) (baiezkotasuna egiaztatzeko galderazko partikula) ¿sí?"
+    },
+    {
+        "id": 30082,
+        "basque": "baia",
+        "spanish": "(Ipar.) (baiezkotasuna egiaztatzeko galderazko partikula) ¿sí?"
+    },
+    {
+        "id": 30083,
+        "basque": "baieta",
+        "spanish": "iz. bayeta"
+    },
+    {
+        "id": 30084,
+        "basque": "baiezka",
+        "spanish": "adb. diciendo que sí, afirmando"
+    },
+    {
+        "id": 30085,
+        "basque": "baila",
+        "spanish": "iz. (Z) patio; corral"
+    },
+    {
+        "id": 30086,
+        "basque": "bailandra",
+        "spanish": "iz. (Itsas.) balandro"
+    },
+    {
+        "id": 30087,
+        "basque": "bainagia",
+        "spanish": "iz. (Z) traje de baño, bañador"
+    },
+    {
+        "id": 30088,
+        "basque": "bainugela",
+        "spanish": "iz. baño, cuarto de baño, cuarto de aseo"
+    },
+    {
+        "id": 30089,
+        "basque": "Baiona",
+        "spanish": "Bayona"
+    },
+    {
+        "id": 30090,
+        "basque": "baioneta",
+        "spanish": "iz. (Arm.) bayoneta"
+    },
+    {
+        "id": 30091,
+        "basque": "baira",
+        "spanish": "iz. engaño, embuste; embeleso, fascinación, deslumbramiento"
+    },
+    {
+        "id": 30092,
+        "basque": "baita",
+        "spanish": "junt. (ere-rekin) y también, e incluso // 1 postp. (postposizioan -n, -tik, -ra, -ko leku-denborazko kasu-atzizkiak eta -en kasu-atzizkiari dagokion izen-sintagma har ditzake) partícula empleada para formar los casos locales de declinación de los seres animados // 2 postp. (etxe-izenetan jabearen izenari lotuta bakarrik edo bestela leku-denborazko kasu-atzizkiez) donde, en casa de, en el sitio de"
+    },
+    {
+        "id": 30093,
+        "basque": "baizik eta",
+        "spanish": "1 sino // 2 (Ipar.) (adierazpen-perpaus osagarrietan, -(e)la perpausaren aurreko marka) que // 3 (Ipar.) (perpaus osagarri batzuen hasieran) [esanez] diciendo"
+    },
+    {
+        "id": 30094,
+        "basque": "baja",
+        "spanish": "1 iz. (Heg.) baja (laboral) // 2 iz. (Heg.) baja, cese en un cuerpo o profesión"
+    },
+    {
+        "id": 30095,
+        "basque": "baka",
+        "spanish": "iz. (Taurom.) toril; chiquero"
+    },
+    {
+        "id": 30096,
+        "basque": "bakailao-denda",
+        "spanish": "bacaladería"
+    },
+    {
+        "id": 30097,
+        "basque": "bakalada",
+        "spanish": "iz. (Zool.) bacaladilla (Micromestius poutassou)"
+    },
+    {
+        "id": 30098,
+        "basque": "bakantza",
+        "spanish": "iz. (Ipar.) (pl.) vacación"
+    },
+    {
+        "id": 30099,
+        "basque": "bakara",
+        "spanish": "iz. bacará, bacarrá"
+    },
+    {
+        "id": 30100,
+        "basque": "bakar-bakarra",
+        "spanish": "(GN/Ipar.) completamente a solas; enteramente solo, completamente solo"
+    },
+    {
+        "id": 30101,
+        "basque": "bakelita",
+        "spanish": "iz. (Kim.) baquelita"
+    },
+    {
+        "id": 30102,
+        "basque": "bakoizka",
+        "spanish": "adb. uno a uno, de uno en uno, uno por uno, aisladamente"
+    },
+    {
+        "id": 30103,
+        "basque": "bakterio-flora",
+        "spanish": "flora bacteriana"
+    },
+    {
+        "id": 30104,
+        "basque": "bakterio-flora",
+        "spanish": "flora bacteriana"
+    },
+    {
+        "id": 30105,
+        "basque": "bakteriologia",
+        "spanish": "iz. (Biol.) bacteriología"
+    },
+    {
+        "id": 30106,
+        "basque": "bakterizida",
+        "spanish": "iz./izond. (Med.) bactericida"
+    },
+    {
+        "id": 30107,
+        "basque": "bala",
+        "spanish": "1 iz. (Nekaz.) haz // 2 iz. (Biol.) haz, fascículo // 3 iz. [estalduradun saskia] cesto, canasta // 4 iz. (E) ráfaga // iz. bala"
+    },
+    {
+        "id": 30108,
+        "basque": "balada",
+        "spanish": "iz. (Lit.) (Mus.) balada"
+    },
+    {
+        "id": 30109,
+        "basque": "balaka",
+        "spanish": "iz. balido [de oveja]"
+    },
+    {
+        "id": 30110,
+        "basque": "balakuka",
+        "spanish": "adb. halagando; acariciando"
+    },
+    {
+        "id": 30111,
+        "basque": "balalaika",
+        "spanish": "iz. (Mus.) balalaica, balalaika"
+    },
+    {
+        "id": 30112,
+        "basque": "balantza",
+        "spanish": "1 iz. balanza // 2 iz. tambaleo, bamboleo; oscilación, vaivén // 3 iz. (Ekon.) balanza // 4 iz. (Kir.) [jarrera horizontala] plancha // 5 iz. (Astrol.) (Astron.) (maiusk.) Libra // 6 iz. (Astrol.) (maiusk.) (del signo) Libra"
+    },
+    {
+        "id": 30113,
+        "basque": "balausta",
+        "spanish": "iz. (Bot.) balausta"
+    },
+    {
+        "id": 30114,
+        "basque": "balaustrada",
+        "spanish": "iz. (Arkit.) balaustrada"
+    },
+    {
+        "id": 30115,
+        "basque": "balazta",
+        "spanish": "iz. freno"
+    },
+    {
+        "id": 30116,
+        "basque": "Balbina",
+        "spanish": "Balbina"
+    },
+    {
+        "id": 30117,
+        "basque": "balboa",
+        "spanish": "iz. balboa [unidad monetaria]"
+    },
+    {
+        "id": 30118,
+        "basque": "balbula",
+        "spanish": "1 iz. (Heg.) válvula // 2 iz. (Mus.) (Heg.) válvula, pistón"
+    },
+    {
+        "id": 30119,
+        "basque": "balda",
+        "spanish": "iz. (B) estante, balda"
+    },
+    {
+        "id": 30120,
+        "basque": "baldarka",
+        "spanish": "adb. torpemente, con torpeza; zafiamente"
+    },
+    {
+        "id": 30121,
+        "basque": "baldin eta",
+        "spanish": "(mendeko perpausaren hasieran) partícula que sirve de refuerzo y anticipa el prefijo condicional ba-"
+    },
+    {
+        "id": 30122,
+        "basque": "baldinba",
+        "spanish": "1 interj. ojalá, espero que, quiera Dios que, ¡quiera Dios!, (que) Dios te oiga; ya // 2 interj. (ezezko testuinguruetan) interjección que denota la certeza de que lo enunciado no va a suceder"
+    },
+    {
+        "id": 30123,
+        "basque": "baldintza",
+        "spanish": "1 iz. condición; requisito // 2 iz. condición, estipulación // 3 iz. (Hizkl.) (modo) condicional // 4 iz. (Fis.) (Kim.) condiciones"
+    },
+    {
+        "id": 30124,
+        "basque": "baldosa",
+        "spanish": "iz. (Heg.) baldosa"
+    },
+    {
+        "id": 30125,
+        "basque": "baldraska",
+        "spanish": "izond. (B) mujer desarrapada/desastrada"
+    },
+    {
+        "id": 30126,
+        "basque": "balea",
+        "spanish": "iz. (Zool.) ballena; rorcual"
+    },
+    {
+        "id": 30127,
+        "basque": "balea-arrantza",
+        "spanish": "pesca de la ballena"
+    },
+    {
+        "id": 30128,
+        "basque": "balentzia",
+        "spanish": "iz. (Kim.) valencia"
+    },
+    {
+        "id": 30129,
+        "basque": "balezta",
+        "spanish": "1 iz. (Arm.) ballesta // 2 iz. (Teknol.) ballesta // 3 iz. [animaliei lepotik jartzen zaiena] horca, trangallo, tramojo; camal // 4 iz. (Z) trampa para topos"
+    },
+    {
+        "id": 30130,
+        "basque": "balio erantsiaren gaineko zerga",
+        "spanish": "impuesto sobre el valor añadido (IVA)"
+    },
+    {
+        "id": 30131,
+        "basque": "balio-bizitza",
+        "spanish": "(Fin.) vida útil, vida técnica"
+    },
+    {
+        "id": 30132,
+        "basque": "balio-galera",
+        "spanish": "(Ekon.) depreciación, desvalorización"
+    },
+    {
+        "id": 30133,
+        "basque": "baliokidetza",
+        "spanish": "iz. equivalencia"
+    },
+    {
+        "id": 30134,
+        "basque": "balistika",
+        "spanish": "iz. balística"
+    },
+    {
+        "id": 30135,
+        "basque": "baliza",
+        "spanish": "iz. baliza // iz. (Ipar.) maleta"
+    },
+    {
+        "id": 30136,
+        "basque": "Balmaseda",
+        "spanish": "Balmaseda"
+    },
+    {
+        "id": 30137,
+        "basque": "balneoterapia",
+        "spanish": "iz. (Med.) balneoterapia"
+    },
+    {
+        "id": 30138,
+        "basque": "balore-burtsa",
+        "spanish": "(Ekon.) bolsa de valores"
+    },
+    {
+        "id": 30139,
+        "basque": "balota",
+        "spanish": "iz. (Ipar.) (herr.) fardo, bulto"
+    },
+    {
+        "id": 30140,
+        "basque": "balotzara",
+        "spanish": "iz. (B) cesto provisto de cubierta o tapa"
+    },
+    {
+        "id": 30141,
+        "basque": "baltsa",
+        "spanish": "1 iz. (Ipar.) comunidad, grupo, multitud, reunión, asociación // 2 iz. [arrain-multzo handia] banco // 1 iz. (Ipar.) barro, lodo, cieno, fango // 2 iz. charco de agua o barro que se produce cuando se derrite la nieve // iz. balsa [embarcación]"
+    },
+    {
+        "id": 30142,
+        "basque": "(musika-)banda",
+        "spanish": "banda"
+    },
+    {
+        "id": 30143,
+        "basque": "bamba",
+        "spanish": "iz. bamba [baile]"
+    },
+    {
+        "id": 30144,
+        "basque": "banaka",
+        "spanish": "1 izond. escaso, -a; (pl.) pocos, -as; raro, -a; singular // 2 adb. de uno en uno, uno a uno, uno por uno, uno cada vez"
+    },
+    {
+        "id": 30145,
+        "basque": "banaka-banaka",
+        "spanish": "de uno en uno, uno a uno, uno por uno; poco a poco"
+    },
+    {
+        "id": 30146,
+        "basque": "banaketa-zerrenda",
+        "spanish": "(Inform.) lista de distribución"
+    },
+    {
+        "id": 30147,
+        "basque": "banako gela",
+        "spanish": "habitación individual"
+    },
+    {
+        "id": 30148,
+        "basque": "banaloria",
+        "spanish": "iz. vanagloria; vanidad"
+    },
+    {
+        "id": 30149,
+        "basque": "banana",
+        "spanish": "iz. plátano, banana, banano [fruto]"
+    },
+    {
+        "id": 30150,
+        "basque": "banana-errepublika",
+        "spanish": "república bananera"
+    },
+    {
+        "id": 30151,
+        "basque": "banasta",
+        "spanish": "iz. (Heg.) banasta, canasto, canasta, cesta"
+    },
+    {
+        "id": 30152,
+        "basque": "basatikeria",
+        "spanish": "Ik. basakeria"
+    },
+    {
+        "id": 30153,
+        "basque": "banazka",
+        "spanish": "adb. (Ipar.) de uno en uno, uno por uno"
+    },
+    {
+        "id": 30154,
+        "basque": "banba",
+        "spanish": "onom. (Ipar.) [kolpe edo bi gauzak elkar jotzearen onomatopeia] ¡pum!; ¡catapum!; ¡pumba!"
+    },
+    {
+        "id": 30155,
+        "basque": "banbara",
+        "spanish": "1 iz./ izond. bambara // 2 iz. [hizkuntza] bambara"
+    },
+    {
+        "id": 30156,
+        "basque": "banatz. + -(e)ko berdinketa",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 30157,
+        "basque": "banda",
+        "spanish": "banda"
+    },
+    {
+        "id": 30158,
+        "basque": "banda-zabalera",
+        "spanish": "(Telekom.) ancho de banda"
+    },
+    {
+        "id": 30159,
+        "basque": "bandera",
+        "spanish": "1 iz. bandera; estandarte // 2 iz. (hed.) bandera, emblema, insignia, distintivo, símbolo // 3 iz. (Kir.) [estropadetakoa] bandera // 4 iz. (Itsas.) pabellón"
+    },
+    {
+        "id": 30160,
+        "basque": "banderilla",
+        "spanish": "1 iz. (Taurom.) banderilla // 2 iz. (Heg.) pincho, tapa"
+    },
+    {
+        "id": 30161,
+        "basque": "banderiza",
+        "spanish": "iz. banderizo, -a"
+    },
+    {
+        "id": 30162,
+        "basque": "banderola",
+        "spanish": "iz. (Ipar.) pancarta"
+    },
+    {
+        "id": 30163,
+        "basque": "bando-gerra",
+        "spanish": "(Hist.) (batez ere pl.) guerra de bandos"
+    },
+    {
+        "id": 30164,
+        "basque": "bandolera",
+        "spanish": "iz. bandolera"
+    },
+    {
+        "id": 30165,
+        "basque": "bandurria",
+        "spanish": "iz. (Mus.) bandurria"
+    },
+    {
+        "id": 30166,
+        "basque": "banilla",
+        "spanish": "iz. vainilla [fruto]"
+    },
+    {
+        "id": 30167,
+        "basque": "banka",
+        "spanish": "iz. banca"
+    },
+    {
+        "id": 30168,
+        "basque": "bankezia",
+        "spanish": "iz. ostentación; lujo aparatoso"
+    },
+    {
+        "id": 30169,
+        "basque": "bankisa",
+        "spanish": "iz. (Geol.) banquisa"
+    },
+    {
+        "id": 30170,
+        "basque": "banku-transferentzia",
+        "spanish": "(Ekon.) transferencia bancaria"
+    },
+    {
+        "id": 30171,
+        "basque": "baptista",
+        "spanish": "iz./izond. (Erl.) baptista"
+    },
+    {
+        "id": 30172,
+        "basque": "bara",
+        "spanish": "1 iz. [luzera-neurria] vara // 2 iz. vara, bastón; insignia de mando o poder // 3 iz. barandilla // 4 iz. (BN/GN) tranca de la puerta, aldaba // 1 iz. (Ipar.) [etenaldia eta tokia] parada // 2 iz. [eragozpena] traba, obstáculo, estorbo, impedimento // 3 iz. [animaliei lepotik jartzen zaiena] horca, trangallo, tramojo"
+    },
+    {
+        "id": 30173,
+        "basque": "baraila",
+        "spanish": "1 iz. mandíbula, quijada // 2 iz. (E/Z) mejilla // 3 iz. (Teknol.) mordaza // 4 iz. (Zool.) [ornogabeekin] mandíbula // iz. (B) ruido, alboroto; trápala"
+    },
+    {
+        "id": 30174,
+        "basque": "baranda",
+        "spanish": "1 iz. barandilla // 2 iz. balcón; galería; corredor // 3 iz. (B) palo; bastón"
+    },
+    {
+        "id": 30175,
+        "basque": "baranga",
+        "spanish": "iz. (Itsas.) varenga"
+    },
+    {
+        "id": 30176,
+        "basque": "barantaila",
+        "spanish": "iz. (Z) febrero ➥ otsail"
+    },
+    {
+        "id": 30177,
+        "basque": "baratxuri-korda",
+        "spanish": "ristra de ajos"
+    },
+    {
+        "id": 30178,
+        "basque": "baratxuri-salda",
+        "spanish": "caldo de ajo; sopa(s) de ajo"
+    },
+    {
+        "id": 30179,
+        "basque": "baratxuri-zopa",
+        "spanish": "(pl. ere bai) sopa(s) de ajo"
+    },
+    {
+        "id": 30180,
+        "basque": "baratzezaintza",
+        "spanish": "iz. horticultura"
+    },
+    {
+        "id": 30181,
+        "basque": "barazka",
+        "spanish": "iz. (Itsas.) (B) cachón [ola de mar que rompe y hace espuma]"
+    },
+    {
+        "id": 30182,
+        "basque": "barazki-denda",
+        "spanish": "verdulería [establecimiento]"
+    },
+    {
+        "id": 30183,
+        "basque": "barazki-zopa",
+        "spanish": "sopa de verduras"
+    },
+    {
+        "id": 30184,
+        "basque": "barbakoa",
+        "spanish": "1 iz. barbacoa, parrilla // 2 iz. [janaria] barbacoa"
+    },
+    {
+        "id": 30185,
+        "basque": "Barbara",
+        "spanish": "Bárbara"
+    },
+    {
+        "id": 30186,
+        "basque": "barbaria",
+        "spanish": "iz. barbaridad, brutalidad, salvajada"
+    },
+    {
+        "id": 30187,
+        "basque": "barbarka",
+        "spanish": "adb. a borbotones; en ebullición"
+    },
+    {
+        "id": 30188,
+        "basque": "barberutza",
+        "spanish": "1 iz. oficio de barbero // 2 iz. oficio de cirujano"
+    },
+    {
+        "id": 30189,
+        "basque": "barbotina",
+        "spanish": "iz. (Art.) (Eraik.) barbotina"
+    },
+    {
+        "id": 30190,
+        "basque": "Barbuda",
+        "spanish": "Barbuda"
+    },
+    {
+        "id": 30191,
+        "basque": "barbula",
+        "spanish": "iz. (Zool.) barbilla, bárbula"
+    },
+    {
+        "id": 30192,
+        "basque": "Barcelona",
+        "spanish": "Barcelona [Venezuela]"
+    },
+    {
+        "id": 30193,
+        "basque": "barda",
+        "spanish": "iz. rama pequeña, ramilla // adb. (Ipar.) anoche, ayer por la noche"
+    },
+    {
+        "id": 30194,
+        "basque": "barestesia",
+        "spanish": "iz. (Med.) barestesia"
+    },
+    {
+        "id": 30195,
+        "basque": "barga",
+        "spanish": "1 iz. (GN) precipicio, despeñadero // 2 Ik. 1 garba"
+    },
+    {
+        "id": 30196,
+        "basque": "bargasta",
+        "spanish": "1 iz. cerda que está creciendo // 2 izond. [mutilez eta, batez ere, emakumeez] desobediente; rebelde; travieso, -a; descarado, -a"
+    },
+    {
+        "id": 30197,
+        "basque": "Bargota",
+        "spanish": "Bargota"
+    },
+    {
+        "id": 30198,
+        "basque": "baria",
+        "spanish": "iz. (Fis.) baria"
+    },
+    {
+        "id": 30199,
+        "basque": "bariantza",
+        "spanish": "iz. (Mat.) varianza"
+    },
+    {
+        "id": 30200,
+        "basque": "barista",
+        "spanish": "iz. barista"
+    },
+    {
+        "id": 30201,
+        "basque": "barita",
+        "spanish": "iz. (Kim.) barita"
+    },
+    {
+        "id": 30202,
+        "basque": "barizela",
+        "spanish": "iz. (Med.) varicela"
+    },
+    {
+        "id": 30203,
+        "basque": "barka!",
+        "spanish": "perdón, perdone [expresión usual de disculpa]"
+    },
+    {
+        "id": 30204,
+        "basque": "barkarola",
+        "spanish": "iz. (Mus.) barcarola"
+    },
+    {
+        "id": 30205,
+        "basque": "barla",
+        "spanish": "iz. patio; corral"
+    },
+    {
+        "id": 30206,
+        "basque": "barna",
+        "spanish": "1 izond. profundo, -a; interior; íntimo, -a // 2 adb. adentro; profundamente // 3 iz. interior, espíritu, alma, conciencia"
+    },
+    {
+        "id": 30207,
+        "basque": "barne-historia",
+        "spanish": "(Hist.) intrahistoria"
+    },
+    {
+        "id": 30208,
+        "basque": "azpiko/barruko/barneko arropa",
+        "spanish": "1 izlag. inferior, subyacente, de fondo // 2 iz./izlag. subordinado, -a; inferior; súbdito, -a; sirviente; esclavo, -a"
+    },
+    {
+        "id": 30209,
+        "basque": "barne-merkataritza",
+        "spanish": "comercio interior"
+    },
+    {
+        "id": 30210,
+        "basque": "barne-politika",
+        "spanish": "política interior"
+    },
+    {
+        "id": 30211,
+        "basque": "baroisa",
+        "spanish": "iz. baronesa"
+    },
+    {
+        "id": 30212,
+        "basque": "baronesa",
+        "spanish": "Ik. baroisa"
+    },
+    {
+        "id": 30213,
+        "basque": "barra",
+        "spanish": "1 iz. barra; barrote // 2 iz. [tabernakoa] barra, mostrador // 3 iz. [zeinua] pleca, barra vertical // 4 iz. [elikadura-osagarria] barrita // 5 iz. (Geogr.) [hondarra] barra // 6 iz. (Kir.) barra // iz. (G) humor, disposición, estado de ánimo"
+    },
+    {
+        "id": 30214,
+        "basque": "barradera",
+        "spanish": "iz. (Z) dique"
+    },
+    {
+        "id": 30215,
+        "basque": "barraka",
+        "spanish": "1 iz. barraca, caseta // 2 iz. (Heg.) (pl.) ferias // 3 iz. (Z) juego de la palanca // izond. (Ipar.) andrajoso, -a, descuidado, -a"
+    },
+    {
+        "id": 30216,
+        "basque": "barrakuda",
+        "spanish": "iz. (Zool.) barracuda (Sphyraena sp.); espetón (Sphyraena sp.)"
+    },
+    {
+        "id": 30217,
+        "basque": "barre-algara; barre-karkara",
+        "spanish": "(batez ere pl.) carcajada, risa"
+    },
+    {
+        "id": 30218,
+        "basque": "barre-algaraka",
+        "spanish": "a carcajadas"
+    },
+    {
+        "id": 30219,
+        "basque": "barreiatze-bonba",
+        "spanish": "(Arm.) bomba de dispersión/racimo"
+    },
+    {
+        "id": 30220,
+        "basque": "barre(z)ka",
+        "spanish": "iz. risa"
+    },
+    {
+        "id": 30221,
+        "basque": "barrena",
+        "spanish": "postp. (-n barrena edo -tik barrena forman) a través de, por // iz. (Heg.) barrena"
+    },
+    {
+        "id": 30222,
+        "basque": "barrera",
+        "spanish": "1 iz. barrera // 2 iz. (Taurom.) barrera"
+    },
+    {
+        "id": 30223,
+        "basque": "barretina",
+        "spanish": "iz. barretina"
+    },
+    {
+        "id": 30224,
+        "basque": "barrez hesteak bota",
+        "spanish": "caerse/desternillarse/estallar/mearse/mondarse/morirse/partirse de risa; troncharse (de risa); reír(se) a mandíbula batiente"
+    },
+    {
+        "id": 30225,
+        "basque": "barre-zantzoka",
+        "spanish": "a carcajadas"
+    },
+    {
+        "id": 30226,
+        "basque": "barrika",
+        "spanish": "iz. barrica, tonel"
+    },
+    {
+        "id": 30227,
+        "basque": "Barrika",
+        "spanish": "Barrika"
+    },
+    {
+        "id": 30228,
+        "basque": "azpiko/barruko arropa",
+        "spanish": "1 izlag. inferior, subyacente, de fondo // 2 iz./izlag. subordinado, -a; inferior; súbdito, -a; sirviente; esclavo, -a"
+    },
+    {
+        "id": 30229,
+        "basque": "barruko bota",
+        "spanish": "(Kir.) botín"
+    },
+    {
+        "id": 30230,
+        "basque": "barruko gona",
+        "spanish": "combinación, enaguas"
+    },
+    {
+        "id": 30231,
+        "basque": "Barrundia",
+        "spanish": "Barrundia"
+    },
+    {
+        "id": 30232,
+        "basque": "Bartolomea",
+        "spanish": "Bartolomea"
+    },
+    {
+        "id": 30233,
+        "basque": "Bartzelona",
+        "spanish": "Barcelona [Cataluña]"
+    },
+    {
+        "id": 30234,
+        "basque": "baruza",
+        "spanish": "iz. (B) follaje"
+    },
+    {
+        "id": 30235,
+        "basque": "basa",
+        "spanish": "izond. (GN/Ipar.) salvaje; bestial, brutal // iz. barro, cieno, lodo, fango"
+    },
+    {
+        "id": 30236,
+        "basque": "basabizitza",
+        "spanish": "iz. vida silvestre, vida salvaje"
+    },
+    {
+        "id": 30237,
+        "basque": "Basaburua, -a",
+        "spanish": "Basaburua"
+    },
+    {
+        "id": 30238,
+        "basque": "basailora",
+        "spanish": "1 iz. harina de baja calidad // 2 iz. pan elaborado con harina de baja calidad y sin quitar del todo el salvado"
+    },
+    {
+        "id": 30239,
+        "basque": "basailutza",
+        "spanish": "iz. (Hist.) vasallaje, condición de vasallo"
+    },
+    {
+        "id": 30240,
+        "basque": "basaka",
+        "spanish": "1 izond. [fruitua] silvestre // 2 iz. (Bot.) almez (Celtis australis)"
+    },
+    {
+        "id": 30241,
+        "basque": "basamortuko arrosa",
+        "spanish": "(Miner.) rosa del desierto"
+    },
+    {
+        "id": 30242,
+        "basque": "basapiztia",
+        "spanish": "1 iz. [animalia] animal salvaje, bestia, fiera // 2 iz. (hed.) [pertsona] bruto, -a, bestia, animal, salvaje, fiera"
+    },
+    {
+        "id": 30243,
+        "basque": "basara",
+        "spanish": "iz. abono; estiércol"
+    },
+    {
+        "id": 30244,
+        "basque": "basarrosa",
+        "spanish": "iz. (Bot.) rosal silvestre, escaramujo"
+    },
+    {
+        "id": 30245,
+        "basque": "beira-plaka",
+        "spanish": "No encontrada"
+    },
+    {
+        "id": 30246,
+        "basque": "basatipula",
+        "spanish": "iz. cebolla albarrana ➥ astatipula"
+    },
+    {
+        "id": 30247,
+        "basque": "basatxikoria",
+        "spanish": "iz. (Bot.) achicoria silvestre (Cichorium intybus)"
+    },
+    {
+        "id": 30248,
+        "basque": "basatza",
+        "spanish": "iz. (B) lodazal, barrizal, ciénaga"
+    },
+    {
+        "id": 30249,
+        "basque": "basektomia",
+        "spanish": "iz. (Med.) vasectomía"
+    },
+    {
+        "id": 30250,
+        "basque": "baselina",
+        "spanish": "iz. vaselina"
+    },
+    {
+        "id": 30251,
+        "basque": "baseliza",
+        "spanish": "iz. ermita"
+    },
+    {
+        "id": 30252,
+        "basque": "basidiospora",
+        "spanish": "iz. (Mikol.) basidiospora"
+    },
+    {
+        "id": 30253,
+        "basque": "Basilea",
+        "spanish": "Basilea"
+    },
+    {
+        "id": 30254,
+        "basque": "Basilia",
+        "spanish": "Basilia"
+    },
+    {
+        "id": 30255,
+        "basque": "basilika",
+        "spanish": "iz. (Erl.) basílica"
+    },
+    {
+        "id": 30256,
+        "basque": "baska",
+        "spanish": "1 iz. barro, cieno, lodo // 2 iz. chambra, blusa femenina"
+    },
+    {
+        "id": 30257,
+        "basque": "baskoiera",
+        "spanish": "iz. vascónico [lengua]"
+    },
+    {
+        "id": 30258,
+        "basque": "Baskonia",
+        "spanish": "Vasconia"
+    },
+    {
+        "id": 30259,
+        "basque": "baskula",
+        "spanish": "iz. báscula"
+    },
+    {
+        "id": 30260,
+        "basque": "baso-anemona",
+        "spanish": "(Bot.) anémona de bosque (Anemone nemorosa)"
+    },
+    {
+        "id": 30261,
+        "basque": "basoliba",
+        "spanish": "iz. (Bot.) acebuchina"
+    },
+    {
+        "id": 30262,
+        "basque": "basonista",
+        "spanish": "iz. (Mus.) fagotista, fagot"
+    },
+    {
+        "id": 30263,
+        "basque": "basozaintza",
+        "spanish": "iz. vigilancia forestal; conservación de masas forestales"
+    },
+    {
+        "id": 30264,
+        "basque": "basta",
+        "spanish": "iz. albarda; baste; montura, silla de montar // iz. hilván"
+    },
+    {
+        "id": 30265,
+        "basque": "bastanga",
+        "spanish": "iz. (Zool.) pastinaca"
+    },
+    {
+        "id": 30266,
+        "basque": "Bastida",
+        "spanish": "Labastida"
+    },
+    {
+        "id": 30267,
+        "basque": "bastida",
+        "spanish": "iz. fortaleza; plaza fuerte"
+    },
+    {
+        "id": 30268,
+        "basque": "bastiza",
+        "spanish": "iz. (Ipar.) edificio"
+    },
+    {
+        "id": 30269,
+        "basque": "bat bedera",
+        "spanish": "Ik. batbedera"
+    },
+    {
+        "id": 30270,
+        "basque": "bataila",
+        "spanish": "1 iz. batalla // 2 iz. [ibilgailuetan] batalla"
+    },
+    {
+        "id": 30271,
+        "basque": "batak bestea",
+        "spanish": "el uno al otro"
+    },
+    {
+        "id": 30272,
+        "basque": "batata",
+        "spanish": "iz. (Bot.) batata, boniato (Ipomoea batatas)"
+    },
+    {
+        "id": 30273,
+        "basque": "batekoz beste(ra)",
+        "spanish": "1 al revés, a la inversa // 2 al revés, de mala manera, mal"
+    },
+    {
+        "id": 30274,
+        "basque": "batez besteko bizitza",
+        "spanish": "(Fis.) vida media"
+    },
+    {
+        "id": 30275,
+        "basque": "batez besteko soldata",
+        "spanish": "salario medio"
+    },
+    {
+        "id": 30276,
+        "basque": "batimetria",
+        "spanish": "iz. (Geol.) batimetría"
+    },
+    {
+        "id": 30277,
+        "basque": "batista",
+        "spanish": "iz. batista"
+    },
+    {
+        "id": 30278,
+        "basque": "batuta",
+        "spanish": "iz. (Mus.) (Heg.) batuta"
+    },
+    {
+        "id": 30279,
+        "basque": "batza",
+        "spanish": "iz. organización, agrupación, asociación"
+    },
+    {
+        "id": 30280,
+        "basque": "batzordekidetza",
+        "spanish": "iz. vocalía"
+    },
+    {
+        "id": 30281,
+        "basque": "bautista",
+        "spanish": "iz. (maiusk.) Bautista [San Juan]"
+    },
+    {
+        "id": 30282,
+        "basque": "bauxita",
+        "spanish": "iz. (Miner.) bauxita"
+    },
+    {
+        "id": 30283,
+        "basque": "Bavaria",
+        "spanish": "Baviera"
+    },
+    {
+        "id": 30284,
+        "basque": "baxa",
+        "spanish": "1 iz. (B) bajo, bajío, banco de arena // 2 iz. (Z) precipicio; cuesta pronunciada"
+    },
+    {
+        "id": 30285,
+        "basque": "baxera",
+        "spanish": "1 iz. vajilla // 2 iz. cada una de las piezas de la vajilla: vasos, platos, fuentes, etc. // 3 iz. (Ipar.) loza, barro"
+    },
+    {
+        "id": 30286,
+        "basque": "baxura",
+        "spanish": "iz. (Itsas.) (Heg.) bajura"
+    },
+    {
+        "id": 30287,
+        "basque": "baxurako arrantza",
+        "spanish": "(Heg.) pesca de bajura"
+    },
+    {
+        "id": 30288,
+        "basque": "baxurako arrantza",
+        "spanish": "(Heg.) pesca de bajura"
+    },
+    {
+        "id": 30289,
+        "basque": "baza",
+        "spanish": "1 iz. (Heg.) [kartetan] baza // 2 iz. (Heg.) (zah.) batalla // 3 iz. Ik. bazi"
+    },
+    {
+        "id": 30290,
+        "basque": "bazen garaia!",
+        "spanish": "interj. ¡ya era hora!"
+    },
+    {
+        "id": 30291,
+        "basque": "bazina",
+        "spanish": "iz. caldero, olla"
+    },
+    {
+        "id": 30292,
+        "basque": "bazka",
+        "spanish": "1 iz. alimento del ganado; pasto; forraje // 2 iz. alimento, comida"
+    },
+    {
+        "id": 30293,
+        "basque": "bazka-aza",
+        "spanish": "(Bot.) col forrajera"
+    },
+    {
+        "id": 30294,
+        "basque": "bazka-beterraba; zuhain-beterraba",
+        "spanish": "(Bot.) remolacha forrajera"
+    },
+    {
+        "id": 30295,
+        "basque": "bazka-erremolatxa; zuhain-erremolatxa",
+        "spanish": "(Bot.) remolacha forrajera"
+    },
+    {
+        "id": 30296,
+        "basque": "bazkagia",
+        "spanish": "iz. (Z) pastizal, lugar de pasto"
+    },
+    {
+        "id": 30297,
+        "basque": "bazkalgia",
+        "spanish": "iz. (batez ere Ipar.) comedor"
+    },
+    {
+        "id": 30298,
+        "basque": "bazkari-pasada",
+        "spanish": "comida frugal"
+    },
+    {
+        "id": 30299,
+        "basque": "bazkaritara",
+        "spanish": "a comer"
+    },
+    {
+        "id": 30300,
+        "basque": "bazkaritera",
+        "spanish": "a comer"
+    },
+    {
+        "id": 30301,
+        "basque": "bazkidetza",
+        "spanish": "iz. cualidad de socio; membresía"
+    },
+    {
+        "id": 30302,
+        "basque": "baztanera",
+        "spanish": "iz. baztanés [lengua]"
+    },
+    {
+        "id": 30303,
+        "basque": "baztanga",
+        "spanish": "1 iz. (Med.) viruela // 2 iz. (Zool.) Ik. bastanga"
+    },
+    {
+        "id": 30304,
+        "basque": "bazterka",
+        "spanish": "1 adb. (Ipar.) de lado, de costado // 2 adb. (Ipar.) por los bordes; por los rincones"
+    },
+    {
+        "id": 30305,
+        "basque": "bazterrean laga",
+        "spanish": "arrinconar, apartar, marginar, dejar a un lado, dejar de lado; abandonar"
+    },
+    {
+        "id": 30306,
+        "basque": "bazuka",
+        "spanish": "iz. (Arm.) lanzagranadas, bazuca, bazooka"
+    },
+    {
+        "id": 30307,
+        "basque": "beaba",
+        "spanish": "iz. (pl.) abecé"
+    },
+    {
+        "id": 30308,
+        "basque": "beata",
+        "spanish": "1 iz. (Erl.) [dohatsu aitortutako emakumea] beata // 2 iz. mujer que cuida de la iglesia; sacristana // 3 iz. beata, devota"
+    },
+    {
+        "id": 30309,
+        "basque": "Beaufort eskala",
+        "spanish": "(Meteorol.) escala Beaufort"
+    },
+    {
+        "id": 30310,
+        "basque": "bedaxka",
+        "spanish": "iz. mata, arbusto"
+    },
+    {
+        "id": 30311,
+        "basque": "bederatzina",
+        "spanish": "banatz. nueve cada uno, -a, nueve a cada uno, -a"
+    },
+    {
+        "id": 30312,
+        "basque": "bederatzinaka",
+        "spanish": "adb. de nueve en nueve"
+    },
+    {
+        "id": 30313,
+        "basque": "bederatzira",
+        "spanish": "banatz. (Ipar.) nueve cada uno, -a, nueve a cada uno, -a"
+    },
+    {
+        "id": 30314,
+        "basque": "bederatziraka",
+        "spanish": "adb. (GN/Ipar.) de nueve en nueve"
+    },
+    {
+        "id": 30315,
+        "basque": "bederazka",
+        "spanish": "adb. (Ipar.) uno por uno, de uno en uno"
+    },
+    {
+        "id": 30316,
+        "basque": "Bedia",
+        "spanish": "Bedia"
+    },
+    {
+        "id": 30317,
+        "basque": "beeka",
+        "spanish": "1 balando // 2 (Z) balido"
+    },
+    {
+        "id": 30318,
+        "basque": "begigoa",
+        "spanish": "iz. (Ipar.) rencor, odio"
+    },
+    {
+        "id": 30319,
+        "basque": "begikera",
+        "spanish": "iz. mirada, forma de mirar"
+    },
+    {
+        "id": 30320,
+        "basque": "begira",
+        "spanish": "1 adb. (postposizioa osa dezake, -ra begira edo -i begira forman) mirando // 2 adb. (postposizioa osa dezake, -en begira forman) esperando, aguardando // 3 iz. cuidado, atención, vigilancia, protección"
+    },
+    {
+        "id": 30321,
+        "basque": "begira",
+        "spanish": "1 adb. (postposizioa osa dezake, -ra begira edo -i begira forman) mirando // 2 adb. (postposizioa osa dezake, -en begira forman) esperando, aguardando // 3 iz. cuidado, atención, vigilancia, protección"
+    },
+    {
+        "id": 30322,
+        "basque": "begira-begira",
+        "spanish": "mirando de hito en hito, mirando fijamente"
+    },
+    {
+        "id": 30323,
+        "basque": "begiraka",
+        "spanish": "adb. mirando"
+    },
+    {
+        "id": 30324,
+        "basque": "begirantza",
+        "spanish": "iz. respeto; consideración"
+    },
+    {
+        "id": 30325,
+        "basque": "begita",
+        "spanish": "iz. (Itsas.) gaza"
+    },
+    {
+        "id": 30326,
+        "basque": "begonia",
+        "spanish": "iz. (Bot.) begonia (Begonia sp.)"
+    },
+    {
+        "id": 30327,
+        "basque": "behada",
+        "spanish": "iz. (BN/Z) diarrea"
+    },
+    {
+        "id": 30328,
+        "basque": "behaka",
+        "spanish": "adb. (Ipar.) mirando"
+    },
+    {
+        "id": 30329,
+        "basque": "beharbada",
+        "spanish": "adb. acaso, quizá, probablemente, puede (ser) que"
+    },
+    {
+        "id": 30330,
+        "basque": "behaviorista",
+        "spanish": "iz./izond. (Hizkl.) (Psikol.) behaviorista"
+    },
+    {
+        "id": 30331,
+        "basque": "Behe Paleolitoa",
+        "spanish": "Paleolítico Inferior"
+    },
+    {
+        "id": 30332,
+        "basque": "behe-burgesia",
+        "spanish": "pequeña burguesía"
+    },
+    {
+        "id": 30333,
+        "basque": "ad. + ahala",
+        "spanish": "tan pronto como; según, en la medida que, a medida que"
+    },
+    {
+        "id": 30334,
+        "basque": "behe-nafarrera",
+        "spanish": "iz. bajonavarro [dialecto vasco]"
+    },
+    {
+        "id": 30335,
+        "basque": "behera",
+        "spanish": "1 adb. (postposizioa osa dezake, aurreko sintagmak ø, -n, -z edo -tik atzizkia duela) abajo, hacia abajo // 2 interj. abajo // 3 iz./izond. Ik. behere"
+    },
+    {
+        "id": 30336,
+        "basque": "beheraka",
+        "spanish": "adb. hacia abajo; declinando; empeorando"
+    },
+    {
+        "id": 30337,
+        "basque": "behetik gora",
+        "spanish": "de abajo arriba"
+    },
+    {
+        "id": 30338,
+        "basque": "behetik jota",
+        "spanish": "como mínimo, como poco, cuando menos"
+    },
+    {
+        "id": 30339,
+        "basque": "behetria",
+        "spanish": "iz. (Hist.) behetría"
+    },
+    {
+        "id": 30340,
+        "basque": "behi-azienda",
+        "spanish": "(Zool.) ganado bovino/vacuno"
+    },
+    {
+        "id": 30341,
+        "basque": "behingotik behingora",
+        "spanish": "de vez en cuando"
+    },
+    {
+        "id": 30342,
+        "basque": "behi-tenia",
+        "spanish": "(Zool.) tenia inerme (Taenia saginata)"
+    },
+    {
+        "id": 30343,
+        "basque": "behi-tenia",
+        "spanish": "(Zool.) tenia inerme (Taenia saginata)"
+    },
+    {
+        "id": 30344,
+        "basque": "behoka",
+        "spanish": "iz. potra, potranca"
+    },
+    {
+        "id": 30345,
+        "basque": "beilexka",
+        "spanish": "izond. (B) amarillento, -a"
+    },
+    {
+        "id": 30346,
+        "basque": "beira-arasa",
+        "spanish": "vitrina"
+    },
+    {
+        "id": 30347,
+        "basque": "beirakara",
+        "spanish": "izond. vítreo, -a"
+    },
+    {
+        "id": 30348,
+        "basque": "ad. + ahala(k)",
+        "spanish": "todo lo que se pueda"
+    },
+    {
+        "id": 30349,
+        "basque": "beita",
+        "spanish": "iz. cebo para pescar, carnada"
+    },
+    {
+        "id": 30350,
+        "basque": "Beizama",
+        "spanish": "Beizama"
+    },
+    {
+        "id": 30351,
+        "basque": "beka",
+        "spanish": "iz. (Heg.) beca"
+    },
+    {
+        "id": 30352,
+        "basque": "bekatu mortala bezain itsusia",
+        "spanish": "feo como un pecado (mortal); más feo que un pecado (mortal)"
+    },
+    {
+        "id": 30353,
+        "basque": "bela",
+        "spanish": "1 iz. [haize-oihala] vela // 2 iz. [kirola] vela // 3 iz. Ik. belo // 4 iz. [haize-oihalen multzoa] velamen; trapío"
+    },
+    {
+        "id": 30354,
+        "basque": "belagilegoa",
+        "spanish": "iz. brujería"
+    },
+    {
+        "id": 30355,
+        "basque": "bela-hedadura; bela-zabalera",
+        "spanish": "(Itsas.) envergadura"
+    },
+    {
+        "id": 30356,
+        "basque": "belamika",
+        "spanish": "iz. corneja negra ➥ belabeltz"
+    },
+    {
+        "id": 30357,
+        "basque": "belar-denda",
+        "spanish": "herbolario, herboristería"
+    },
+    {
+        "id": 30358,
+        "basque": "belarka",
+        "spanish": "iz. siega [de hierba]; recogida del heno"
+    },
+    {
+        "id": 30359,
+        "basque": "belarkara",
+        "spanish": "izond. (Bot.) herbáceo, -a"
+    },
+    {
+        "id": 30360,
+        "basque": "belar-meta",
+        "spanish": "almiar"
+    },
+    {
+        "id": 30361,
+        "basque": "belarra jorratu eta artoa sasira bota",
+        "spanish": "hacer algo al revés"
+    },
+    {
+        "id": 30362,
+        "basque": "belarreria",
+        "spanish": "iz. (Ipar.) hierbas; verdura(s)"
+    },
+    {
+        "id": 30363,
+        "basque": "belarretara",
+        "spanish": "(joan) a cortar hierba, a la siega del heno"
+    },
+    {
+        "id": 30364,
+        "basque": "belarrondokoka",
+        "spanish": "adb. a bofetadas, a tortas"
+    },
+    {
+        "id": 30365,
+        "basque": "belatxinga",
+        "spanish": "iz. (Zool.) chova"
+    },
+    {
+        "id": 30366,
+        "basque": "belaxaga",
+        "spanish": "iz. (Zool.) graja (Corvus frugilegus)"
+    },
+    {
+        "id": 30367,
+        "basque": "belaxka",
+        "spanish": "izond. blando, -a, blandengue; fofo, -a; flojo, -a; sin energía"
+    },
+    {
+        "id": 30368,
+        "basque": "beldur-ikara",
+        "spanish": "miedo, espanto, terror"
+    },
+    {
+        "id": 30369,
+        "basque": "beldurrezko zinema",
+        "spanish": "cine de terror"
+    },
+    {
+        "id": 30370,
+        "basque": "belena",
+        "spanish": "iz. (batez ere GN) paso estrecho entre casas; callejón, pasadizo"
+    },
+    {
+        "id": 30371,
+        "basque": "beleta",
+        "spanish": "iz. veleta // iz. (G) acelga ➥ zerba"
+    },
+    {
+        "id": 30372,
+        "basque": "Belgika",
+        "spanish": "Bélgica"
+    },
+    {
+        "id": 30373,
+        "basque": "belguntza",
+        "spanish": "iz. misión; catequesis"
+    },
+    {
+        "id": 30374,
+        "basque": "beligerantzia",
+        "spanish": "iz. beligerancia"
+    },
+    {
+        "id": 30375,
+        "basque": "belizista",
+        "spanish": "iz./izond. belicista"
+    },
+    {
+        "id": 30376,
+        "basque": "belladonna",
+        "spanish": "iz. (Bot.) belladona (Atropa bella-donna)"
+    },
+    {
+        "id": 30377,
+        "basque": "albiste-agentzia; berri-agentzia",
+        "spanish": "agencia de noticias/prensa/información"
+    },
+    {
+        "id": 30378,
+        "basque": "arestion",
+        "spanish": "hace poco, no hace mucho, poco antes"
+    },
 ];
